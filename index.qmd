@@ -1,0 +1,22 @@
+---
+title: "IS428 <insert title>"
+---
+
+# Welcome to our Visual Analytics Project
+
+Welcome! This website is a dedicated platform for **IS428 Visual Analytics for Business Intelligence**. Our team is...
+
+## Our Mission
+...
+
+## Project Deliverables
+Throughout this semester, we will be updating this site with:
+* **Interactive Dashboards:** Visualizing scam frequencies and financial impacts.
+* **Predictive Models:** Using time-series analysis to forecast future threats.
+* **Methodology & Documentation:** Detailed walkthroughs of our data cleaning and design processes.
+
+## Team Members
+* **Choo Yi Ning** – School of Computing and Information Systems (SCIS)
+* **Saanvi Madan** – School of Economics (SOE)
+
+---

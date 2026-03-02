@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "IS428_Project"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - proposal.qmd
+      - minutes.qmd
+      - about.qmd
+    right:
+      - icon: github
+        href: https://github.com/cakemerc01/IS428_G2_VA-Project
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+

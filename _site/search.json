@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "proposal.html",
+    "href": "proposal.html",
+    "title": "Project Proposal",
+    "section": "",
+    "text": "Project Motivation\ninsert overview\n\n\nProblem Statement\ninsert problem\n\n\nData Source\nWe are utilizing datasets from…\n\n\nProposed Methodology & Tools\nWe will adopt…"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "IS428 ",
+    "section": "",
+    "text": "Welcome! This website is a dedicated platform for IS428 Visual Analytics for Business Intelligence. Our team is…\n\n\n…\n\n\n\nThroughout this semester, we will be updating this site with: * Interactive Dashboards: Visualizing scam frequencies and financial impacts. * Predictive Models: Using time-series analysis to forecast future threats. * Methodology & Documentation: Detailed walkthroughs of our data cleaning and design processes.\n\n\n\n\nChoo Yi Ning – School of Computing and Information Systems (SCIS)\nSaanvi Madan – School of Economics (SOE)"
+  },
+  {
+    "objectID": "index.html#our-mission",
+    "href": "index.html#our-mission",
+    "title": "IS428 ",
+    "section": "",
+    "text": "…"
+  },
+  {
+    "objectID": "index.html#project-deliverables",
+    "href": "index.html#project-deliverables",
+    "title": "IS428 ",
+    "section": "",
+    "text": "Throughout this semester, we will be updating this site with: * Interactive Dashboards: Visualizing scam frequencies and financial impacts. * Predictive Models: Using time-series analysis to forecast future threats. * Methodology & Documentation: Detailed walkthroughs of our data cleaning and design processes."
+  },
+  {
+    "objectID": "index.html#team-members",
+    "href": "index.html#team-members",
+    "title": "IS428 ",
+    "section": "",
+    "text": "Choo Yi Ning – School of Computing and Information Systems (SCIS)\nSaanvi Madan – School of Economics (SOE)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "minutes.html",
+    "href": "minutes.html",
+    "title": "Meeting Minutes",
+    "section": "",
+    "text": "This page serves as a comprehensive record of our team’s progress, decisions, and action items throughout the semester.\n\n\n\nDate: 2 March 2026\nTime: 10:15 AM – 10:30 AM Location: Virtual Attendees: Choo Yi Ning, Saanvi Madan\n\n\n\nDiscuss Proposal\nSet up the Quarto website environment.\n\n\n\n\n…\n\n\n\n\n\n\nTask\nAssigned To\nStatus\n\n\n\n\nSet up website\nYi Ning\nCompleted"
+  },
+  {
+    "objectID": "minutes.html#meeting-1",
+    "href": "minutes.html#meeting-1",
+    "title": "Meeting Minutes",
+    "section": "",
+    "text": "Date: 2 March 2026\nTime: 10:15 AM – 10:30 AM Location: Virtual Attendees: Choo Yi Ning, Saanvi Madan\n\n\n\nDiscuss Proposal\nSet up the Quarto website environment.\n\n\n\n\n…\n\n\n\n\n\n\nTask\nAssigned To\nStatus\n\n\n\n\nSet up website\nYi Ning\nCompleted"
+  }
+]

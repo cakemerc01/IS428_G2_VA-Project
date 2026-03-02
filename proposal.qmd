@@ -1,0 +1,17 @@
+---
+title: "Project Proposal"
+date: "March 2, 2026"
+date-modified: last-modified
+---
+
+# Project Motivation
+insert overview
+
+# Problem Statement
+insert problem
+
+# Data Source
+We are utilizing datasets from...
+
+# Proposed Methodology & Tools
+We will adopt...

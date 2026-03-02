@@ -1,0 +1,31 @@
+---
+title: "Meeting Minutes"
+date: "March 2, 2026"
+date-modified: last-modified
+---
+
+# Project Log & Minutes
+
+This page serves as a comprehensive record of our team's progress, decisions, and action items throughout the semester.
+
+---
+
+## Meeting 1
+**Date:** 2 March 2026  
+**Time:** 10:15 AM – 10:30 AM
+**Location:** Virtual
+**Attendees:** Choo Yi Ning, Saanvi Madan
+
+### Agenda
+1. Discuss Proposal
+3. Set up the Quarto website environment.
+
+### Discussion Points
+...
+
+### Action Items
+| Task | Assigned To | Status |
+|------|------------|--------|
+| Set up website | Yi Ning | Completed |
+
+---
