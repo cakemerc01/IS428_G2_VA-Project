@@ -4,16 +4,16 @@ title: "IS428 <insert title>"
 
 # Welcome to our Visual Analytics Project
 
-Welcome! This website is a dedicated platform for **IS428 Visual Analytics for Business Intelligence**. Our team is...
+Welcome! This website is the official documentation for our project under **IS428 Visual Analytics for Business Intelligence**. Our team is dedicated to transforming raw public safety data into actionable insights through interactive visualization.
 
-## Our Mission
-...
+## Introduction
+Our goal is to uncover hidden trends in criminal activity by bridging the gap between technical data science and economic impact analysis. We aim to identify spatial and temporal hotspots to better understand the drivers of public safety.
 
 ## Project Deliverables
-Throughout this semester, we will be updating this site with:
-* **Interactive Dashboards:** Visualizing scam frequencies and financial impacts.
-* **Predictive Models:** Using time-series analysis to forecast future threats.
-* **Methodology & Documentation:** Detailed walkthroughs of our data cleaning and design processes.
+Throughout this semester, we will update this site with:
+* **Interactive Dashboards:** Exploring crime distributions across geography and demographics.
+* **Trend Analysis:** Identifying seasonal and long-term shifts in various offense categories.
+* **Methodology & Documentation:** Comprehensive records of our data wrangling and visualization design choices.
 
 ## Team Members
 * **Choo Yi Ning** – School of Computing and Information Systems (SCIS)

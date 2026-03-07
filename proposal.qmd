@@ -5,13 +5,25 @@ date-modified: last-modified
 ---
 
 # Project Motivation
-insert overview
+Public safety and crime statistics are foundational to understanding the social fabric of any region. However, these figures are often released as dense, multi-page reports that make it difficult to see the "big picture." While raw numbers can tell us how many arrests occurred, they rarely communicate the distribution of those arrests across different demographics and offense types in a clear, accessible way.
+
+This project is driven by the need to bridge the gap between complex tabular data and meaningful insights. By transforming static FBI reports into interactive visualizations, we aim to move beyond simple totals. This approach allows for a clearer exploration of how different communities interact with the legal system across a wide range of offense categories.
 
 # Problem Statement
-insert problem
+The primary challenge in analyzing public safety data is the scale and structural complexity of official reporting. Currently, two major hurdles prevent clear interpretation:
+
+1. A single dataset often contains dozens of offense types intersected with multiple demographic categories, leading to cognitive overload for the viewer.
+2. It is difficult to compare groups of varying sizes using raw counts alone. Without visual normalization, it is hard to identify if specific demographics are experiencing a disproportionate number of arrests for certain crime types compared to the population average.
 
 # Data Source
-We are utilizing datasets from...
+We are utilizing datasets from the following sources:
+
+* **[FBI Crime Data Explorer](https://cde.ucr.cjis.gov/LATEST/webapp/#)**
+* **[Data.gov](https://catalog.data.gov/dataset/?tags=crime&_tags_limit=0)**
 
 # Proposed Methodology & Tools
-We will adopt...
+Our approach to the project is divided into three main phases:
+
+* **Data Cleaning:** We will use **Tableau** and **Python** to process and restructure the raw datasets, ensuring they are in a tidy format suitable for analysis.
+* **Data Exploration:** We will explore the datasets using **Tableau** and **Python** to identify key trends, outliers, and initial patterns.
+* **Data Visualization:** We will create interactive charts and final visualizations using **Tableau** to effectively communicate our findings.

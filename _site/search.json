@@ -4,28 +4,28 @@
     "href": "proposal.html",
     "title": "Project Proposal",
     "section": "",
-    "text": "Project Motivation\ninsert overview\n\n\nProblem Statement\ninsert problem\n\n\nData Source\nWe are utilizing datasets from…\n\n\nProposed Methodology & Tools\nWe will adopt…"
+    "text": "Project Motivation\nPublic safety and crime statistics are foundational to understanding the social fabric of any region. However, these figures are often released as dense, multi-page reports that make it difficult to see the “big picture.” While raw numbers can tell us how many arrests occurred, they rarely communicate the distribution of those arrests across different demographics and offense types in a clear, accessible way.\nThis project is driven by the need to bridge the gap between complex tabular data and meaningful insights. By transforming static FBI reports into interactive visualizations, we aim to move beyond simple totals. This approach allows for a clearer exploration of how different communities interact with the legal system across a wide range of offense categories.\n\n\nProblem Statement\nThe primary challenge in analyzing public safety data is the scale and structural complexity of official reporting. Currently, two major hurdles prevent clear interpretation:\n\nA single dataset often contains dozens of offense types intersected with multiple demographic categories, leading to cognitive overload for the viewer.\nIt is difficult to compare groups of varying sizes using raw counts alone. Without visual normalization, it is hard to identify if specific demographics are experiencing a disproportionate number of arrests for certain crime types compared to the population average.\n\n\n\nData Source\nWe are utilizing datasets from the following sources:\n\nFBI Crime Data Explorer:\nData.gov:\n\n\n\nProposed Methodology & Tools\nOur approach to the project is divided into three main phases:\n\nData Cleaning: We will use Tableau and Python to process and restructure the raw datasets, ensuring they are in a tidy format suitable for analysis.\nData Exploration: We will explore the datasets using Tableau and Python to identify key trends, outliers, and initial patterns.\nData Visualization: We will create interactive charts and final visualizations using Tableau to effectively communicate our findings."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "IS428 ",
     "section": "",
-    "text": "Welcome! This website is a dedicated platform for IS428 Visual Analytics for Business Intelligence. Our team is…\n\n\n…\n\n\n\nThroughout this semester, we will be updating this site with: * Interactive Dashboards: Visualizing scam frequencies and financial impacts. * Predictive Models: Using time-series analysis to forecast future threats. * Methodology & Documentation: Detailed walkthroughs of our data cleaning and design processes.\n\n\n\n\nChoo Yi Ning – School of Computing and Information Systems (SCIS)\nSaanvi Madan – School of Economics (SOE)"
+    "text": "Welcome! This website is the official documentation for our project under IS428 Visual Analytics for Business Intelligence. Our team is dedicated to transforming raw public safety data into actionable insights through interactive visualization.\n\n\nOur goal is to uncover hidden trends in criminal activity by bridging the gap between technical data science and economic impact analysis. We aim to identify spatial and temporal hotspots to better understand the drivers of public safety.\n\n\n\nThroughout this semester, we will update this site with: * Interactive Dashboards: Exploring crime distributions across geography and demographics. * Trend Analysis: Identifying seasonal and long-term shifts in various offense categories. * Methodology & Documentation: Comprehensive records of our data wrangling and visualization design choices.\n\n\n\n\nChoo Yi Ning – School of Computing and Information Systems (SCIS)\nSaanvi Madan – School of Economics (SOE)"
   },
   {
-    "objectID": "index.html#our-mission",
-    "href": "index.html#our-mission",
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
     "title": "IS428 ",
     "section": "",
-    "text": "…"
+    "text": "Our goal is to uncover hidden trends in criminal activity by bridging the gap between technical data science and economic impact analysis. We aim to identify spatial and temporal hotspots to better understand the drivers of public safety."
   },
   {
     "objectID": "index.html#project-deliverables",
     "href": "index.html#project-deliverables",
     "title": "IS428 ",
     "section": "",
-    "text": "Throughout this semester, we will be updating this site with: * Interactive Dashboards: Visualizing scam frequencies and financial impacts. * Predictive Models: Using time-series analysis to forecast future threats. * Methodology & Documentation: Detailed walkthroughs of our data cleaning and design processes."
+    "text": "Throughout this semester, we will update this site with: * Interactive Dashboards: Exploring crime distributions across geography and demographics. * Trend Analysis: Identifying seasonal and long-term shifts in various offense categories. * Methodology & Documentation: Comprehensive records of our data wrangling and visualization design choices."
   },
   {
     "objectID": "index.html#team-members",
