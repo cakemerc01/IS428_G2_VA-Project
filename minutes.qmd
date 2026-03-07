@@ -11,17 +11,17 @@ This page serves as a comprehensive record of our team's progress, decisions, an
 ---
 
 ## Meeting 1
-**Date:** 2 March 2026  
-**Time:** 10:15 AM – 10:30 AM
-**Location:** Virtual
-**Attendees:** Choo Yi Ning, Saanvi Madan
+* **Date:** March 2, 2026 
+* **Time:** 10:15 AM - 10:30 AM
+* **Location:** Virtual
+* **Attendees:** Yi Ning and Saanvi
 
 ### Agenda
-1. Discuss Proposal
-3. Set up the Quarto website environment.
+1. Project kickoff
 
 ### Discussion Points
-...
+1. Brainstorm ideas while we wait for project topic to be released
+2. Get started with quarto and netlify
 
 ### Action Items
 | Task | Assigned To | Status |

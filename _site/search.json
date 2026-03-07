@@ -11,14 +11,14 @@
     "href": "index.html",
     "title": "IS428 ",
     "section": "",
-    "text": "Welcome! This website is the official documentation for our project under IS428 Visual Analytics for Business Intelligence. Our team is dedicated to transforming raw public safety data into actionable insights through interactive visualization.\n\n\nOur goal is to uncover hidden trends in criminal activity by bridging the gap between technical data science and economic impact analysis. We aim to identify spatial and temporal hotspots to better understand the drivers of public safety.\n\n\n\nThroughout this semester, we will update this site with: * Interactive Dashboards: Exploring crime distributions across geography and demographics. * Trend Analysis: Identifying seasonal and long-term shifts in various offense categories. * Methodology & Documentation: Comprehensive records of our data wrangling and visualization design choices.\n\n\n\n\nChoo Yi Ning – School of Computing and Information Systems (SCIS)\nSaanvi Madan – School of Economics (SOE)"
+    "text": "Welcome! We are a group of students from Singapore Management University (SMU) currently enrolled in IS428: Visual Analytics for Business Intelligence.\n\n\nOur team is dedicated to transforming raw data into insights through interactive visualization. This website serves as the official documentation for our project under IS428 Visual Analytics for Business Intelligence.\n\n\n\nThroughout this semester, we will update this site with: * Interactive Dashboards: Exploring crime distributions across geography and demographics. * Trend Analysis: Identifying seasonal and long-term shifts in various offense categories. * Methodology & Documentation: Comprehensive records of our data wrangling and visualization design choices.\n\n\n\n\nChoo Yi Ning – School of Computing and Information Systems (SCIS)\nSaanvi Madan – School of Economics (SOE)"
   },
   {
     "objectID": "index.html#introduction",
     "href": "index.html#introduction",
     "title": "IS428 ",
     "section": "",
-    "text": "Our goal is to uncover hidden trends in criminal activity by bridging the gap between technical data science and economic impact analysis. We aim to identify spatial and temporal hotspots to better understand the drivers of public safety."
+    "text": "Our team is dedicated to transforming raw data into insights through interactive visualization. This website serves as the official documentation for our project under IS428 Visual Analytics for Business Intelligence."
   },
   {
     "objectID": "index.html#project-deliverables",
@@ -46,13 +46,13 @@
     "href": "minutes.html",
     "title": "Meeting Minutes",
     "section": "",
-    "text": "This page serves as a comprehensive record of our team’s progress, decisions, and action items throughout the semester.\n\n\n\nDate: 2 March 2026\nTime: 10:15 AM – 10:30 AM Location: Virtual Attendees: Choo Yi Ning, Saanvi Madan\n\n\n\nDiscuss Proposal\nSet up the Quarto website environment.\n\n\n\n\n…\n\n\n\n\n\n\nTask\nAssigned To\nStatus\n\n\n\n\nSet up website\nYi Ning\nCompleted"
+    "text": "This page serves as a comprehensive record of our team’s progress, decisions, and action items throughout the semester.\n\n\n\n\nDate: March 2, 2026\nTime: 10:15 AM - 10:30 AM\nLocation: Virtual\nAttendees: Yi Ning and Saanvi\n\n\n\n\nProject kickoff\n\n\n\n\n\nBrainstorm ideas while we wait for project topic to be released\nGet started with quarto and netlify\n\n\n\n\n\n\n\nTask\nAssigned To\nStatus\n\n\n\n\nSet up website\nYi Ning\nCompleted"
   },
   {
     "objectID": "minutes.html#meeting-1",
     "href": "minutes.html#meeting-1",
     "title": "Meeting Minutes",
     "section": "",
-    "text": "Date: 2 March 2026\nTime: 10:15 AM – 10:30 AM Location: Virtual Attendees: Choo Yi Ning, Saanvi Madan\n\n\n\nDiscuss Proposal\nSet up the Quarto website environment.\n\n\n\n\n…\n\n\n\n\n\n\nTask\nAssigned To\nStatus\n\n\n\n\nSet up website\nYi Ning\nCompleted"
+    "text": "Date: March 2, 2026\nTime: 10:15 AM - 10:30 AM\nLocation: Virtual\nAttendees: Yi Ning and Saanvi\n\n\n\n\nProject kickoff\n\n\n\n\n\nBrainstorm ideas while we wait for project topic to be released\nGet started with quarto and netlify\n\n\n\n\n\n\n\nTask\nAssigned To\nStatus\n\n\n\n\nSet up website\nYi Ning\nCompleted"
   }
 ]
