@@ -28,6 +28,6 @@ This page serves as a comprehensive record of our team's progress, decisions, an
 |------|------------|--------|
 | Set up website | Yi Ning | Completed |
 
+---
 
 ## Meeting 2
----
