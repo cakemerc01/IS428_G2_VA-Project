@@ -30,4 +30,4 @@ Our approach to the project is divided into three main phases:
 
 
 # Project Timeline
-[![ ](timeline.png){fig-align="left"}](https://docs.google.com/spreadsheets/d/e/2PACX-1vQiuRCJoEcqpmmGWsKQ6xstGcT7NOfFdldVl7IZK2V5Mc8s9eqrsIseAn3jqgqsomT30BmdB2neR8d0/pubhtml?gid=61476997&single=true)
+[![ ](Images/timeline.png){fig-align="left"}](https://docs.google.com/spreadsheets/d/e/2PACX-1vQiuRCJoEcqpmmGWsKQ6xstGcT7NOfFdldVl7IZK2V5Mc8s9eqrsIseAn3jqgqsomT30BmdB2neR8d0/pubhtml?gid=61476997&single=true)
