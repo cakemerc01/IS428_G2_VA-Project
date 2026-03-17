@@ -27,3 +27,7 @@ Our approach to the project is divided into three main phases:
 * **Data Cleaning:** We will use **Tableau** and **Python** to process and restructure the raw datasets, ensuring they are in a tidy format suitable for analysis.
 * **Data Exploration:** We will explore the datasets using **Tableau** and **Python** to identify key trends, outliers, and initial patterns.
 * **Data Visualization:** We will create interactive charts and final visualizations using **Tableau** to effectively communicate our findings.
+
+
+# Project Timeline
+[![ ](timeline.png){fig-align="left"}](https://docs.google.com/spreadsheets/d/e/2PACX-1vQiuRCJoEcqpmmGWsKQ6xstGcT7NOfFdldVl7IZK2V5Mc8s9eqrsIseAn3jqgqsomT30BmdB2neR8d0/pubhtml?gid=61476997&single=true)
