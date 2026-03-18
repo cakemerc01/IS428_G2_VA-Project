@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.27">
+<meta name="generator" content="quarto-1.9.35">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -10,6 +10,9 @@
 
 <title>Project Proposal – IS428_Project</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -33,15 +36,14 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-46f66b053e56abd73bb6e954d61a315b.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-e31584831b205ffbb2d98406f31c2a5b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -131,9 +133,8 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#project-motivation" id="toc-project-motivation" class="nav-link active" data-scroll-target="#project-motivation">Project Motivation</a></li>
-  <li><a href="#problem-statement" id="toc-problem-statement" class="nav-link" data-scroll-target="#problem-statement">Problem Statement</a></li>
-  <li><a href="#data-source" id="toc-data-source" class="nav-link" data-scroll-target="#data-source">Data Source</a></li>
-  <li><a href="#proposed-methodology-tools" id="toc-proposed-methodology-tools" class="nav-link" data-scroll-target="#proposed-methodology-tools">Proposed Methodology &amp; Tools</a></li>
+  <li><a href="#project-objectives" id="toc-project-objectives" class="nav-link" data-scroll-target="#project-objectives">Project Objectives</a></li>
+  <li><a href="#scope-of-work" id="toc-scope-of-work" class="nav-link" data-scroll-target="#scope-of-work">Scope of Work:</a></li>
   <li><a href="#project-timeline" id="toc-project-timeline" class="nav-link" data-scroll-target="#project-timeline">Project Timeline</a></li>
   </ul>
 </nav>
@@ -161,7 +162,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Modified</div>
     <div class="quarto-title-meta-contents">
-      <p class="date-modified">March 17, 2026</p>
+      <p class="date-modified">March 18, 2026</p>
     </div>
   </div>
     
@@ -174,33 +175,109 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="project-motivation" class="level1">
 <h1>Project Motivation</h1>
-<p>Public safety and crime statistics are foundational to understanding the social fabric of any region. However, these figures are often released as dense, multi-page reports that make it difficult to see the “big picture.” While raw numbers can tell us how many arrests occurred, they rarely communicate the distribution of those arrests across different demographics and offense types in a clear, accessible way.</p>
-<p>This project is driven by the need to bridge the gap between complex tabular data and meaningful insights. By transforming static FBI reports into interactive visualizations, we aim to move beyond simple totals. This approach allows for a clearer exploration of how different communities interact with the legal system across a wide range of offense categories.</p>
+<p>The rise of Sailor Shift from a local Oceanus Folk artist to a global music icon has transformed both the perception of Oceanus Folk and the cultural and economic landscape of Oceanus. What was once a niche, regionally confined genre has evolved into an internationally recognized musical movement, influencing diverse genres and artists worldwide. This transformation has not only elevated lesser-known artists but also contributed to increased tourism and global cultural interest in Oceanus.</p>
+<p>Despite this growth, there is limited structured understanding of how Sailor’s career, collaborations, and artistic evolution have shaped the broader music ecosystem. By leveraging a rich knowledge graph of artists, songs, albums, and influences, this project aims to uncover hidden patterns, trace influence pathways, and provide data-driven insights into the evolution of Oceanus Folk and its global impact.</p>
+<p>Ultimately, the motivation is to support storytelling for the journalist Silas Reed through compelling visual analytics, while deepening understanding of how individual artists can drive genre evolution and industry-wide change.</p>
 </section>
-<section id="problem-statement" class="level1">
-<h1>Problem Statement</h1>
-<p>The primary challenge in analyzing public safety data is the scale and structural complexity of official reporting. Currently, two major hurdles prevent clear interpretation:</p>
+<section id="project-objectives" class="level1">
+<h1>Project Objectives</h1>
+<p>The objectives of this project are centred on uncovering and visualising the evolution of Sailor Shift’s career and the broader impact of Oceanus Folk on the global music landscape. By leveraging a comprehensive knowledge graph of artists, songs, albums, and influences, the project aims to analyse patterns of collaboration, trace the flow of musical influence, and understand how individual success can shape an entire genre. Through interactive visualisations and comparative analysis, the project will not only explore the spread and transformation of Oceanus Folk over time but also identify key characteristics of rising artists and generate data-driven predictions about the next wave of talent in the industry.</p>
 <ol type="1">
-<li>A single dataset often contains dozens of offense types intersected with multiple demographic categories, leading to cognitive overload for the viewer.</li>
-<li>It is difficult to compare groups of varying sizes using raw counts alone. Without visual normalization, it is hard to identify if specific demographics are experiencing a disproportionate number of arrests for certain crime types compared to the population average.</li>
+<li>Analyse Sailor Shift’s Career and Influence</li>
 </ol>
-</section>
-<section id="data-source" class="level1">
-<h1>Data Source</h1>
-<p>We are utilizing datasets from the following sources:</p>
 <ul>
-<li><strong><a href="https://cde.ucr.cjis.gov/LATEST/webapp/#">FBI Crime Data Explorer</a></strong></li>
-<li><strong><a href="https://catalog.data.gov/dataset/?tags=crime&amp;_tags_limit=0">Data.gov</a></strong></li>
+<li>Identify key artists and genres that have influenced Sailor over time</li>
+<li>Map her collaborations and determine both direct and indirect influence networks</li>
+<li>Examine how her artistic evolution reflects broader industry trends</li>
+</ul>
+<ol start="2" type="1">
+<li>Understand Influence Propagation</li>
+</ol>
+<ul>
+<li>Visualise how Sailor Shift has influenced: her collaborators, former bandmates. the wider Oceanus Folk community</li>
+<li>Trace influence pathways across artists, genres, and time</li>
+</ul>
+<ol start="3" type="1">
+<li>Explore the Evolution of Oceanus Folk</li>
+</ol>
+<ul>
+<li>Analyse how Oceanus Folk has spread globally</li>
+<li>Determine whether its growth was gradual or driven by key breakthrough moments (e.g., viral success)</li>
+<li>Identify genres and leading artists most impacted by Oceanus Folk</li>
+</ul>
+<ol start="4" type="1">
+<li>Examine Reverse Influence on Oceanus Folk</li>
+</ol>
+<ul>
+<li>Investigate how Oceanus Folk has evolved in response to global exposure</li>
+<li>Identify external genres that now influence modern Oceanus Folk</li>
+<li>Highlight shifts in musical style and collaboration patterns</li>
+</ul>
+<ol start="5" type="1">
+<li>Develop Artist Success Profiles</li>
+</ol>
+<ul>
+<li>Use visual analytics to define characteristics of a “rising star” in the music industry Identify patterns in career trajectories, collaboration networks, and genre diversification</li>
+</ul>
+<ol start="6" type="1">
+<li>Comparative Artist Analysis</li>
+</ol>
+<ul>
+<li>Select and visualise the careers of three artists</li>
+<li>Compare their growth in popularity, influence networks, and career milestones</li>
+<li>Highlight similarities and differences in success pathways</li>
+</ul>
+<ol start="7" type="1">
+<li>Predict Future Oceanus Folk Stars</li>
+</ol>
+<ul>
+<li>Apply insights from influence patterns and success profiles</li>
+<li>Identify and justify three emerging artists likely to rise in the next five years</li>
+</ul>
+<ol start="8" type="1">
+<li>Build Visual Analytics Tools</li>
+</ol>
+<ul>
+<li>Design interactive visualisations</li>
+<li>Enable intuitive exploration of artist relationships, influence flows and genre evolution</li>
 </ul>
 </section>
-<section id="proposed-methodology-tools" class="level1">
-<h1>Proposed Methodology &amp; Tools</h1>
-<p>Our approach to the project is divided into three main phases:</p>
+<section id="scope-of-work" class="level1">
+<h1>Scope of Work:</h1>
+<ol type="1">
+<li>Data Preparation</li>
+</ol>
 <ul>
-<li><strong>Data Cleaning:</strong> We will use <strong>Tableau</strong> and <strong>Python</strong> to process and restructure the raw datasets, ensuring they are in a tidy format suitable for analysis.</li>
-<li><strong>Data Exploration:</strong> We will explore the datasets using <strong>Tableau</strong> and <strong>Python</strong> to identify key trends, outliers, and initial patterns.</li>
-<li><strong>Data Visualization:</strong> We will create interactive charts and final visualizations using <strong>Tableau</strong> to effectively communicate our findings.</li>
+<li>Clean, preprocess, and structure the knowledge graph dataset, ensuring consistency across entities such as artists, albums, songs, genres, and influence relationships.</li>
 </ul>
+<ol start="2" type="1">
+<li>Data Analysis</li>
+</ol>
+<ul>
+<li>Conduct initial analysis to identify key patterns, trends, and relationships in artist influence, collaborations, comparative artist analysis and genre evolution.</li>
+</ul>
+<ol start="3" type="1">
+<li>Influence and Network Analysis</li>
+</ol>
+<ul>
+<li>Map and analyse direct and indirect influence pathways between artists, including Sailor Shift’s role within the broader music ecosystem.</li>
+</ul>
+<ol start="4" type="1">
+<li>Data Visualisation and Analytics</li>
+</ol>
+<ul>
+<li>Creation of interactive charts and visualisations to effectively communicate our findings and analysis.</li>
+</ul>
+<ol start="5" type="1">
+<li>Create a User Guide</li>
+</ol>
+<ul>
+<li>A step-by-step guide on how to use the data visualisation functions is designed.</li>
+</ul>
+<ol start="6" type="1">
+<li><p>Preparing project poster</p></li>
+<li><p>Publish project webpage.</p></li>
+</ol>
 </section>
 <section id="project-timeline" class="level1">
 <h1>Project Timeline</h1>
