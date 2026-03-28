@@ -1,0 +1,16 @@
+Edge Type,source,target,key,Node Type_source,name_source,single_source,release_date_source,genre_source,notable_source,id_source,written_date_source,stage_name_source,notoriety_date_source,Node Type_target,name_target,single_target,release_date_target,genre_target,notable_target,id_target,written_date_target,stage_name_target,notoriety_date_target,Artist
+InStyleOf,17273,3881,0,Album,Salty Dreams,,2030.0,Oceanus Folk,True,17273,2029.0,,,Song,Susurros de Pasión,True,2004.0,Synthwave,True,3881,,,2004.0,Sailor Shift
+InStyleOf,17275,15855,0,Album,Coral Beats,,2034.0,Oceanus Folk,True,17275,2033.0,,,Song,Sacred Fragments,True,2003.0,Synthwave,True,15855,,,2003.0,Sailor Shift
+LyricalReferenceTo,17277,876,0,Album,Oceanbound,,2038.0,Oceanus Folk,True,17277,2037.0,,,Song,Bold Without Apology,False,2010.0,Indie Rock,True,876,,,,Sailor Shift
+LyricalReferenceTo,17277,3986,0,Album,Oceanbound,,2038.0,Oceanus Folk,True,17277,2037.0,,,Song,Altitude of Mistakes,True,2015.0,Americana,True,3986,,,2015.0,Sailor Shift
+InterpolatesFrom,17279,14658,0,Song,High Tide Heartbeat,True,2028.0,Oceanus Folk,False,17279,,,,Album,Addicted to Your Heartache,,2004.0,Southern Gothic Rock,True,14658,2000.0,,,Sailor Shift
+InStyleOf,17280,10534,0,Song,Electric Eel Love,False,2028.0,Oceanus Folk,True,17280,,,,Song,Twelve Bells of Augsburg,True,2026.0,Psychedelic Rock,True,10534,,,,Sailor Shift
+InStyleOf,17285,8207,0,Song,Driftwood Lullaby,False,2030.0,Oceanus Folk,False,17285,,,,Song,Echoes of Forgotten Light,True,2004.0,Alternative Rock,True,8207,,,,Sailor Shift
+InStyleOf,17286,10903,0,Song,Saltwater Hymn,False,2032.0,Oceanus Folk,False,17286,,,,Song,Parallel Memories,False,2028.0,Dream Pop,True,10903,,,,Sailor Shift
+LyricalReferenceTo,17287,13589,0,Song,Moon Over the Tide,False,2034.0,Oceanus Folk,True,17287,,,,Song,Silent Steps in the Forest's Embrace,True,2023.0,Avant-Garde Folk,True,13589,2023.0,,2023.0,Sailor Shift
+InterpolatesFrom,17287,11254,0,Song,Moon Over the Tide,False,2034.0,Oceanus Folk,True,17287,,,,Song,Divergent Memories,True,2017.0,Indie Folk,True,11254,,,2017.0,Sailor Shift
+InStyleOf,17289,5574,0,Song,Barnacle Heart,False,2034.0,Oceanus Folk,False,17289,,,,Song,Our Inevitable Path,True,2017.0,Indie Folk,True,5574,2017.0,,,Sailor Shift
+InterpolatesFrom,17290,12685,0,Song,Fog & Fiddle,False,2036.0,Oceanus Folk,True,17290,,,,Song,Coastal Whispers of Biscay,True,2031.0,Alternative Rock,True,12685,,,,Sailor Shift
+InStyleOf,17290,12237,0,Song,Fog & Fiddle,False,2036.0,Oceanus Folk,True,17290,,,,Song,Provence Aria,True,2023.0,Indie Rock,True,12237,,,,Sailor Shift
+DirectlySamples,17292,13014,0,Song,Stormsong,True,2038.0,Oceanus Folk,True,17292,,,,Song,Exoskeleton Dissolve,True,2020.0,Indie Rock,True,13014,,,2020.0,Sailor Shift
+InStyleOf,17292,6592,0,Song,Stormsong,True,2038.0,Oceanus Folk,True,17292,,,,Song,When the Bar Lights Go Up,False,2000.0,Emo/Pop Punk,True,6592,,,,Sailor Shift

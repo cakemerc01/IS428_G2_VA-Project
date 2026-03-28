@@ -1,0 +1,32 @@
+Edge Type,source,target,key,Node Type_source,name_source,single_source,release_date_source,genre_source,notable_source,id_source,written_date_source,stage_name_source,notoriety_date_source,Node Type_target,name_target,single_target,release_date_target,genre_target,notable_target,id_target,written_date_target,stage_name_target,notoriety_date_target,Main Artist
+LyricistOf,17189,17275,0,Person,Ewan MacCrae,,,,,17189,,,,Album,Coral Beats,,2034.0,Oceanus Folk,True,17275,2033.0,,,Sailor Shift
+LyricistOf,17189,17277,0,Person,Ewan MacCrae,,,,,17189,,,,Album,Oceanbound,,2038.0,Oceanus Folk,True,17277,2037.0,,,Sailor Shift
+ComposerOf,17190,17275,0,Person,Astrid Nørgaard,,,,,17190,,,,Album,Coral Beats,,2034.0,Oceanus Folk,True,17275,2033.0,,,Sailor Shift
+ComposerOf,17191,17275,0,Person,Freya Lindholm,,,,,17191,,,,Album,Coral Beats,,2034.0,Oceanus Folk,True,17275,2033.0,,,Sailor Shift
+ComposerOf,17191,17277,0,Person,Freya Lindholm,,,,,17191,,,,Album,Oceanbound,,2038.0,Oceanus Folk,True,17277,2037.0,,,Sailor Shift
+ComposerOf,17205,17272,0,Person,Liam O'Sullivan,,,,,17205,,,,Album,Tidal Pop Waves,,2028.0,Oceanus Folk,True,17272,2027.0,,,Sailor Shift
+ComposerOf,17206,17272,0,Person,Fiona Mercer,,,,,17206,,,,Album,Tidal Pop Waves,,2028.0,Oceanus Folk,True,17272,2027.0,,,Sailor Shift
+LyricistOf,17255,17272,1,Person,Sailor Shift,,,,,17255,,,,Album,Tidal Pop Waves,,2028.0,Oceanus Folk,True,17272,2027.0,,,Sailor Shift
+LyricistOf,17255,17273,1,Person,Sailor Shift,,,,,17255,,,,Album,Salty Dreams,,2030.0,Oceanus Folk,True,17273,2029.0,,,Sailor Shift
+LyricistOf,17255,17274,1,Person,Sailor Shift,,,,,17255,,,,Album,The Current & The Chord,,2032.0,Oceanus Folk,True,17274,2031.0,,,Sailor Shift
+LyricistOf,17255,17275,1,Person,Sailor Shift,,,,,17255,,,,Album,Coral Beats,,2034.0,Oceanus Folk,True,17275,2033.0,,,Sailor Shift
+LyricistOf,17255,17276,1,Person,Sailor Shift,,,,,17255,,,,Album,Tides & Ballads,,2036.0,Oceanus Folk,True,17276,2035.0,,,Sailor Shift
+LyricistOf,17255,17277,1,Person,Sailor Shift,,,,,17255,,,,Album,Oceanbound,,2038.0,Oceanus Folk,True,17277,2037.0,,,Sailor Shift
+LyricistOf,17255,17278,1,Person,Sailor Shift,,,,,17255,,,,Album,Echoes of the Deep,,2040.0,Oceanus Folk,True,17278,2039.0,,,Sailor Shift
+LyricistOf,17255,17350,0,Person,Sailor Shift,,,,,17255,,,,Album,Tidesworn Ballads,,2031.0,Oceanus Folk,True,17350,2030.0,,,Sailor Shift
+LyricistOf,17255,17356,0,Person,Sailor Shift,,,,,17255,,,,Album,Submerged Sonatas,,2031.0,Oceanus Folk,True,17356,2030.0,,,Sailor Shift
+ComposerOf,17296,17276,0,Person,Coralia Bellweather,,,,,17296,,,,Album,Tides & Ballads,,2036.0,Oceanus Folk,True,17276,2035.0,,,Sailor Shift
+LyricistOf,17309,17276,0,Person,Levi Holloway,,,,,17309,,,,Album,Tides & Ballads,,2036.0,Oceanus Folk,True,17276,2035.0,,,Sailor Shift
+ComposerOf,17310,17278,0,Person,Marin Thorne,,,,,17310,,,,Album,Echoes of the Deep,,2040.0,Oceanus Folk,True,17278,2039.0,,,Sailor Shift
+LyricistOf,17311,17278,0,Person,Jonah Calloway,,,,,17311,,,,Album,Echoes of the Deep,,2040.0,Oceanus Folk,True,17278,2039.0,,,Sailor Shift
+LyricistOf,17349,17350,1,Person,Beatrice Albright,,,,,17349,,Bea Azure,,Album,Tidesworn Ballads,,2031.0,Oceanus Folk,True,17350,2030.0,,,Sailor Shift
+ComposerOf,17355,17356,1,Person,Daniel O'Connell,,,,,17355,,Kael Storm,,Album,Submerged Sonatas,,2031.0,Oceanus Folk,True,17356,2030.0,,,Sailor Shift
+RecordedBy,17369,17350,0,RecordLabel,Coastal Harmony Studios,,,,,17369,,,,Album,Tidesworn Ballads,,2031.0,Oceanus Folk,True,17350,2030.0,,,Sailor Shift
+RecordedBy,17369,17356,0,RecordLabel,Coastal Harmony Studios,,,,,17369,,,,Album,Submerged Sonatas,,2031.0,Oceanus Folk,True,17356,2030.0,,,Sailor Shift
+RecordedBy,17370,17272,0,RecordLabel,Oceanic Records,,,,,17370,,,,Album,Tidal Pop Waves,,2028.0,Oceanus Folk,True,17272,2027.0,,,Sailor Shift
+RecordedBy,17370,17273,0,RecordLabel,Oceanic Records,,,,,17370,,,,Album,Salty Dreams,,2030.0,Oceanus Folk,True,17273,2029.0,,,Sailor Shift
+RecordedBy,17370,17274,0,RecordLabel,Oceanic Records,,,,,17370,,,,Album,The Current & The Chord,,2032.0,Oceanus Folk,True,17274,2031.0,,,Sailor Shift
+RecordedBy,17370,17275,0,RecordLabel,Oceanic Records,,,,,17370,,,,Album,Coral Beats,,2034.0,Oceanus Folk,True,17275,2033.0,,,Sailor Shift
+RecordedBy,17370,17276,0,RecordLabel,Oceanic Records,,,,,17370,,,,Album,Tides & Ballads,,2036.0,Oceanus Folk,True,17276,2035.0,,,Sailor Shift
+RecordedBy,17370,17277,0,RecordLabel,Oceanic Records,,,,,17370,,,,Album,Oceanbound,,2038.0,Oceanus Folk,True,17277,2037.0,,,Sailor Shift
+RecordedBy,17370,17278,0,RecordLabel,Oceanic Records,,,,,17370,,,,Album,Echoes of the Deep,,2040.0,Oceanus Folk,True,17278,2039.0,,,Sailor Shift
