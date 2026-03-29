@@ -1,0 +1,101 @@
+NodeName,PartnerName,X,Y,LineID,NodeType,EdgeType
+Sailor Shift,Cassette Future,0.0,0.0,Cassette Future,Artist,InStyleOf
+Cassette Future,Cassette Future,1.0,0.0,Cassette Future,MusicalGroup,InStyleOf
+Sailor Shift,Silver Veil,0.0,0.0,Silver Veil,Artist,LyricalReferenceTo
+Silver Veil,Silver Veil,0.9921147013144779,0.12533323356430426,Silver Veil,MusicalGroup,LyricalReferenceTo
+Sailor Shift,The Phantom Operators,0.0,0.0,The Phantom Operators,Artist,InterpolatesFrom
+The Phantom Operators,The Phantom Operators,0.9685831611286311,0.2486898871648548,The Phantom Operators,MusicalGroup,InterpolatesFrom
+Sailor Shift,The Hollow Monarchs,0.0,0.0,The Hollow Monarchs,Artist,InStyleOf
+The Hollow Monarchs,The Hollow Monarchs,0.9297764858882515,0.3681245526846779,The Hollow Monarchs,MusicalGroup,InStyleOf
+Sailor Shift,Cassian Storm,0.0,0.0,Cassian Storm,Artist,LyricalReferenceTo
+Cassian Storm,Cassian Storm,0.8763066800438636,0.4817536741017153,Cassian Storm,Person,LyricalReferenceTo
+Sailor Shift,Claire Holmes,0.0,0.0,Claire Holmes,Artist,InterpolatesFrom
+Claire Holmes,Claire Holmes,0.8090169943749475,0.5877852522924731,Claire Holmes,Person,InterpolatesFrom
+Sailor Shift,Neon Heartbeat,0.0,0.0,Neon Heartbeat,Artist,LyricistOf
+Neon Heartbeat,Neon Heartbeat,0.7289686274214116,0.6845471059286886,Neon Heartbeat,Album,LyricistOf
+Sailor Shift,Ballads for the End of Time,0.0,0.0,Ballads for the End of Time,Artist,LyricistOf
+Ballads for the End of Time,Ballads for the End of Time,0.6374239897486897,0.7705132427757893,Ballads for the End of Time,Album,LyricistOf
+Sailor Shift,Melancholy Circuitry,0.0,0.0,Melancholy Circuitry,Artist,LyricistOf
+Melancholy Circuitry,Melancholy Circuitry,0.5358267949789965,0.8443279255020151,Melancholy Circuitry,Album,LyricistOf
+Sailor Shift,Drifting Between the Stars and the Sea,0.0,0.0,Drifting Between the Stars and the Sea,Artist,LyricistOf
+Drifting Between the Stars and the Sea,Drifting Between the Stars and the Sea,0.42577929156507266,0.9048270524660196,Drifting Between the Stars and the Sea,Album,LyricistOf
+Sailor Shift,Artificial Sunsets,0.0,0.0,Artificial Sunsets,Artist,LyricistOf
+Artificial Sunsets,Artificial Sunsets,0.30901699437494745,0.9510565162951535,Artificial Sunsets,Album,LyricistOf
+Sailor Shift,Electric Reverie,0.0,0.0,Electric Reverie,Artist,LyricistOf
+Electric Reverie,Electric Reverie,0.18738131458572474,0.9822872507286886,Electric Reverie,Album,LyricistOf
+Sailor Shift,Ballads for the Low Tide,0.0,0.0,Ballads for the Low Tide,Artist,LyricistOf
+Ballads for the Low Tide,Ballads for the Low Tide,0.06279051952931353,0.9980267284282716,Ballads for the Low Tide,Album,LyricistOf
+Sailor Shift,Tides of Echos,0.0,0.0,Tides of Echos,Artist,LyricistOf
+Tides of Echos,Tides of Echos,-0.0627905195293134,0.9980267284282716,Tides of Echos,Album,LyricistOf
+Sailor Shift,Hidden Depths,0.0,0.0,Hidden Depths,Artist,LyricistOf
+Hidden Depths,Hidden Depths,-0.1873813145857246,0.9822872507286887,Hidden Depths,Album,LyricistOf
+Sailor Shift,Ivy Echos,0.0,0.0,Ivy Echos,Artist,MemberOf
+Ivy Echos,Ivy Echos,-0.3090169943749471,0.9510565162951536,Ivy Echos,MusicalGroup,MemberOf
+Sailor Shift,The Kelp Forest Canticles,0.0,0.0,The Kelp Forest Canticles,Artist,LyricistOf
+The Kelp Forest Canticles,The Kelp Forest Canticles,-0.4257792915650727,0.9048270524660195,The Kelp Forest Canticles,Album,LyricistOf
+Sailor Shift,Luminescent Tides,0.0,0.0,Luminescent Tides,Artist,LyricistOf
+Luminescent Tides,Luminescent Tides,-0.5358267949789969,0.844327925502015,Luminescent Tides,Album,LyricistOf
+Sailor Shift,Shoreline Sonnets,0.0,0.0,Shoreline Sonnets,Artist,LyricistOf
+Shoreline Sonnets,Shoreline Sonnets,-0.6374239897486897,0.7705132427757893,Shoreline Sonnets,Album,LyricistOf
+Sailor Shift,Tidal Pop Waves,0.0,0.0,Tidal Pop Waves,Artist,PerformerOf
+Tidal Pop Waves,Tidal Pop Waves,-0.7289686274214113,0.6845471059286888,Tidal Pop Waves,Album,PerformerOf
+Sailor Shift,Salty Dreams,0.0,0.0,Salty Dreams,Artist,PerformerOf
+Salty Dreams,Salty Dreams,-0.8090169943749473,0.5877852522924732,Salty Dreams,Album,PerformerOf
+Sailor Shift,The Current & The Chord,0.0,0.0,The Current & The Chord,Artist,PerformerOf
+The Current & The Chord,The Current & The Chord,-0.8763066800438636,0.4817536741017152,The Current & The Chord,Album,PerformerOf
+Sailor Shift,Coral Beats,0.0,0.0,Coral Beats,Artist,PerformerOf
+Coral Beats,Coral Beats,-0.9297764858882513,0.36812455268467814,Coral Beats,Album,PerformerOf
+Sailor Shift,Tides & Ballads,0.0,0.0,Tides & Ballads,Artist,PerformerOf
+Tides & Ballads,Tides & Ballads,-0.968583161128631,0.24868988716485524,Tides & Ballads,Album,PerformerOf
+Sailor Shift,Oceanbound,0.0,0.0,Oceanbound,Artist,PerformerOf
+Oceanbound,Oceanbound,-0.9921147013144778,0.12533323356430454,Oceanbound,Album,PerformerOf
+Sailor Shift,Echoes of the Deep,0.0,0.0,Echoes of the Deep,Artist,PerformerOf
+Echoes of the Deep,Echoes of the Deep,-1.0,1.2246467991473532e-16,Echoes of the Deep,Album,PerformerOf
+Sailor Shift,High Tide Heartbeat,0.0,0.0,High Tide Heartbeat,Artist,PerformerOf
+High Tide Heartbeat,High Tide Heartbeat,-0.9921147013144779,-0.12533323356430429,High Tide Heartbeat,Song,PerformerOf
+Sailor Shift,Electric Eel Love,0.0,0.0,Electric Eel Love,Artist,PerformerOf
+Electric Eel Love,Electric Eel Love,-0.9685831611286312,-0.24868988716485457,Electric Eel Love,Song,PerformerOf
+Sailor Shift,Sun-Drenched Daydream,0.0,0.0,Sun-Drenched Daydream,Artist,PerformerOf
+Sun-Drenched Daydream,Sun-Drenched Daydream,-0.9297764858882515,-0.3681245526846779,Sun-Drenched Daydream,Song,PerformerOf
+Sailor Shift,Chord of the Deep,0.0,0.0,Chord of the Deep,Artist,PerformerOf
+Chord of the Deep,Chord of the Deep,-0.8763066800438636,-0.4817536741017154,Chord of the Deep,Song,PerformerOf
+Sailor Shift,Heart of the Habitat,0.0,0.0,Heart of the Habitat,Artist,PerformerOf
+Heart of the Habitat,Heart of the Habitat,-0.8090169943749478,-0.5877852522924727,Heart of the Habitat,Song,PerformerOf
+Sailor Shift,Reef Rhythm,0.0,0.0,Reef Rhythm,Artist,PerformerOf
+Reef Rhythm,Reef Rhythm,-0.7289686274214119,-0.6845471059286884,Reef Rhythm,Song,PerformerOf
+Sailor Shift,Driftwood Lullaby,0.0,0.0,Driftwood Lullaby,Artist,PerformerOf
+Driftwood Lullaby,Driftwood Lullaby,-0.6374239897486895,-0.7705132427757894,Driftwood Lullaby,Song,PerformerOf
+Sailor Shift,Saltwater Hymn,0.0,0.0,Saltwater Hymn,Artist,PerformerOf
+Saltwater Hymn,Saltwater Hymn,-0.5358267949789963,-0.8443279255020153,Saltwater Hymn,Song,PerformerOf
+Sailor Shift,Moon Over the Tide,0.0,0.0,Moon Over the Tide,Artist,PerformerOf
+Moon Over the Tide,Moon Over the Tide,-0.42577929156507216,-0.9048270524660198,Moon Over the Tide,Song,PerformerOf
+Sailor Shift,Into the Current,0.0,0.0,Into the Current,Artist,PerformerOf
+Into the Current,Into the Current,-0.30901699437494756,-0.9510565162951535,Into the Current,Song,PerformerOf
+Sailor Shift,Barnacle Heart,0.0,0.0,Barnacle Heart,Artist,PerformerOf
+Barnacle Heart,Barnacle Heart,-0.18738131458572463,-0.9822872507286887,Barnacle Heart,Song,PerformerOf
+Sailor Shift,Fog & Fiddle,0.0,0.0,Fog & Fiddle,Artist,PerformerOf
+Fog & Fiddle,Fog & Fiddle,-0.06279051952931321,-0.9980267284282716,Fog & Fiddle,Song,PerformerOf
+Sailor Shift,The Fisherman's Prayer,0.0,0.0,The Fisherman's Prayer,Artist,PerformerOf
+The Fisherman's Prayer,The Fisherman's Prayer,0.06279051952931283,-0.9980267284282716,The Fisherman's Prayer,Song,PerformerOf
+Sailor Shift,Stormsong,0.0,0.0,Stormsong,Artist,PerformerOf
+Stormsong,Stormsong,0.18738131458572427,-0.9822872507286887,Stormsong,Song,PerformerOf
+Sailor Shift,Salt in My Veins,0.0,0.0,Salt in My Veins,Artist,PerformerOf
+Salt in My Veins,Salt in My Veins,0.30901699437494723,-0.9510565162951536,Salt in My Veins,Song,PerformerOf
+Sailor Shift,The Last Mariner,0.0,0.0,The Last Mariner,Artist,PerformerOf
+The Last Mariner,The Last Mariner,0.4257792915650718,-0.9048270524660199,The Last Mariner,Song,PerformerOf
+Sailor Shift,The Saltwater Weavers,0.0,0.0,The Saltwater Weavers,Artist,InStyleOf
+The Saltwater Weavers,The Saltwater Weavers,0.5358267949789968,-0.844327925502015,The Saltwater Weavers,MusicalGroup,InStyleOf
+Sailor Shift,Drowned Harbor,0.0,0.0,Drowned Harbor,Artist,LyricalReferenceTo
+Drowned Harbor,Drowned Harbor,0.6374239897486893,-0.7705132427757896,Drowned Harbor,MusicalGroup,LyricalReferenceTo
+Sailor Shift,The Fiddle & The Fjord,0.0,0.0,The Fiddle & The Fjord,Artist,InStyleOf
+The Fiddle & The Fjord,The Fiddle & The Fjord,0.7289686274214112,-0.684547105928689,The Fiddle & The Fjord,MusicalGroup,InStyleOf
+Sailor Shift,Tidesworn Ballads,0.0,0.0,Tidesworn Ballads,Artist,LyricistOf
+Tidesworn Ballads,Tidesworn Ballads,0.8090169943749473,-0.5877852522924734,Tidesworn Ballads,Album,LyricistOf
+Sailor Shift,Submerged Sonatas,0.0,0.0,Submerged Sonatas,Artist,LyricistOf
+Submerged Sonatas,Submerged Sonatas,0.8763066800438631,-0.4817536741017161,Submerged Sonatas,Album,LyricistOf
+Sailor Shift,Seashell Serenade,0.0,0.0,Seashell Serenade,Artist,PerformerOf
+Seashell Serenade,Seashell Serenade,0.9297764858882515,-0.36812455268467786,Seashell Serenade,Song,PerformerOf
+Sailor Shift,Copper Canyon Ghosts,0.0,0.0,Copper Canyon Ghosts,Artist,DirectlySamples
+Copper Canyon Ghosts,Copper Canyon Ghosts,0.968583161128631,-0.24868988716485535,Copper Canyon Ghosts,MusicalGroup,DirectlySamples
+Sailor Shift,Oceanic Records,0.0,0.0,Oceanic Records,Artist,ProducerOf
+Oceanic Records,Oceanic Records,0.9921147013144778,-0.12533323356430465,Oceanic Records,RecordLabel,ProducerOf
