@@ -51,3 +51,145 @@ inspirations_df['Artist'] = 'Sailor Shift'
 
 # Save the file
 inspirations_df.to_csv('../data/sailor_inspirations.csv', index=False)
+
+# PERFORMER OF WORKS SAILOR REFERENCED
+
+import pandas as pd
+
+# Load master file
+df = pd.read_csv('../data/mc1_1a.csv', low_memory=False)
+
+# 1. Identify her performed songs/albums
+her_works = df[(df['name_source'] == 'Sailor Shift') & (df['Edge Type'] == 'PerformerOf')]['name_target'].unique()
+
+# 2. Filter for her outward influences
+# We keep the 'name_target' (the song she referenced) to look up its performer later
+sankey_data = df[(df['name_source'].isin(her_works)) & 
+                 (df['Edge Type'].isin(['InStyleOf', 'CoverOf', 'InterpolatesFrom', 'LyricalReferenceTo']))].copy()
+
+# 3. Find the performers of the songs Sailor Shift referenced
+# 'name_target' in sankey_data is the song being referenced
+referenced_songs = sankey_data['name_target'].unique()
+
+# Look for the performers of these referenced songs
+performers_of_referenced = df[(df['name_target'].isin(referenced_songs)) & 
+                              (df['Edge Type'] == 'PerformerOf')][['name_source', 'name_target']]
+
+# 4. Merge to create the 3-layer relationship
+# We join the influence data with the performer data on the song name
+three_layer_df = pd.merge(
+    sankey_data[['name_source', 'genre_target', 'name_target']], 
+    performers_of_referenced, 
+    on='name_target', 
+    how='inner'
+)
+
+# 5. Prepare for Tableau Viz Extension
+# Layer 1: Song_Source (Sailor's Work)
+# Layer 2: Genre_Target (The Genre of the song she referenced)
+# Layer 3: Original_Performer (The artist who made that referenced song)
+extension_prep = three_layer_df[['name_source_x', 'genre_target', 'name_source_y']].rename(columns={
+    'name_source_x': 'Sailor_Work',
+    'genre_target': 'Reference_Genre',
+    'name_source_y': 'Original_Performer'
+})
+
+# 6. Add a weight
+extension_prep['Weight'] = 1
+
+# Save the file
+extension_prep.to_csv('../data/sailor_sankey_performers.csv', index=False)
+
+
+# PRODUCER OF WORKS SAILOR REFERENCED
+
+import pandas as pd
+
+# Load master file
+df = pd.read_csv('../data/mc1_1a.csv', low_memory=False)
+
+# 1. Identify her performed songs/albums
+her_works = df[(df['name_source'] == 'Sailor Shift') & (df['Edge Type'] == 'PerformerOf')]['name_target'].unique()
+
+# 2. Filter for her outward influences
+sankey_data = df[(df['name_source'].isin(her_works)) & 
+                 (df['Edge Type'].isin(['InStyleOf', 'CoverOf', 'InterpolatesFrom', 'LyricalReferenceTo']))].copy()
+
+# 3. Find the PRODUCERS of the songs Sailor Shift referenced
+referenced_songs = sankey_data['name_target'].unique()
+
+# Look for the PRODUCERS instead of performers
+producers_of_referenced = df[(df['name_target'].isin(referenced_songs)) & 
+                             (df['Edge Type'] == 'ProducerOf')][['name_source', 'name_target']]
+
+# 4. Merge to create the 3-layer relationship
+three_layer_df = pd.merge(
+    sankey_data[['name_source', 'genre_target', 'name_target']], 
+    producers_of_referenced, 
+    on='name_target', 
+    how='inner'
+)
+
+# 5. Prepare for Tableau Viz Extension
+# Layer 1: Sailor's Work
+# Layer 2: The Genre of the reference
+# Layer 3: Original_Producer
+extension_prep = three_layer_df[['name_source_x', 'genre_target', 'name_source_y']].rename(columns={
+    'name_source_x': 'Sailor_Work',
+    'genre_target': 'Reference_Genre',
+    'name_source_y': 'Original_Producer'
+})
+
+# 6. Add a weight
+extension_prep['Weight'] = 1
+
+# Save the file with a specific name for producers
+extension_prep.to_csv('../data/sailor_sankey_producers.csv', index=False)
+
+
+# LYRICIST OF WORKS SAILOR REFERENCED
+
+import pandas as pd
+
+# Load master file
+df = pd.read_csv('../data/mc1_1a.csv', low_memory=False)
+
+# 1. Identify her performed songs/albums
+her_works = df[(df['name_source'] == 'Sailor Shift') & (df['Edge Type'] == 'PerformerOf')]['name_target'].unique()
+
+# 2. Filter for her outward influences
+sankey_data = df[(df['name_source'].isin(her_works)) & 
+                 (df['Edge Type'].isin(['InStyleOf', 'CoverOf', 'InterpolatesFrom', 'LyricalReferenceTo']))].copy()
+
+# 3. Find the LYRICISTS of the songs Sailor Shift referenced
+referenced_songs = sankey_data['name_target'].unique()
+
+# Look for the LYRICISTS instead of performers or producers
+lyricists_of_referenced = df[(df['name_target'].isin(referenced_songs)) & 
+                             (df['Edge Type'] == 'LyricistOf')][['name_source', 'name_target']]
+
+# 4. Merge to create the 3-layer relationship
+three_layer_df = pd.merge(
+    sankey_data[['name_source', 'genre_target', 'name_target']], 
+    lyricists_of_referenced, 
+    on='name_target', 
+    how='inner'
+)
+
+# 5. Prepare for Tableau Viz Extension
+# Layer 1: Sailor's Work
+# Layer 2: The Genre of the reference
+# Layer 3: Original_Lyricist
+extension_prep = three_layer_df[['name_source_x', 'genre_target', 'name_source_y']].rename(columns={
+    'name_source_x': 'Sailor_Work',
+    'genre_target': 'Reference_Genre',
+    'name_source_y': 'Original_Lyricist'
+})
+
+# 6. Add a weight
+extension_prep['Weight'] = 1
+
+# Save the file with a specific name for lyricists
+extension_prep.to_csv('../data/sailor_sankey_lyricists.csv', index=False)
+
+
