@@ -62,7 +62,7 @@ def determine_phase(row):
     if row['id_target'] in ss_work_ids:
         return 'With Sailor Shift'
     elif row['year_clean'] < row['first_ss_year']:
-        return 'Before Collaboration'
+        return 'Before Collab'
     else:
         return 'After Collab'
 
