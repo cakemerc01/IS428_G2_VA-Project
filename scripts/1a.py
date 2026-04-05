@@ -193,3 +193,47 @@ extension_prep['Weight'] = 1
 extension_prep.to_csv('../data/sailor_sankey_lyricists.csv', index=False)
 
 
+# COMPOSER OF WORK SAILOR REFERENCED
+
+import pandas as pd
+
+# Load master file
+df = pd.read_csv('../data/mc1_1a.csv', low_memory=False)
+
+# 1. Identify her performed songs/albums
+# We start by finding everything Sailor Shift actually released
+her_works = df[(df['name_source'] == 'Sailor Shift') & (df['Edge Type'] == 'PerformerOf')]['name_target'].unique()
+
+# 2. Filter for her outward influences
+# This looks at what those specific Sailor Shift songs are "influenced by"
+sankey_data = df[(df['name_source'].isin(her_works)) & 
+                 (df['Edge Type'].isin(['InStyleOf', 'CoverOf', 'InterpolatesFrom', 'LyricalReferenceTo']))].copy()
+
+# 3. Find the COMPOSERS of the songs Sailor Shift referenced
+referenced_songs = sankey_data['name_target'].unique()
+
+# We look for the 'ComposerOf' credit for those original songs
+composers_of_referenced = df[(df['name_target'].isin(referenced_songs)) & 
+                             (df['Edge Type'] == 'ComposerOf')][['name_source', 'name_target']]
+
+# 4. Merge to create the 3-layer relationship
+# This joins: Sailor Song -> Influence Genre -> Original Song -> Original Composer
+three_layer_df = pd.merge(
+    sankey_data[['name_source', 'genre_target', 'name_target']], 
+    composers_of_referenced, 
+    on='name_target', 
+    how='inner'
+)
+
+# 5. Prepare for Tableau Viz Extension (Voz Sankey)
+extension_prep = three_layer_df[['name_source_x', 'genre_target', 'name_source_y']].rename(columns={
+    'name_source_x': 'Sailor_Work',
+    'genre_target': 'Reference_Genre',
+    'name_source_y': 'Original_Composer'
+})
+
+# 6. Add a weight for the Sankey flow
+extension_prep['Weight'] = 1
+
+# Save for Tableau
+extension_prep.to_csv('../data/sailor_sankey_composers.csv', index=False)

@@ -1,0 +1,83 @@
+Edge Type,source,target,key,Node Type_source,name_source,single_source,release_date_source,genre_source,notable_source,id_source,written_date_source,stage_name_source,notoriety_date_source,Node Type_target,name_target,single_target,release_date_target,genre_target,notable_target,id_target,written_date_target,stage_name_target,notoriety_date_target,Year,Genre_Category
+MemberOf,17189,17192,0,Person,Ewan MacCrae,,,,,17189,,,,MusicalGroup,The Fiddle & The Fjord,,,,,17192,,,,,Other Genres
+LyricistOf,17189,17193,0,Person,Ewan MacCrae,,,,,17189,,,,Album,Echoes of the Old Way,,1980.0,Celtic Folk,True,17193,1979.0,,,1980.0,Other Genres
+LyricistOf,17189,17194,0,Person,Ewan MacCrae,,,,,17189,,,,Album,Runes & Reverie,,1981.0,Celtic Folk,True,17194,1980.0,,,1981.0,Other Genres
+LyricistOf,17189,17195,0,Person,Ewan MacCrae,,,,,17189,,,,Album,Blood & Heather,,1982.0,Celtic Folk,True,17195,1981.0,,,1982.0,Other Genres
+LyricistOf,17189,17275,0,Person,Ewan MacCrae,,,,,17189,,,,Album,Coral Beats,,2034.0,Oceanus Folk,True,17275,2033.0,,,2034.0,Oceanus Folk
+LyricistOf,17189,17277,0,Person,Ewan MacCrae,,,,,17189,,,,Album,Oceanbound,,2038.0,Oceanus Folk,True,17277,2037.0,,,2038.0,Oceanus Folk
+MemberOf,17190,17192,0,Person,Astrid Nørgaard,,,,,17190,,,,MusicalGroup,The Fiddle & The Fjord,,,,,17192,,,,,Other Genres
+ComposerOf,17190,17193,0,Person,Astrid Nørgaard,,,,,17190,,,,Album,Echoes of the Old Way,,1980.0,Celtic Folk,True,17193,1979.0,,,1980.0,Other Genres
+ComposerOf,17190,17194,0,Person,Astrid Nørgaard,,,,,17190,,,,Album,Runes & Reverie,,1981.0,Celtic Folk,True,17194,1980.0,,,1981.0,Other Genres
+ComposerOf,17190,17195,0,Person,Astrid Nørgaard,,,,,17190,,,,Album,Blood & Heather,,1982.0,Celtic Folk,True,17195,1981.0,,,1982.0,Other Genres
+ComposerOf,17190,17275,0,Person,Astrid Nørgaard,,,,,17190,,,,Album,Coral Beats,,2034.0,Oceanus Folk,True,17275,2033.0,,,2034.0,Oceanus Folk
+MemberOf,17191,17192,0,Person,Freya Lindholm,,,,,17191,,,,MusicalGroup,The Fiddle & The Fjord,,,,,17192,,,,,Other Genres
+ComposerOf,17191,17193,0,Person,Freya Lindholm,,,,,17191,,,,Album,Echoes of the Old Way,,1980.0,Celtic Folk,True,17193,1979.0,,,1980.0,Other Genres
+ComposerOf,17191,17194,0,Person,Freya Lindholm,,,,,17191,,,,Album,Runes & Reverie,,1981.0,Celtic Folk,True,17194,1980.0,,,1981.0,Other Genres
+ComposerOf,17191,17195,0,Person,Freya Lindholm,,,,,17191,,,,Album,Blood & Heather,,1982.0,Celtic Folk,True,17195,1981.0,,,1982.0,Other Genres
+ComposerOf,17191,17275,0,Person,Freya Lindholm,,,,,17191,,,,Album,Coral Beats,,2034.0,Oceanus Folk,True,17275,2033.0,,,2034.0,Oceanus Folk
+ComposerOf,17191,17277,0,Person,Freya Lindholm,,,,,17191,,,,Album,Oceanbound,,2038.0,Oceanus Folk,True,17277,2037.0,,,2038.0,Oceanus Folk
+MemberOf,17205,17207,0,Person,Liam O'Sullivan,,,,,17205,,,,MusicalGroup,Wayfinder's Lament,,,,,17207,,,,,Other Genres
+ComposerOf,17205,17208,0,Person,Liam O'Sullivan,,,,,17205,,,,Album,Miles & Moments,,1984.0,Acoustic Folk,True,17208,1983.0,,,1984.0,Other Genres
+ComposerOf,17205,17209,0,Person,Liam O'Sullivan,,,,,17205,,,,Album,Echoes and Embers,,1987.0,Acoustic Folk,True,17209,1986.0,,,1987.0,Other Genres
+ComposerOf,17205,17210,0,Person,Liam O'Sullivan,,,,,17205,,,,Album,The Road & The Reckoning,,1989.0,Acoustic Folk,True,17210,1988.0,,,1989.0,Other Genres
+ComposerOf,17205,17211,0,Person,Liam O'Sullivan,,,,,17205,,,,Album,Homeward Winds,,1991.0,Acoustic Folk,True,17211,1990.0,,,1991.0,Other Genres
+ComposerOf,17205,17272,0,Person,Liam O'Sullivan,,,,,17205,,,,Album,Tidal Pop Waves,,2028.0,Oceanus Folk,True,17272,2027.0,,,2028.0,Oceanus Folk
+MemberOf,17206,17207,0,Person,Fiona Mercer,,,,,17206,,,,MusicalGroup,Wayfinder's Lament,,,,,17207,,,,,Other Genres
+ComposerOf,17206,17208,0,Person,Fiona Mercer,,,,,17206,,,,Album,Miles & Moments,,1984.0,Acoustic Folk,True,17208,1983.0,,,1984.0,Other Genres
+ComposerOf,17206,17209,0,Person,Fiona Mercer,,,,,17206,,,,Album,Echoes and Embers,,1987.0,Acoustic Folk,True,17209,1986.0,,,1987.0,Other Genres
+ComposerOf,17206,17210,0,Person,Fiona Mercer,,,,,17206,,,,Album,The Road & The Reckoning,,1989.0,Acoustic Folk,True,17210,1988.0,,,1989.0,Other Genres
+ComposerOf,17206,17211,0,Person,Fiona Mercer,,,,,17206,,,,Album,Homeward Winds,,1991.0,Acoustic Folk,True,17211,1990.0,,,1991.0,Other Genres
+ComposerOf,17206,17272,0,Person,Fiona Mercer,,,,,17206,,,,Album,Tidal Pop Waves,,2028.0,Oceanus Folk,True,17272,2027.0,,,2028.0,Oceanus Folk
+MemberOf,17226,17230,0,Person,Kai Reynolds,,,,,17226,,,,MusicalGroup,The Wave Riders,,,,,17230,,,,,Other Genres
+LyricistOf,17226,17231,0,Person,Kai Reynolds,,,,,17226,,,,Album,Tides of Echos,,2029.0,Oceanus Folk,True,17231,2028.0,,,2029.0,Oceanus Folk
+LyricistOf,17226,17232,0,Person,Kai Reynolds,,,,,17226,,,,Album,Driftwood Dreams,,2032.0,Oceanus Folk,True,17232,2031.0,,,2032.0,Oceanus Folk
+PerformerOf,17226,17410,0,Person,Kai Reynolds,,,,,17226,,,,Song,Seashell Serenade,True,2030.0,Oceanus Folk,True,17410,,,2030.0,2030.0,Oceanus Folk
+ComposerOf,17296,17276,0,Person,Coralia Bellweather,,,,,17296,,,,Album,Tides & Ballads,,2036.0,Oceanus Folk,True,17276,2035.0,,,2036.0,Oceanus Folk
+MemberOf,17296,17299,0,Person,Coralia Bellweather,,,,,17296,,,,MusicalGroup,The Saltwater Weavers,,,,,17299,,,,,Other Genres
+ComposerOf,17296,17300,0,Person,Coralia Bellweather,,,,,17296,,,,Album,Beneath the Coral Moon,,1995.0,Oceanus Folk,True,17300,1994.0,,,1995.0,Oceanus Folk
+ComposerOf,17296,17301,0,Person,Coralia Bellweather,,,,,17296,,,,Album,Salt-Stained Chronicles,,1997.0,Oceanus Folk,True,17301,1996.0,,,1997.0,Oceanus Folk
+ComposerOf,17296,17302,0,Person,Coralia Bellweather,,,,,17296,,,,Album,The Kelp Forest Ballads,,1999.0,Oceanus Folk,True,17302,1998.0,,,1999.0,Oceanus Folk
+ComposerOf,17296,17303,0,Person,Coralia Bellweather,,,,,17296,,,,Album,Tempest's Wake,,2001.0,Oceanus Folk,True,17303,2000.0,,,2001.0,Oceanus Folk
+LyricistOf,17309,17276,0,Person,Levi Holloway,,,,,17309,,,,Album,Tides & Ballads,,2036.0,Oceanus Folk,True,17276,2035.0,,,2036.0,Oceanus Folk
+MemberOf,17309,17314,0,Person,Levi Holloway,,,,,17309,,,,MusicalGroup,The Tide Singer's Knot,,,,,17314,,,,,Other Genres
+LyricistOf,17309,17315,0,Person,Levi Holloway,,,,,17309,,,,Album,Ghostlights & Galleons,,1993.0,Oceanus Folk,True,17315,1992.0,,,1993.0,Oceanus Folk
+LyricistOf,17309,17316,0,Person,Levi Holloway,,,,,17309,,,,Album,Currents & Curses,,1994.0,Oceanus Folk,True,17316,1993.0,,,1994.0,Oceanus Folk
+LyricistOf,17309,17317,0,Person,Levi Holloway,,,,,17309,,,,Album,The Quiet of the Deep,,1995.0,Oceanus Folk,True,17317,1994.0,,,1995.0,Oceanus Folk
+ComposerOf,17310,17278,0,Person,Marin Thorne,,,,,17310,,,,Album,Echoes of the Deep,,2040.0,Oceanus Folk,True,17278,2039.0,,,2040.0,Oceanus Folk
+MemberOf,17310,17314,0,Person,Marin Thorne,,,,,17310,,,,MusicalGroup,The Tide Singer's Knot,,,,,17314,,,,,Other Genres
+ComposerOf,17310,17315,0,Person,Marin Thorne,,,,,17310,,,,Album,Ghostlights & Galleons,,1993.0,Oceanus Folk,True,17315,1992.0,,,1993.0,Oceanus Folk
+ComposerOf,17310,17316,0,Person,Marin Thorne,,,,,17310,,,,Album,Currents & Curses,,1994.0,Oceanus Folk,True,17316,1993.0,,,1994.0,Oceanus Folk
+ComposerOf,17310,17317,0,Person,Marin Thorne,,,,,17310,,,,Album,The Quiet of the Deep,,1995.0,Oceanus Folk,True,17317,1994.0,,,1995.0,Oceanus Folk
+LyricistOf,17311,17278,0,Person,Jonah Calloway,,,,,17311,,,,Album,Echoes of the Deep,,2040.0,Oceanus Folk,True,17278,2039.0,,,2040.0,Oceanus Folk
+MemberOf,17311,17314,0,Person,Jonah Calloway,,,,,17311,,,,MusicalGroup,The Tide Singer's Knot,,,,,17314,,,,,Other Genres
+LyricistOf,17311,17315,0,Person,Jonah Calloway,,,,,17311,,,,Album,Ghostlights & Galleons,,1993.0,Oceanus Folk,True,17315,1992.0,,,1993.0,Oceanus Folk
+LyricistOf,17311,17316,0,Person,Jonah Calloway,,,,,17311,,,,Album,Currents & Curses,,1994.0,Oceanus Folk,True,17316,1993.0,,,1994.0,Oceanus Folk
+LyricistOf,17311,17317,0,Person,Jonah Calloway,,,,,17311,,,,Album,The Quiet of the Deep,,1995.0,Oceanus Folk,True,17317,1994.0,,,1995.0,Oceanus Folk
+PerformerOf,17349,17350,0,Person,Beatrice Albright,,,,,17349,,Bea Azure,,Album,Tidesworn Ballads,,2031.0,Oceanus Folk,True,17350,2030.0,,,2031.0,Oceanus Folk
+LyricistOf,17349,17350,1,Person,Beatrice Albright,,,,,17349,,Bea Azure,,Album,Tidesworn Ballads,,2031.0,Oceanus Folk,True,17350,2030.0,,,2031.0,Oceanus Folk
+PerformerOf,17349,17350,2,Person,Beatrice Albright,,,,,17349,,Bea Azure,,Album,Tidesworn Ballads,,2031.0,Oceanus Folk,True,17350,2030.0,,,2031.0,Oceanus Folk
+PerformerOf,17349,17351,0,Person,Beatrice Albright,,,,,17349,,Bea Azure,,Song,The Siren's Sigh,False,2031.0,Oceanus Folk,True,17351,,,2031.0,2031.0,Oceanus Folk
+PerformerOf,17349,17352,0,Person,Beatrice Albright,,,,,17349,,Bea Azure,,Song,Whispers on the Jetty Wind,True,2031.0,Oceanus Folk,True,17352,,,2031.0,2031.0,Oceanus Folk
+PerformerOf,17349,17353,0,Person,Beatrice Albright,,,,,17349,,Bea Azure,,Song,Moonlit Kelp Forest Dance,False,2031.0,Oceanus Folk,True,17353,,,2031.0,2031.0,Oceanus Folk
+PerformerOf,17349,17354,0,Person,Beatrice Albright,,,,,17349,,Bea Azure,,Song,Seven Fathoms Deep,False,2031.0,Oceanus Folk,True,17354,,,2031.0,2031.0,Oceanus Folk
+InStyleOf,17349,17260,0,Person,Beatrice Albright,,,,,17349,,Bea Azure,,MusicalGroup,Ivy Echos,,,,,17260,,,,,Other Genres
+LyricalReferenceTo,17349,17327,0,Person,Beatrice Albright,,,,,17349,,Bea Azure,,MusicalGroup,Drowned Harbor,,,,,17327,,,,,Other Genres
+MemberOf,17349,17361,0,Person,Beatrice Albright,,,,,17349,,Bea Azure,,MusicalGroup,Copper Canyon Ghosts,,,,,17361,,,,,Other Genres
+LyricistOf,17349,17362,0,Person,Beatrice Albright,,,,,17349,,Bea Azure,,Album,Tide-Worn Tales,,2034.0,Oceanus Folk,True,17362,2033.0,,,2034.0,Oceanus Folk
+PerformerOf,17349,17362,1,Person,Beatrice Albright,,,,,17349,,Bea Azure,,Album,Tide-Worn Tales,,2034.0,Oceanus Folk,True,17362,2033.0,,,2034.0,Oceanus Folk
+LyricistOf,17349,17363,0,Person,Beatrice Albright,,,,,17349,,Bea Azure,,Album,The Sunken Compass,,2035.0,Oceanus Folk,True,17363,2034.0,,,2035.0,Oceanus Folk
+PerformerOf,17349,17363,1,Person,Beatrice Albright,,,,,17349,,Bea Azure,,Album,The Sunken Compass,,2035.0,Oceanus Folk,True,17363,2034.0,,,2035.0,Oceanus Folk
+PerformerOf,17355,17356,0,Person,Daniel O'Connell,,,,,17355,,Kael Storm,,Album,Submerged Sonatas,,2031.0,Oceanus Folk,True,17356,2030.0,,,2031.0,Oceanus Folk
+ComposerOf,17355,17356,1,Person,Daniel O'Connell,,,,,17355,,Kael Storm,,Album,Submerged Sonatas,,2031.0,Oceanus Folk,True,17356,2030.0,,,2031.0,Oceanus Folk
+PerformerOf,17355,17356,2,Person,Daniel O'Connell,,,,,17355,,Kael Storm,,Album,Submerged Sonatas,,2031.0,Oceanus Folk,True,17356,2030.0,,,2031.0,Oceanus Folk
+PerformerOf,17355,17357,0,Person,Daniel O'Connell,,,,,17355,,Kael Storm,,Song,The Language of the Tides,False,2031.0,Oceanus Folk,True,17357,,,2031.0,2031.0,Oceanus Folk
+PerformerOf,17355,17358,0,Person,Daniel O'Connell,,,,,17355,,Kael Storm,,Song,Coral Bloom Energy,False,2031.0,Oceanus Folk,True,17358,,,2031.0,2031.0,Oceanus Folk
+PerformerOf,17355,17359,0,Person,Daniel O'Connell,,,,,17355,,Kael Storm,,Song,Song of the Wandering Whale,True,2031.0,Oceanus Folk,True,17359,,,2031.0,2031.0,Oceanus Folk
+PerformerOf,17355,17360,0,Person,Daniel O'Connell,,,,,17355,,Kael Storm,,Song,Deep Sea Reverie,False,2031.0,Oceanus Folk,True,17360,,,2031.0,2031.0,Oceanus Folk
+InStyleOf,17355,17207,0,Person,Daniel O'Connell,,,,,17355,,Kael Storm,,MusicalGroup,Wayfinder's Lament,,,,,17207,,,,,Other Genres
+LyricalReferenceTo,17355,17314,0,Person,Daniel O'Connell,,,,,17355,,Kael Storm,,MusicalGroup,The Tide Singer's Knot,,,,,17314,,,,,Other Genres
+MemberOf,17355,17361,0,Person,Daniel O'Connell,,,,,17355,,Kael Storm,,MusicalGroup,Copper Canyon Ghosts,,,,,17361,,,,,Other Genres
+ComposerOf,17355,17362,0,Person,Daniel O'Connell,,,,,17355,,Kael Storm,,Album,Tide-Worn Tales,,2034.0,Oceanus Folk,True,17362,2033.0,,,2034.0,Oceanus Folk
+PerformerOf,17355,17362,1,Person,Daniel O'Connell,,,,,17355,,Kael Storm,,Album,Tide-Worn Tales,,2034.0,Oceanus Folk,True,17362,2033.0,,,2034.0,Oceanus Folk
+ComposerOf,17355,17363,0,Person,Daniel O'Connell,,,,,17355,,Kael Storm,,Album,The Sunken Compass,,2035.0,Oceanus Folk,True,17363,2034.0,,,2035.0,Oceanus Folk
+PerformerOf,17355,17363,1,Person,Daniel O'Connell,,,,,17355,,Kael Storm,,Album,The Sunken Compass,,2035.0,Oceanus Folk,True,17363,2034.0,,,2035.0,Oceanus Folk

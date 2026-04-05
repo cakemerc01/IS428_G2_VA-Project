@@ -1,87 +1,75 @@
-# SIENNA FOX
-
 import pandas as pd
 
-# Load master file
-df = pd.read_csv('../data/mc1_1a.csv', low_memory=False)
+# 1. Load Data
+nodes = pd.read_csv('../data/mc1_nodes.csv')
+edges = pd.read_csv('../data/mc1_edges.csv')
 
-# 1. Identify all songs/albums performed by Sienna Fox
-target_person = 'Sienna Fox'
-sf_works = df[(df['name_source'] == target_person) & (df['Edge Type'] == 'PerformerOf')]['name_target'].unique()
+# 2. Pre-process Data
+# Convert release dates to numeric and extract notable status
+nodes['release_date_numeric'] = pd.to_numeric(nodes['release_date'], errors='coerce')
+nodes['notable_bool'] = nodes['notable'].astype(str).str.strip().str.upper() == 'TRUE'
 
-# 2. Find anything that references HIS work
-# Source: The New Artist/Song -> Target: Sienna Fox's Work
-influence_types = ['InStyleOf', 'InterpolatesFrom', 'DirectlySamples', 'LyricalReferenceTo', 'CoverOf']
-influence_data = df[(df['name_target'].isin(sf_works)) & (df['Edge Type'].isin(influence_types))].copy()
+# Define Sailor Shift's ID
+ss_id = 17255 
 
-# 3. Identify the PERFORMERS of the songs that referenced Yong Zheng
-referencing_songs = influence_data['name_source'].unique()
-new_performers = df[(df['name_target'].isin(referencing_songs)) & (df['Edge Type'] == 'PerformerOf')].copy()
+# 3. Identify Work and Reference Types
+work_edge_types = ['PerformerOf', 'ComposerOf', 'LyricistOf', 'ProducerOf']
+ref_edge_types = ['InterpolatesFrom', 'CoverOf', 'InStyleOf', 'LyricalReferenceTo', 'DirectlySamples']
 
-# 4. Merge to create the 3-Layer Flow: 
-# Sienna Fox's Work -> The Influence Type -> The New Artist
-sankey_df = pd.merge(
-    influence_data[['name_target', 'Edge Type', 'name_source']], 
-    new_performers[['name_source', 'name_target']], 
-    left_on='name_source',   # Match the referencing song
-    right_on='name_target',  # To the performer's target
-    how='inner'
-)
+# 4. Get Sailor Shift's Catalog
+# Find all song/album IDs where Sailor Shift is a performer, composer, etc.
+ss_catalog = set(edges[(edges['source'] == ss_id) & (edges['Edge Type'].isin(work_edge_types))]['target'])
 
-# Rename and organize for Tableau
-sankey_df = sankey_df[['name_target_x', 'Edge Type', 'name_source_y', 'name_source_x']]
-sankey_df.columns = ['Sienna_Fox_Original_Work', 'Influence_Type', 'New_Artist', 'New_Song']
-sankey_df['Weight'] = 1
+# 5. Map Artists to their Works
+# Get all "Artist" nodes (People or Musical Groups)
+artist_nodes = nodes[nodes['Node Type'].isin(['Person', 'MusicalGroup'])]
+artist_map = artist_nodes.set_index('id')['name'].to_dict()
 
-# Save the file
-output_path = '../data/sienna_fox_influence_sankey.csv'
-sankey_df.to_csv(output_path, index=False)
+# Link artists to their released tracks/albums
+track_nodes = nodes[nodes['Node Type'].isin(['Song', 'Album'])][['id', 'release_date_numeric', 'notable_bool']]
+artist_work_links = edges[(edges['source'].isin(artist_nodes['id'])) & (edges['Edge Type'].isin(work_edge_types))]
+artist_to_track_data = artist_work_links.merge(track_nodes, left_on='target', right_on='id')
 
+# 6. Calculate Metrics per Artist
+# Debut Year (Earliest release)
+debuts = artist_to_track_data.groupby('source')['release_date_numeric'].min().reset_index()
+debuts.columns = ['artist_id', 'debut_year']
 
+# Filter for those debuting 2030 onwards
+candidates = debuts[debuts['debut_year'] >= 2030].copy()
+candidate_ids = set(candidates['artist_id'])
 
+# Metric A: Volume (Unique Songs/Albums)
+volume = artist_to_track_data[artist_to_track_data['source'].isin(candidate_ids)].groupby('source')['target'].nunique().reset_index()
+volume.columns = ['artist_id', 'num_songs']
 
+# Metric B: Notability (Count of Notable Works)
+notable = artist_to_track_data[(artist_to_track_data['source'].isin(candidate_ids)) & (artist_to_track_data['notable_bool'] == True)]
+notability = notable.groupby('source')['target'].nunique().reset_index()
+notability.columns = ['artist_id', 'num_notable']
 
+# Metric C: Collaboration (Worked on the SAME track as Sailor Shift)
+collaborators = set(edges[(edges['target'].isin(ss_catalog)) & (edges['Edge Type'].isin(work_edge_types))]['source'])
+collaborators.discard(ss_id) # Remove self
 
+# Metric D: References (Stylistic similarity/references to Sailor Shift's catalog)
+# Count tracks by artist that reference a track in Sailor Shift's catalog
+ref_edges = edges[(edges['target'].isin(ss_catalog)) & (edges['Edge Type'].isin(ref_edge_types))]
+artist_refs = artist_work_links.merge(ref_edges, left_on='target', right_on='source')
+ref_counts = artist_refs.groupby('source_x').size().reset_index()
+ref_counts.columns = ['artist_id', 'ref_count']
 
+# 7. Final Assembly and Ranking
+final_ranking = candidates.merge(volume, on='artist_id', how='left')
+final_ranking = final_ranking.merge(notability, on='artist_id', how='left').fillna(0)
+final_ranking = final_ranking.merge(ref_counts, on='artist_id', how='left').fillna(0)
+final_ranking['collab_ss'] = final_ranking['artist_id'].isin(collaborators)
+final_ranking['name'] = final_ranking['artist_id'].map(artist_map)
 
-# SYLAS DUNE
+# Sorting: By Volume, then Notability, then Collaboration, then References
+top_10 = final_ranking.sort_values(
+    by=['num_songs', 'num_notable', 'collab_ss', 'ref_count'], 
+    ascending=False
+).head(10)
 
-import pandas as pd
-
-df = pd.read_csv('../data/mc1_1a.csv', low_memory=False)
-
-# 1. Use a flexible search for the name
-target_name = "Sylas Dune"
-
-# 2. Get all works associated with him
-# We use .str.contains to handle potential trailing spaces or case issues
-sylas_works = df[df['name_source'].str.contains(target_name, na=False, case=False) & 
-                 (df['Edge Type'] == 'PerformerOf')]['name_target'].unique()
-
-# 3. Create a master list of EVERYTHING that represents him (Songs + Person Name)
-all_targets = list(sylas_works) + [target_name]
-
-# 4. Find ANY influence pointing to that list
-influence_types = ['InStyleOf', 'InterpolatesFrom', 'DirectlySamples', 'LyricalReferenceTo', 'CoverOf']
-influence_data = df[df['name_target'].isin(all_targets) & 
-                    df['Edge Type'].isin(influence_types)].copy()
-
-# 5. Get the performers of those referencing songs
-if not influence_data.empty:
-    referencing_entities = influence_data['name_source'].unique()
-    new_performers = df[df['name_target'].isin(referencing_entities) & 
-                        (df['Edge Type'] == 'PerformerOf')].copy()
-
-    # 6. Merge
-    sankey_df = pd.merge(
-        influence_data[['name_target', 'Edge Type', 'name_source']], 
-        new_performers[['name_source', 'name_target']], 
-        left_on='name_source', right_on='name_target', how='inner'
-    )
-    
-    sankey_df.columns = ['Original_Legacy', 'Influence_Type', 'New_Artist', 'New_Song']
-    sankey_df['Weight'] = 1
-    sankey_df.to_csv('../data/sylas_dune_influence_sankey.csv', index=False)
-    print(f"Success! Found {len(sankey_df)} connections.")
-else:
-    print(f"Still empty. This means NO ONE in the dataset is recorded as being influenced by {target_name}.")
+print(top_10[['name', 'debut_year', 'num_songs', 'num_notable', 'collab_ss', 'ref_count']])
