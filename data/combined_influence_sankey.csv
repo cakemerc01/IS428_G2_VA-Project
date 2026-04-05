@@ -1,0 +1,978 @@
+Original_Work,Influence_Type,New_Artist,New_Song,Target_Artist,Weight
+Harmony in the Alleyway,LyricalReferenceTo,Anatol Dietz,"Clean Lungs, Clear Mind",Megan Bennett,1
+Harmony in the Alleyway,LyricalReferenceTo,Tracy Simpson,"Clean Lungs, Clear Mind",Megan Bennett,1
+Harmony in the Alleyway,LyricalReferenceTo,Lorraine Martinez,"Clean Lungs, Clear Mind",Megan Bennett,1
+Harmony in the Alleyway,LyricalReferenceTo,Megan Bennett,"Clean Lungs, Clear Mind",Megan Bennett,1
+The Last Frame of Pola,LyricalReferenceTo,Anatol Dietz,"Clean Lungs, Clear Mind",Megan Bennett,1
+The Last Frame of Pola,LyricalReferenceTo,Tracy Simpson,"Clean Lungs, Clear Mind",Megan Bennett,1
+The Last Frame of Pola,LyricalReferenceTo,Lorraine Martinez,"Clean Lungs, Clear Mind",Megan Bennett,1
+The Last Frame of Pola,LyricalReferenceTo,Megan Bennett,"Clean Lungs, Clear Mind",Megan Bennett,1
+Mirrors of Deception,InterpolatesFrom,Lorraine Martinez,Grandfather's Faded Photographs,Megan Bennett,1
+Mirrors of Deception,InterpolatesFrom,Xia Fu,Grandfather's Faded Photographs,Megan Bennett,1
+Mirrors of Deception,InterpolatesFrom,Li Luo,Grandfather's Faded Photographs,Megan Bennett,1
+Mirrors of Deception,InterpolatesFrom,Gang Zhao,Grandfather's Faded Photographs,Megan Bennett,1
+Civic Pride: A Municipal Melody,InterpolatesFrom,Lorraine Martinez,Grandfather's Faded Photographs,Megan Bennett,1
+Civic Pride: A Municipal Melody,InterpolatesFrom,Xia Fu,Grandfather's Faded Photographs,Megan Bennett,1
+Civic Pride: A Municipal Melody,InterpolatesFrom,Li Luo,Grandfather's Faded Photographs,Megan Bennett,1
+Civic Pride: A Municipal Melody,InterpolatesFrom,Gang Zhao,Grandfather's Faded Photographs,Megan Bennett,1
+Unraveled (A Cassidy Story),InStyleOf,Martino Toninelli,The Chambered Melody,Megan Bennett,1
+Unraveled (A Cassidy Story),InStyleOf,Ludovico Mondadori,The Chambered Melody,Megan Bennett,1
+Wilderness Vows at Twilight,InStyleOf,Fang Xue,Lift Me Higher,Megan Bennett,1
+Wilderness Vows at Twilight,InStyleOf,Ping Tian,Lift Me Higher,Megan Bennett,1
+Wilderness Vows at Twilight,InStyleOf,Tao Sun,Lift Me Higher,Megan Bennett,1
+Forgiveness Falls,LyricalReferenceTo,Fang Xue,Lift Me Higher,Megan Bennett,1
+Forgiveness Falls,LyricalReferenceTo,Ping Tian,Lift Me Higher,Megan Bennett,1
+Forgiveness Falls,LyricalReferenceTo,Tao Sun,Lift Me Higher,Megan Bennett,1
+Wilderness Vows at Twilight,DirectlySamples,Angelika Osojca,Echoes Out of Time,Megan Bennett,1
+Wilderness Vows at Twilight,DirectlySamples,Ping Tian,Echoes Out of Time,Megan Bennett,1
+Wilderness Vows at Twilight,DirectlySamples,Li Fang,Echoes Out of Time,Megan Bennett,1
+Wilderness Vows at Twilight,DirectlySamples,Min Shen,Echoes Out of Time,Megan Bennett,1
+Wilderness Vows at Twilight,InStyleOf,Apolonia Chlebda,Brass and Brass: A Polka Memoir,Megan Bennett,1
+Wilderness Vows at Twilight,InStyleOf,Kamila Ornat,Brass and Brass: A Polka Memoir,Megan Bennett,1
+Mirrors of Deception,InStyleOf,Megan Bennett,Civic Pride: A Municipal Melody,Megan Bennett,1
+Mirrors of Deception,InStyleOf,Brian Wright,Civic Pride: A Municipal Melody,Megan Bennett,1
+The Last Frame of Pola,InStyleOf,Megan Bennett,Harmony in the Alleyway,Megan Bennett,1
+The Last Frame of Pola,InStyleOf,Brian Wright,Harmony in the Alleyway,Megan Bennett,1
+Mirrors of Deception,InStyleOf,Jeremy Li,Sweet Metabolism,Megan Bennett,1
+Mirrors of Deception,InStyleOf,Jamie Ramos,Sweet Metabolism,Megan Bennett,1
+Mirrors of Deception,InStyleOf,Ricky Silva,Sweet Metabolism,Megan Bennett,1
+Mirrors of Deception,InStyleOf,Sonic Pulse,Sweet Metabolism,Megan Bennett,1
+Fever Pitch Madness,CoverOf,Jeremy Li,Sweet Metabolism,Megan Bennett,1
+Fever Pitch Madness,CoverOf,Jamie Ramos,Sweet Metabolism,Megan Bennett,1
+Fever Pitch Madness,CoverOf,Ricky Silva,Sweet Metabolism,Megan Bennett,1
+Fever Pitch Madness,CoverOf,Sonic Pulse,Sweet Metabolism,Megan Bennett,1
+Civic Pride: A Municipal Melody,InterpolatesFrom,Jeremy Li,Sweet Metabolism,Megan Bennett,1
+Civic Pride: A Municipal Melody,InterpolatesFrom,Jamie Ramos,Sweet Metabolism,Megan Bennett,1
+Civic Pride: A Municipal Melody,InterpolatesFrom,Ricky Silva,Sweet Metabolism,Megan Bennett,1
+Civic Pride: A Municipal Melody,InterpolatesFrom,Sonic Pulse,Sweet Metabolism,Megan Bennett,1
+Wilderness Vows at Twilight,CoverOf,Jay Walters,Permanent Horizon,Megan Bennett,1
+The Last Frame of Pola,InStyleOf,Brian Wright,Braided Stories,Megan Bennett,1
+Harmony in the Alleyway,LyricalReferenceTo,Brian Wright,Braided Stories,Megan Bennett,1
+Wilderness Vows at Twilight,LyricalReferenceTo,Quattro Voci,Corações em Chamas (Hearts on Fire),Megan Bennett,1
+Candlelight Confessions,InStyleOf,Quattro Voci,Corações em Chamas (Hearts on Fire),Megan Bennett,1
+Candlelight Confessions,InterpolatesFrom,Andrew Williams,The Pound of Flesh Sonata,Megan Bennett,1
+Candlelight Confessions,InterpolatesFrom,Jay Walters,The Pound of Flesh Sonata,Megan Bennett,1
+Wilderness Vows at Twilight,InStyleOf,Andrew Williams,The Pound of Flesh Sonata,Megan Bennett,1
+Wilderness Vows at Twilight,InStyleOf,Jay Walters,The Pound of Flesh Sonata,Megan Bennett,1
+Wilderness Vows at Twilight,InStyleOf,Fang Xue,Branded Dreams,Megan Bennett,1
+Wilderness Vows at Twilight,InStyleOf,Ping Tian,Branded Dreams,Megan Bennett,1
+Wilderness Vows at Twilight,InStyleOf,Tao Sun,Branded Dreams,Megan Bennett,1
+Forgiveness Falls,InterpolatesFrom,Fang Xue,Branded Dreams,Megan Bennett,1
+Forgiveness Falls,InterpolatesFrom,Ping Tian,Branded Dreams,Megan Bennett,1
+Forgiveness Falls,InterpolatesFrom,Tao Sun,Branded Dreams,Megan Bennett,1
+Wilderness Vows at Twilight,InterpolatesFrom,Andrew Williams,Reindeer Breath Melody,Megan Bennett,1
+Wilderness Vows at Twilight,InterpolatesFrom,Quattro Voci,Reindeer Breath Melody,Megan Bennett,1
+Candlelight Confessions,LyricalReferenceTo,Andrew Williams,Reindeer Breath Melody,Megan Bennett,1
+Candlelight Confessions,LyricalReferenceTo,Quattro Voci,Reindeer Breath Melody,Megan Bennett,1
+Wilderness Vows at Twilight,LyricalReferenceTo,Jay Walters,Whispers of Sacred Silence,Megan Bennett,1
+Candlelight Confessions,InterpolatesFrom,Jay Walters,Whispers of Sacred Silence,Megan Bennett,1
+Wilderness Vows at Twilight,LyricalReferenceTo,Megan Bennett,Candlelight Confessions,Megan Bennett,1
+Wilderness Vows at Twilight,LyricalReferenceTo,Andrew Williams,Candlelight Confessions,Megan Bennett,1
+Wilderness Vows at Twilight,LyricalReferenceTo,Brian Wright,Candlelight Confessions,Megan Bennett,1
+Wilderness Vows at Twilight,LyricalReferenceTo,Quattro Voci,Candlelight Confessions,Megan Bennett,1
+Gleaming Hope's Horizon,InterpolatesFrom,Megan Bennett,Blooming Duality,Megan Bennett,1
+Gleaming Hope's Horizon,InterpolatesFrom,Norbert Flisek,Blooming Duality,Megan Bennett,1
+Gleaming Hope's Horizon,InterpolatesFrom,Monika Przewłoka,Blooming Duality,Megan Bennett,1
+Wilderness Vows at Twilight,CoverOf,Ismet Heser,Unfinished Conversations,Megan Bennett,1
+The Last Frame of Pola,CoverOf,Lorraine Martinez,Whispered Waltzes in Minor,Megan Bennett,1
+The Last Frame of Pola,CoverOf,Gang Zhao,Whispered Waltzes in Minor,Megan Bennett,1
+The Last Frame of Pola,CoverOf,Guiying Lei,Whispered Waltzes in Minor,Megan Bennett,1
+Mirrors of Deception,CoverOf,Lorraine Martinez,Whispered Waltzes in Minor,Megan Bennett,1
+Mirrors of Deception,CoverOf,Gang Zhao,Whispered Waltzes in Minor,Megan Bennett,1
+Mirrors of Deception,CoverOf,Guiying Lei,Whispered Waltzes in Minor,Megan Bennett,1
+Civic Pride: A Municipal Melody,CoverOf,Lorraine Martinez,Whispered Waltzes in Minor,Megan Bennett,1
+Civic Pride: A Municipal Melody,CoverOf,Gang Zhao,Whispered Waltzes in Minor,Megan Bennett,1
+Civic Pride: A Municipal Melody,CoverOf,Guiying Lei,Whispered Waltzes in Minor,Megan Bennett,1
+Candlelight Confessions,InStyleOf,Quattro Voci,Paths Beyond Memory,Megan Bennett,1
+Wilderness Vows at Twilight,LyricalReferenceTo,Quattro Voci,Paths Beyond Memory,Megan Bennett,1
+"Clean Lungs, Clear Mind",InterpolatesFrom,Megan Bennett,Unbroken Promise,Megan Bennett,1
+"Clean Lungs, Clear Mind",InterpolatesFrom,Dawn Massey,Unbroken Promise,Megan Bennett,1
+"Clean Lungs, Clear Mind",InterpolatesFrom,Rachel Garcia,Unbroken Promise,Megan Bennett,1
+"Clean Lungs, Clear Mind",InterpolatesFrom,Ralph Bell,Unbroken Promise,Megan Bennett,1
+Harmony in the Alleyway,DirectlySamples,Megan Bennett,Unbroken Promise,Megan Bennett,1
+Harmony in the Alleyway,DirectlySamples,Dawn Massey,Unbroken Promise,Megan Bennett,1
+Harmony in the Alleyway,DirectlySamples,Rachel Garcia,Unbroken Promise,Megan Bennett,1
+Harmony in the Alleyway,DirectlySamples,Ralph Bell,Unbroken Promise,Megan Bennett,1
+The Last Frame of Pola,InterpolatesFrom,Megan Bennett,Unbroken Promise,Megan Bennett,1
+The Last Frame of Pola,InterpolatesFrom,Dawn Massey,Unbroken Promise,Megan Bennett,1
+The Last Frame of Pola,InterpolatesFrom,Rachel Garcia,Unbroken Promise,Megan Bennett,1
+The Last Frame of Pola,InterpolatesFrom,Ralph Bell,Unbroken Promise,Megan Bennett,1
+Mirrors of Deception,LyricalReferenceTo,Ricky Silva,Twenty-Four Hours Unfolding,Megan Bennett,1
+Mirrors of Deception,LyricalReferenceTo,Sonic Pulse,Twenty-Four Hours Unfolding,Megan Bennett,1
+Civic Pride: A Municipal Melody,CoverOf,Ricky Silva,Twenty-Four Hours Unfolding,Megan Bennett,1
+Civic Pride: A Municipal Melody,CoverOf,Sonic Pulse,Twenty-Four Hours Unfolding,Megan Bennett,1
+Candlelight Confessions,CoverOf,Brian Wright,Whispers and Touches,Megan Bennett,1
+Wilderness Vows at Twilight,InterpolatesFrom,Brian Wright,Whispers and Touches,Megan Bennett,1
+Candlelight Confessions,InStyleOf,Andrew Williams,Mannequin's Whisper,Megan Bennett,1
+Candlelight Confessions,InStyleOf,Jay Walters,Mannequin's Whisper,Megan Bennett,1
+Candlelight Confessions,InStyleOf,Quattro Voci,Mannequin's Whisper,Megan Bennett,1
+Wilderness Vows at Twilight,InterpolatesFrom,Andrew Williams,Mannequin's Whisper,Megan Bennett,1
+Wilderness Vows at Twilight,InterpolatesFrom,Jay Walters,Mannequin's Whisper,Megan Bennett,1
+Wilderness Vows at Twilight,InterpolatesFrom,Quattro Voci,Mannequin's Whisper,Megan Bennett,1
+Mirrors of Deception,InStyleOf,Lorraine Martinez,Temples and Shadows,Megan Bennett,1
+Mirrors of Deception,InStyleOf,Xia Fu,Temples and Shadows,Megan Bennett,1
+Mirrors of Deception,InStyleOf,Li Luo,Temples and Shadows,Megan Bennett,1
+Mirrors of Deception,InStyleOf,Gang Zhao,Temples and Shadows,Megan Bennett,1
+Mirrors of Deception,InStyleOf,Triassic Collective,Temples and Shadows,Megan Bennett,1
+Wilderness Vows at Twilight,InStyleOf,Angelika Osojca,Across All Distances,Megan Bennett,1
+Wilderness Vows at Twilight,InStyleOf,Ping Tian,Across All Distances,Megan Bennett,1
+Wilderness Vows at Twilight,InStyleOf,Megan Bennett,Forgiveness Falls,Megan Bennett,1
+Wilderness Vows at Twilight,InStyleOf,Brian Wright,Forgiveness Falls,Megan Bennett,1
+Wilderness Vows at Twilight,InStyleOf,Justin Doyle,Forgiveness Falls,Megan Bennett,1
+Wilderness Vows at Twilight,InStyleOf,Eva Sani,Forgiveness Falls,Megan Bennett,1
+Wilderness Vows at Twilight,InStyleOf,Quattro Voci,Wooden Heart's Whisper,Megan Bennett,1
+Forgiveness Falls,CoverOf,Qiang Long,Toppled from Grace,Megan Bennett,1
+The Last Frame of Pola,LyricalReferenceTo,Gertrude Dietz-Drub,"Hydraulic Heart, Gerd",Megan Bennett,1
+The Last Frame of Pola,LyricalReferenceTo,Krista Fritsch,"Hydraulic Heart, Gerd",Megan Bennett,1
+Harmony in the Alleyway,InterpolatesFrom,Gertrude Dietz-Drub,"Hydraulic Heart, Gerd",Megan Bennett,1
+Harmony in the Alleyway,InterpolatesFrom,Krista Fritsch,"Hydraulic Heart, Gerd",Megan Bennett,1
+Candlelight Confessions,LyricalReferenceTo,Andrew Williams,Aqua Mechanica,Megan Bennett,1
+Candlelight Confessions,LyricalReferenceTo,Jay Walters,Aqua Mechanica,Megan Bennett,1
+Candlelight Confessions,LyricalReferenceTo,Quattro Voci,Aqua Mechanica,Megan Bennett,1
+Wilderness Vows at Twilight,CoverOf,Andrew Williams,Aqua Mechanica,Megan Bennett,1
+Wilderness Vows at Twilight,CoverOf,Jay Walters,Aqua Mechanica,Megan Bennett,1
+Wilderness Vows at Twilight,CoverOf,Quattro Voci,Aqua Mechanica,Megan Bennett,1
+Wilderness Vows at Twilight,InStyleOf,Angelika Osojca,Hooves and Hopes,Megan Bennett,1
+Wilderness Vows at Twilight,InStyleOf,Ping Tian,Hooves and Hopes,Megan Bennett,1
+Wilderness Vows at Twilight,InStyleOf,Min Fu,Hooves and Hopes,Megan Bennett,1
+Wilderness Vows at Twilight,LyricalReferenceTo,Andrew Williams,Whispers of a Poet's Ink,Megan Bennett,1
+Wilderness Vows at Twilight,LyricalReferenceTo,Ismet Heser,Whispers of a Poet's Ink,Megan Bennett,1
+Wilderness Vows at Twilight,LyricalReferenceTo,Quattro Voci,Whispers of a Poet's Ink,Megan Bennett,1
+Forgiveness Falls,InterpolatesFrom,James George,Whispers of Potential,Megan Bennett,1
+Wilderness Vows at Twilight,InStyleOf,James George,Whispers of Potential,Megan Bennett,1
+Fever Pitch Madness,InterpolatesFrom,Jamie Ramos,Moonlit Metamorphosis,Megan Bennett,1
+Fever Pitch Madness,InterpolatesFrom,Sonic Pulse,Moonlit Metamorphosis,Megan Bennett,1
+Wilderness Vows at Twilight,InterpolatesFrom,Ismet Heser,Crossroads at Dusk,Megan Bennett,1
+Candlelight Confessions,DirectlySamples,Quattro Voci,Broken Again,Megan Bennett,1
+Wilderness Vows at Twilight,LyricalReferenceTo,Quattro Voci,Broken Again,Megan Bennett,1
+Civic Pride: A Municipal Melody,CoverOf,Megan Bennett,Stone and Water: A London Passage,Megan Bennett,1
+Mirrors of Deception,InStyleOf,Megan Bennett,Stone and Water: A London Passage,Megan Bennett,1
+Civic Pride: A Municipal Melody,DirectlySamples,Li Luo,Regal Advance,Megan Bennett,1
+Civic Pride: A Municipal Melody,DirectlySamples,Gang Zhao,Regal Advance,Megan Bennett,1
+The Last Frame of Pola,InStyleOf,Li Luo,Regal Advance,Megan Bennett,1
+The Last Frame of Pola,InStyleOf,Gang Zhao,Regal Advance,Megan Bennett,1
+Wilderness Vows at Twilight,CoverOf,Quattro Voci,Iron Hooves and Leather Reins,Megan Bennett,1
+Rodeo Retrograde,InStyleOf,Kornel Troka,Ceramic Memories,Urszula Stochmal,1
+Rodeo Retrograde,InStyleOf,Liwia Olbrych,Ceramic Memories,Urszula Stochmal,1
+Rodeo Retrograde,InStyleOf,Nicole Sudak,Ceramic Memories,Urszula Stochmal,1
+When the Music Fades,InStyleOf,Marek Oleksa,Street Corner Hustle,Urszula Stochmal,1
+When the Music Fades,InStyleOf,Arkadiusz Ciesielka,Street Corner Hustle,Urszula Stochmal,1
+Canvas of Renaissance Dreams,LyricalReferenceTo,Marek Oleksa,Street Corner Hustle,Urszula Stochmal,1
+Canvas of Renaissance Dreams,LyricalReferenceTo,Arkadiusz Ciesielka,Street Corner Hustle,Urszula Stochmal,1
+Addicted to Your Heartache,CoverOf,Marek Oleksa,Unpack My Heart,Urszula Stochmal,1
+Rodeo Retrograde,InStyleOf,Marek Oleksa,Unpack My Heart,Urszula Stochmal,1
+When the Music Fades,InStyleOf,Marek Oleksa,Unpack My Heart,Urszula Stochmal,1
+Pulse Zero,InStyleOf,Marek Oleksa,Unpack My Heart,Urszula Stochmal,1
+Forced Feast,InStyleOf,Marek Oleksa,Unpack My Heart,Urszula Stochmal,1
+Heavy Eyelids of Twilight,InStyleOf,Marek Oleksa,Unpack My Heart,Urszula Stochmal,1
+Canvas of Renaissance Dreams,CoverOf,Urszula Stochmal,Heavy Eyelids of Twilight,Urszula Stochmal,1
+Pulse Zero,InterpolatesFrom,Urszula Stochmal,Heavy Eyelids of Twilight,Urszula Stochmal,1
+Dancing to Her Rhythm,InterpolatesFrom,Urszula Stochmal,Heavy Eyelids of Twilight,Urszula Stochmal,1
+Forced Feast,InStyleOf,Urszula Stochmal,Heavy Eyelids of Twilight,Urszula Stochmal,1
+Canvas of Renaissance Dreams,InterpolatesFrom,Konrad Goss,Transparent Intentions,Urszula Stochmal,1
+Canvas of Renaissance Dreams,InterpolatesFrom,Nomadic Resonance,Transparent Intentions,Urszula Stochmal,1
+When the Music Fades,InterpolatesFrom,Konrad Goss,Transparent Intentions,Urszula Stochmal,1
+When the Music Fades,InterpolatesFrom,Nomadic Resonance,Transparent Intentions,Urszula Stochmal,1
+Pulse Zero,InStyleOf,Konrad Goss,Transparent Intentions,Urszula Stochmal,1
+Pulse Zero,InStyleOf,Nomadic Resonance,Transparent Intentions,Urszula Stochmal,1
+Forced Feast,LyricalReferenceTo,Konrad Goss,Transparent Intentions,Urszula Stochmal,1
+Forced Feast,LyricalReferenceTo,Nomadic Resonance,Transparent Intentions,Urszula Stochmal,1
+The Interest Rises,InStyleOf,Aleksander Przybyś,Wandering Miles,Urszula Stochmal,1
+Midnight in the Tearscape,LyricalReferenceTo,Aleksander Przybyś,Wandering Miles,Urszula Stochmal,1
+Sacred Invocation,InterpolatesFrom,Aleksander Przybyś,Wandering Miles,Urszula Stochmal,1
+Whispers of the Wooden Wind,DirectlySamples,Urszula Stochmal,Canvas of Renaissance Dreams,Urszula Stochmal,1
+When the Music Fades,LyricalReferenceTo,Urszula Stochmal,Canvas of Renaissance Dreams,Urszula Stochmal,1
+Wet Shadows,InterpolatesFrom,Urszula Stochmal,Canvas of Renaissance Dreams,Urszula Stochmal,1
+Heavy Eyelids of Twilight,LyricalReferenceTo,Cezary Siedlarz,Chapters Untold,Urszula Stochmal,1
+Forced Feast,CoverOf,Cezary Siedlarz,Chapters Untold,Urszula Stochmal,1
+Whispers of the Wooden Wind,CoverOf,Cezary Siedlarz,Chapters Untold,Urszula Stochmal,1
+Wet Shadows,InterpolatesFrom,Cezary Siedlarz,Chapters Untold,Urszula Stochmal,1
+Rodeo Retrograde,InterpolatesFrom,Cezary Siedlarz,Chapters Untold,Urszula Stochmal,1
+Addicted to Your Heartache,InStyleOf,Cezary Siedlarz,Chapters Untold,Urszula Stochmal,1
+Whispers of the Wooden Wind,CoverOf,Urszula Stochmal,Pulse Zero,Urszula Stochmal,1
+Whispers of the Wooden Wind,CoverOf,Konrad Goss,Pulse Zero,Urszula Stochmal,1
+Whispers of the Wooden Wind,CoverOf,Kornel Preś,Pulse Zero,Urszula Stochmal,1
+Sacred Invocation,InStyleOf,Urszula Stochmal,The Interest Rises,Urszula Stochmal,1
+Sacred Invocation,InStyleOf,Aleksander Przybyś,Bund Boogie,Urszula Stochmal,1
+The Interest Rises,InStyleOf,Aleksander Przybyś,Bund Boogie,Urszula Stochmal,1
+Sacred Invocation,DirectlySamples,Marcel Kutek,Sunset of Perfection,Urszula Stochmal,1
+Sacred Invocation,InStyleOf,Martino Toninelli,Kerosene Memories,Urszula Stochmal,1
+Sacred Invocation,InStyleOf,Ludovico Mondadori,Kerosene Memories,Urszula Stochmal,1
+Sacred Invocation,InStyleOf,Maura Jovinelli,Kerosene Memories,Urszula Stochmal,1
+Sacred Invocation,InStyleOf,Neon Pulse,Kerosene Memories,Urszula Stochmal,1
+Midnight in the Tearscape,InStyleOf,Martino Toninelli,Kerosene Memories,Urszula Stochmal,1
+Midnight in the Tearscape,InStyleOf,Ludovico Mondadori,Kerosene Memories,Urszula Stochmal,1
+Midnight in the Tearscape,InStyleOf,Maura Jovinelli,Kerosene Memories,Urszula Stochmal,1
+Midnight in the Tearscape,InStyleOf,Neon Pulse,Kerosene Memories,Urszula Stochmal,1
+Heavy Eyelids of Twilight,DirectlySamples,Urszula Stochmal,Sunlight and Vows,Urszula Stochmal,1
+When the Music Fades,InStyleOf,Urszula Stochmal,Sunlight and Vows,Urszula Stochmal,1
+Forced Feast,CoverOf,Urszula Stochmal,Sunlight and Vows,Urszula Stochmal,1
+Addicted to Your Heartache,CoverOf,Urszula Stochmal,Sunlight and Vows,Urszula Stochmal,1
+Pulse Zero,InStyleOf,Urszula Stochmal,Sunlight and Vows,Urszula Stochmal,1
+Blueprints of Hope,InStyleOf,Tadeusz Kieszek,Seaside Promise,Urszula Stochmal,1
+Forced Feast,InStyleOf,Tadeusz Kieszek,Seaside Promise,Urszula Stochmal,1
+Rodeo Retrograde,CoverOf,Tadeusz Kieszek,Seaside Promise,Urszula Stochmal,1
+Addicted to Your Heartache,LyricalReferenceTo,Tadeusz Kieszek,Seaside Promise,Urszula Stochmal,1
+Pulse Zero,InStyleOf,Tadeusz Kieszek,Seaside Promise,Urszula Stochmal,1
+Sacred Invocation,CoverOf,Urszula Stochmal,Midnight in the Tearscape,Urszula Stochmal,1
+Sacred Invocation,InStyleOf,Igor Dyś,Echoes of Forgotten Light,Urszula Stochmal,1
+Sacred Invocation,DirectlySamples,Szymon Pyć,Stone Breath,Urszula Stochmal,1
+Blueprints of Hope,InStyleOf,Cyprian Goss,Whispers of Your Memory,Urszula Stochmal,1
+Addicted to Your Heartache,CoverOf,Cyprian Goss,Whispers of Your Memory,Urszula Stochmal,1
+Pulse Zero,LyricalReferenceTo,Cyprian Goss,Whispers of Your Memory,Urszula Stochmal,1
+Sunlight and Vows,InStyleOf,Cyprian Goss,Whispers of Your Memory,Urszula Stochmal,1
+Forced Feast,InterpolatesFrom,Cyprian Goss,Whispers of Your Memory,Urszula Stochmal,1
+Rodeo Retrograde,InterpolatesFrom,Cyprian Goss,Whispers of Your Memory,Urszula Stochmal,1
+Heavy Eyelids of Twilight,LyricalReferenceTo,Cyprian Goss,Whispers of Your Memory,Urszula Stochmal,1
+Forced Feast,CoverOf,Urszula Stochmal,Rodeo Retrograde,Urszula Stochmal,1
+Forced Feast,CoverOf,Konrad Goss,Rodeo Retrograde,Urszula Stochmal,1
+Forced Feast,CoverOf,Kornel Preś,Rodeo Retrograde,Urszula Stochmal,1
+Whispers of the Wooden Wind,InStyleOf,Urszula Stochmal,Forced Feast,Urszula Stochmal,1
+Whispers of the Wooden Wind,InStyleOf,Konrad Goss,Forced Feast,Urszula Stochmal,1
+Whispers of the Wooden Wind,InStyleOf,Urszula Stochmal,When the Music Fades,Urszula Stochmal,1
+Whispers of the Wooden Wind,InStyleOf,Karol Klęczar,When the Music Fades,Urszula Stochmal,1
+Whispers of the Wooden Wind,InStyleOf,Tadeusz Majorek,When the Music Fades,Urszula Stochmal,1
+Whispers of the Wooden Wind,InStyleOf,Jacek Gorol,When the Music Fades,Urszula Stochmal,1
+Whispers of the Wooden Wind,InStyleOf,Urszula Stochmal,Wet Shadows,Urszula Stochmal,1
+Whispers of the Wooden Wind,LyricalReferenceTo,Urszula Stochmal,Blueprints of Hope,Urszula Stochmal,1
+Whispers of the Wooden Wind,LyricalReferenceTo,Leon Misiurek,Blueprints of Hope,Urszula Stochmal,1
+Whispers of the Wooden Wind,LyricalReferenceTo,Gustaw Reich,Blueprints of Hope,Urszula Stochmal,1
+Whispers of the Wooden Wind,CoverOf,Urszula Stochmal,Dancing to Her Rhythm,Urszula Stochmal,1
+Pulse Zero,LyricalReferenceTo,Marek Oleksa,Echoes of a Universal Tongue,Urszula Stochmal,1
+Canvas of Renaissance Dreams,CoverOf,Marek Oleksa,Echoes of a Universal Tongue,Urszula Stochmal,1
+Whispers of the Wooden Wind,InterpolatesFrom,Marek Oleksa,Echoes of a Universal Tongue,Urszula Stochmal,1
+Forced Feast,LyricalReferenceTo,Marek Oleksa,Echoes of a Universal Tongue,Urszula Stochmal,1
+Addicted to Your Heartache,InStyleOf,Marek Oleksa,Echoes of a Universal Tongue,Urszula Stochmal,1
+When the Music Fades,LyricalReferenceTo,Marek Oleksa,Echoes of a Universal Tongue,Urszula Stochmal,1
+Heavy Eyelids of Twilight,LyricalReferenceTo,Marek Oleksa,Echoes of a Universal Tongue,Urszula Stochmal,1
+Blueprints of Hope,InterpolatesFrom,Carolyn Donovan,Hallowed Whispers,Urszula Stochmal,1
+Blueprints of Hope,InterpolatesFrom,Charles Wallace,Hallowed Whispers,Urszula Stochmal,1
+When the Music Fades,CoverOf,Urszula Stochmal,Addicted to Your Heartache,Urszula Stochmal,1
+Forced Feast,CoverOf,Urszula Stochmal,Addicted to Your Heartache,Urszula Stochmal,1
+Canvas of Renaissance Dreams,CoverOf,Urszula Stochmal,Addicted to Your Heartache,Urszula Stochmal,1
+Whispers of the Wooden Wind,LyricalReferenceTo,Urszula Stochmal,Addicted to Your Heartache,Urszula Stochmal,1
+Blueprints of Hope,InStyleOf,Urszula Stochmal,Addicted to Your Heartache,Urszula Stochmal,1
+Pulse Zero,DirectlySamples,Urszula Stochmal,Addicted to Your Heartache,Urszula Stochmal,1
+Sacred Invocation,InterpolatesFrom,Szymon Pyć,Convergence,Urszula Stochmal,1
+The Interest Rises,CoverOf,Nicole Sudak,Roots of Belonging,Urszula Stochmal,1
+The Interest Rises,CoverOf,Marianna Stefanik,Roots of Belonging,Urszula Stochmal,1
+The Interest Rises,CoverOf,Kacper Panasewicz,Roots of Belonging,Urszula Stochmal,1
+The Interest Rises,CoverOf,Syncopated Symphony Collective,Roots of Belonging,Urszula Stochmal,1
+Sacred Invocation,InterpolatesFrom,Liwia Olbrych,Phantom Reflections,Urszula Stochmal,1
+Sacred Invocation,InterpolatesFrom,Nicole Sudak,Phantom Reflections,Urszula Stochmal,1
+Sacred Invocation,InterpolatesFrom,Olga Kalinka,Phantom Reflections,Urszula Stochmal,1
+Sacred Invocation,DirectlySamples,Szymon Pyć,Veins of Hesitation,Urszula Stochmal,1
+Addicted to Your Heartache,InterpolatesFrom,Sailor Shift,High Tide Heartbeat,Urszula Stochmal,1
+Timelines Converge,InStyleOf,Kimberly Snyder,Guardian of the Mountain Winds,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Michael Washington,Guardian of the Mountain Winds,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Joshua Herring,Guardian of the Mountain Winds,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Andrew Montgomery,Guardian of the Mountain Winds,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Casey Wright,Guardian of the Mountain Winds,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Sonic Renegade,Guardian of the Mountain Winds,Kimberly Snyder,1
+Sovereign's Whisper,InterpolatesFrom,Kimberly Snyder,Guardian of the Mountain Winds,Kimberly Snyder,1
+Sovereign's Whisper,InterpolatesFrom,Michael Washington,Guardian of the Mountain Winds,Kimberly Snyder,1
+Sovereign's Whisper,InterpolatesFrom,Joshua Herring,Guardian of the Mountain Winds,Kimberly Snyder,1
+Sovereign's Whisper,InterpolatesFrom,Andrew Montgomery,Guardian of the Mountain Winds,Kimberly Snyder,1
+Sovereign's Whisper,InterpolatesFrom,Casey Wright,Guardian of the Mountain Winds,Kimberly Snyder,1
+Sovereign's Whisper,InterpolatesFrom,Sonic Renegade,Guardian of the Mountain Winds,Kimberly Snyder,1
+Immovable Love,LyricalReferenceTo,Kimberly Snyder,Guardian of the Mountain Winds,Kimberly Snyder,1
+Immovable Love,LyricalReferenceTo,Michael Washington,Guardian of the Mountain Winds,Kimberly Snyder,1
+Immovable Love,LyricalReferenceTo,Joshua Herring,Guardian of the Mountain Winds,Kimberly Snyder,1
+Immovable Love,LyricalReferenceTo,Andrew Montgomery,Guardian of the Mountain Winds,Kimberly Snyder,1
+Immovable Love,LyricalReferenceTo,Casey Wright,Guardian of the Mountain Winds,Kimberly Snyder,1
+Immovable Love,LyricalReferenceTo,Sonic Renegade,Guardian of the Mountain Winds,Kimberly Snyder,1
+Fragments of a Simple Girl,InStyleOf,Kimberly Snyder,Guardian of the Mountain Winds,Kimberly Snyder,1
+Fragments of a Simple Girl,InStyleOf,Michael Washington,Guardian of the Mountain Winds,Kimberly Snyder,1
+Fragments of a Simple Girl,InStyleOf,Joshua Herring,Guardian of the Mountain Winds,Kimberly Snyder,1
+Fragments of a Simple Girl,InStyleOf,Andrew Montgomery,Guardian of the Mountain Winds,Kimberly Snyder,1
+Fragments of a Simple Girl,InStyleOf,Casey Wright,Guardian of the Mountain Winds,Kimberly Snyder,1
+Fragments of a Simple Girl,InStyleOf,Sonic Renegade,Guardian of the Mountain Winds,Kimberly Snyder,1
+Shadows Between Us,InStyleOf,Kimberly Snyder,Guardian of the Mountain Winds,Kimberly Snyder,1
+Shadows Between Us,InStyleOf,Michael Washington,Guardian of the Mountain Winds,Kimberly Snyder,1
+Shadows Between Us,InStyleOf,Joshua Herring,Guardian of the Mountain Winds,Kimberly Snyder,1
+Shadows Between Us,InStyleOf,Andrew Montgomery,Guardian of the Mountain Winds,Kimberly Snyder,1
+Shadows Between Us,InStyleOf,Casey Wright,Guardian of the Mountain Winds,Kimberly Snyder,1
+Shadows Between Us,InStyleOf,Sonic Renegade,Guardian of the Mountain Winds,Kimberly Snyder,1
+Soft Love's First Light,CoverOf,Paula Wilson,Slumber's Burden,Kimberly Snyder,1
+Soft Love's First Light,CoverOf,Brittany Wright,Slumber's Burden,Kimberly Snyder,1
+Soft Love's First Light,CoverOf,Judith Hunter,Slumber's Burden,Kimberly Snyder,1
+Soft Love's First Light,CoverOf,Rachel Wilson,Slumber's Burden,Kimberly Snyder,1
+Soft Love's First Light,CoverOf,Phantom Resonance,Slumber's Burden,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Joshua Herring,Fragments of Joy,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Benjamin Lee,Fragments of Joy,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Taylor Reed,Fragments of Joy,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Kelly Stewart,Fragments of Joy,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Tina Hobbs,Fragments of Joy,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Sonic Renegade,Fragments of Joy,Kimberly Snyder,1
+Timelines Converge,CoverOf,Joshua Herring,Fragments of Joy,Kimberly Snyder,1
+Timelines Converge,CoverOf,Benjamin Lee,Fragments of Joy,Kimberly Snyder,1
+Timelines Converge,CoverOf,Taylor Reed,Fragments of Joy,Kimberly Snyder,1
+Timelines Converge,CoverOf,Kelly Stewart,Fragments of Joy,Kimberly Snyder,1
+Timelines Converge,CoverOf,Tina Hobbs,Fragments of Joy,Kimberly Snyder,1
+Timelines Converge,CoverOf,Sonic Renegade,Fragments of Joy,Kimberly Snyder,1
+Echoes of a Global Generation,InterpolatesFrom,Joshua Herring,Fragments of Joy,Kimberly Snyder,1
+Echoes of a Global Generation,InterpolatesFrom,Benjamin Lee,Fragments of Joy,Kimberly Snyder,1
+Echoes of a Global Generation,InterpolatesFrom,Taylor Reed,Fragments of Joy,Kimberly Snyder,1
+Echoes of a Global Generation,InterpolatesFrom,Kelly Stewart,Fragments of Joy,Kimberly Snyder,1
+Echoes of a Global Generation,InterpolatesFrom,Tina Hobbs,Fragments of Joy,Kimberly Snyder,1
+Echoes of a Global Generation,InterpolatesFrom,Sonic Renegade,Fragments of Joy,Kimberly Snyder,1
+Ethereal Afterthoughts,InStyleOf,Joshua Herring,Fragments of Joy,Kimberly Snyder,1
+Ethereal Afterthoughts,InStyleOf,Benjamin Lee,Fragments of Joy,Kimberly Snyder,1
+Ethereal Afterthoughts,InStyleOf,Taylor Reed,Fragments of Joy,Kimberly Snyder,1
+Ethereal Afterthoughts,InStyleOf,Kelly Stewart,Fragments of Joy,Kimberly Snyder,1
+Ethereal Afterthoughts,InStyleOf,Tina Hobbs,Fragments of Joy,Kimberly Snyder,1
+Ethereal Afterthoughts,InStyleOf,Sonic Renegade,Fragments of Joy,Kimberly Snyder,1
+Tanah Kita Bangkit,DirectlySamples,Joshua Herring,Fragments of Joy,Kimberly Snyder,1
+Tanah Kita Bangkit,DirectlySamples,Benjamin Lee,Fragments of Joy,Kimberly Snyder,1
+Tanah Kita Bangkit,DirectlySamples,Taylor Reed,Fragments of Joy,Kimberly Snyder,1
+Tanah Kita Bangkit,DirectlySamples,Kelly Stewart,Fragments of Joy,Kimberly Snyder,1
+Tanah Kita Bangkit,DirectlySamples,Tina Hobbs,Fragments of Joy,Kimberly Snyder,1
+Tanah Kita Bangkit,DirectlySamples,Sonic Renegade,Fragments of Joy,Kimberly Snyder,1
+Carols of the Silent Night,CoverOf,Joshua Herring,Fragments of Joy,Kimberly Snyder,1
+Carols of the Silent Night,CoverOf,Benjamin Lee,Fragments of Joy,Kimberly Snyder,1
+Carols of the Silent Night,CoverOf,Taylor Reed,Fragments of Joy,Kimberly Snyder,1
+Carols of the Silent Night,CoverOf,Kelly Stewart,Fragments of Joy,Kimberly Snyder,1
+Carols of the Silent Night,CoverOf,Tina Hobbs,Fragments of Joy,Kimberly Snyder,1
+Carols of the Silent Night,CoverOf,Sonic Renegade,Fragments of Joy,Kimberly Snyder,1
+Soft Love's First Light,LyricalReferenceTo,Joshua Herring,Fragments of Joy,Kimberly Snyder,1
+Soft Love's First Light,LyricalReferenceTo,Benjamin Lee,Fragments of Joy,Kimberly Snyder,1
+Soft Love's First Light,LyricalReferenceTo,Taylor Reed,Fragments of Joy,Kimberly Snyder,1
+Soft Love's First Light,LyricalReferenceTo,Kelly Stewart,Fragments of Joy,Kimberly Snyder,1
+Soft Love's First Light,LyricalReferenceTo,Tina Hobbs,Fragments of Joy,Kimberly Snyder,1
+Soft Love's First Light,LyricalReferenceTo,Sonic Renegade,Fragments of Joy,Kimberly Snyder,1
+Scarves and Streetlight Shadows,InStyleOf,Xiulan Lin,Granite Heartbeat,Kimberly Snyder,1
+Scarves and Streetlight Shadows,InStyleOf,Fang Yu,Granite Heartbeat,Kimberly Snyder,1
+Scarves and Streetlight Shadows,InStyleOf,Yan Jiang,Granite Heartbeat,Kimberly Snyder,1
+Scarves and Streetlight Shadows,InStyleOf,Min Gu,Granite Heartbeat,Kimberly Snyder,1
+Tanah Kita Bangkit,InterpolatesFrom,Jun Lin,Rising From the Shadows,Kimberly Snyder,1
+Tanah Kita Bangkit,InterpolatesFrom,Gang Dong,Rising From the Shadows,Kimberly Snyder,1
+Timelines Converge,LyricalReferenceTo,Jun Lin,Rising From the Shadows,Kimberly Snyder,1
+Timelines Converge,LyricalReferenceTo,Gang Dong,Rising From the Shadows,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Na Fan,Spinning Skirts of Bavaria,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Guiying Ren,Spinning Skirts of Bavaria,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Xiuying Yao,Spinning Skirts of Bavaria,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Wei Yuan,Spinning Skirts of Bavaria,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Starseed,Spinning Skirts of Bavaria,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Arco Luminoso,Spinning Skirts of Bavaria,Kimberly Snyder,1
+Fair Exchange,LyricalReferenceTo,Steven Hobbs,Breaking the Escape Clause,Kimberly Snyder,1
+Fair Exchange,LyricalReferenceTo,Alex Smith,Breaking the Escape Clause,Kimberly Snyder,1
+Ethereal Afterthoughts,InterpolatesFrom,Kimberly Snyder,Stones of the Holy City,Kimberly Snyder,1
+Scarves and Streetlight Shadows,InStyleOf,Kimberly Snyder,Stones of the Holy City,Kimberly Snyder,1
+Scarves and Streetlight Shadows,CoverOf,Mike Robinson,Pilgrimage of Longing,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Mike Robinson,Pilgrimage of Longing,Kimberly Snyder,1
+Tanah Kita Bangkit,LyricalReferenceTo,Mike Robinson,Pilgrimage of Longing,Kimberly Snyder,1
+Soft Love's First Light,CoverOf,Mike Robinson,Pilgrimage of Longing,Kimberly Snyder,1
+Maria's Obeskrivna Minnen (Maria's Unwritten Memories),InStyleOf,Min Xie,Reflected Strangers,Kimberly Snyder,1
+Maria's Obeskrivna Minnen (Maria's Unwritten Memories),InStyleOf,Fang Gu,Reflected Strangers,Kimberly Snyder,1
+Maria's Obeskrivna Minnen (Maria's Unwritten Memories),InStyleOf,Min Fu,Reflected Strangers,Kimberly Snyder,1
+Maria's Obeskrivna Minnen (Maria's Unwritten Memories),InStyleOf,Yang Lu,Reflected Strangers,Kimberly Snyder,1
+Maria's Obeskrivna Minnen (Maria's Unwritten Memories),InStyleOf,Tracy Warren,Reflected Strangers,Kimberly Snyder,1
+Ethereal Afterthoughts,InterpolatesFrom,Keith Larsen,Requiem for a Fading Self,Kimberly Snyder,1
+Tanah Kita Bangkit,LyricalReferenceTo,Keith Larsen,Requiem for a Fading Self,Kimberly Snyder,1
+Scarves and Streetlight Shadows,InterpolatesFrom,Keith Larsen,Requiem for a Fading Self,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Kimberly Snyder,Tanah Kita Bangkit,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Joshua Herring,Tanah Kita Bangkit,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Gerald Mullins,Tanah Kita Bangkit,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Kelly Stewart,Tanah Kita Bangkit,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Fang Lin,Tanah Kita Bangkit,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Mike Robinson,Tanah Kita Bangkit,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Sheri Brooks,Tanah Kita Bangkit,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Rachel Jackson,Tanah Kita Bangkit,Kimberly Snyder,1
+Timelines Converge,InStyleOf,David Stewart,Tanah Kita Bangkit,Kimberly Snyder,1
+Timelines Converge,InStyleOf,John Anderson,Tanah Kita Bangkit,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Sonic Renegade,Tanah Kita Bangkit,Kimberly Snyder,1
+Soft Love's First Light,LyricalReferenceTo,Kimberly Snyder,Radiant Silhouette,Kimberly Snyder,1
+Soft Love's First Light,LyricalReferenceTo,Joshua Herring,Radiant Silhouette,Kimberly Snyder,1
+Soft Love's First Light,LyricalReferenceTo,Rachel Jackson,Radiant Silhouette,Kimberly Snyder,1
+Soft Love's First Light,LyricalReferenceTo,Laura Lindsey,Radiant Silhouette,Kimberly Snyder,1
+Soft Love's First Light,LyricalReferenceTo,Sarah Young,Radiant Silhouette,Kimberly Snyder,1
+Soft Love's First Light,LyricalReferenceTo,Nancy Gonzalez,Radiant Silhouette,Kimberly Snyder,1
+Soft Love's First Light,LyricalReferenceTo,Valerie Phillips,Radiant Silhouette,Kimberly Snyder,1
+Soft Love's First Light,LyricalReferenceTo,John Gallagher,Radiant Silhouette,Kimberly Snyder,1
+Soft Love's First Light,LyricalReferenceTo,Denise White,Radiant Silhouette,Kimberly Snyder,1
+Soft Love's First Light,LyricalReferenceTo,Cody Turner,Radiant Silhouette,Kimberly Snyder,1
+Soft Love's First Light,LyricalReferenceTo,Sarah Lee,Radiant Silhouette,Kimberly Snyder,1
+Soft Love's First Light,LyricalReferenceTo,Twilight Riders,Radiant Silhouette,Kimberly Snyder,1
+Beethoven's Unheard Conversation,InterpolatesFrom,Kimberly Snyder,Radiant Silhouette,Kimberly Snyder,1
+Beethoven's Unheard Conversation,InterpolatesFrom,Joshua Herring,Radiant Silhouette,Kimberly Snyder,1
+Beethoven's Unheard Conversation,InterpolatesFrom,Rachel Jackson,Radiant Silhouette,Kimberly Snyder,1
+Beethoven's Unheard Conversation,InterpolatesFrom,Laura Lindsey,Radiant Silhouette,Kimberly Snyder,1
+Beethoven's Unheard Conversation,InterpolatesFrom,Sarah Young,Radiant Silhouette,Kimberly Snyder,1
+Beethoven's Unheard Conversation,InterpolatesFrom,Nancy Gonzalez,Radiant Silhouette,Kimberly Snyder,1
+Beethoven's Unheard Conversation,InterpolatesFrom,Valerie Phillips,Radiant Silhouette,Kimberly Snyder,1
+Beethoven's Unheard Conversation,InterpolatesFrom,John Gallagher,Radiant Silhouette,Kimberly Snyder,1
+Beethoven's Unheard Conversation,InterpolatesFrom,Denise White,Radiant Silhouette,Kimberly Snyder,1
+Beethoven's Unheard Conversation,InterpolatesFrom,Cody Turner,Radiant Silhouette,Kimberly Snyder,1
+Beethoven's Unheard Conversation,InterpolatesFrom,Sarah Lee,Radiant Silhouette,Kimberly Snyder,1
+Beethoven's Unheard Conversation,InterpolatesFrom,Twilight Riders,Radiant Silhouette,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Kimberly Snyder,Radiant Silhouette,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Joshua Herring,Radiant Silhouette,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Rachel Jackson,Radiant Silhouette,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Laura Lindsey,Radiant Silhouette,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Sarah Young,Radiant Silhouette,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Nancy Gonzalez,Radiant Silhouette,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Valerie Phillips,Radiant Silhouette,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,John Gallagher,Radiant Silhouette,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Denise White,Radiant Silhouette,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Cody Turner,Radiant Silhouette,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Sarah Lee,Radiant Silhouette,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Twilight Riders,Radiant Silhouette,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",LyricalReferenceTo,Kimberly Snyder,Radiant Silhouette,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",LyricalReferenceTo,Joshua Herring,Radiant Silhouette,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",LyricalReferenceTo,Rachel Jackson,Radiant Silhouette,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",LyricalReferenceTo,Laura Lindsey,Radiant Silhouette,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",LyricalReferenceTo,Sarah Young,Radiant Silhouette,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",LyricalReferenceTo,Nancy Gonzalez,Radiant Silhouette,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",LyricalReferenceTo,Valerie Phillips,Radiant Silhouette,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",LyricalReferenceTo,John Gallagher,Radiant Silhouette,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",LyricalReferenceTo,Denise White,Radiant Silhouette,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",LyricalReferenceTo,Cody Turner,Radiant Silhouette,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",LyricalReferenceTo,Sarah Lee,Radiant Silhouette,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",LyricalReferenceTo,Twilight Riders,Radiant Silhouette,Kimberly Snyder,1
+Fair Exchange,LyricalReferenceTo,Kimberly Snyder,Immovable Love,Kimberly Snyder,1
+Fair Exchange,LyricalReferenceTo,Gerald Mullins,Immovable Love,Kimberly Snyder,1
+Fair Exchange,LyricalReferenceTo,Andrew Montgomery,Immovable Love,Kimberly Snyder,1
+Fair Exchange,LyricalReferenceTo,Kelly Stewart,Immovable Love,Kimberly Snyder,1
+Fair Exchange,LyricalReferenceTo,Erica Walton,Immovable Love,Kimberly Snyder,1
+Fair Exchange,LyricalReferenceTo,Matthew Yoder,Immovable Love,Kimberly Snyder,1
+Fair Exchange,LyricalReferenceTo,Sonic Renegade,Immovable Love,Kimberly Snyder,1
+Fair Exchange,LyricalReferenceTo,Liquid Prism,Immovable Love,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Kimberly Snyder,Immovable Love,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Gerald Mullins,Immovable Love,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Andrew Montgomery,Immovable Love,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Kelly Stewart,Immovable Love,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Erica Walton,Immovable Love,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Matthew Yoder,Immovable Love,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Sonic Renegade,Immovable Love,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Liquid Prism,Immovable Love,Kimberly Snyder,1
+Scarves and Streetlight Shadows,CoverOf,Kimberly Snyder,Immovable Love,Kimberly Snyder,1
+Scarves and Streetlight Shadows,CoverOf,Gerald Mullins,Immovable Love,Kimberly Snyder,1
+Scarves and Streetlight Shadows,CoverOf,Andrew Montgomery,Immovable Love,Kimberly Snyder,1
+Scarves and Streetlight Shadows,CoverOf,Kelly Stewart,Immovable Love,Kimberly Snyder,1
+Scarves and Streetlight Shadows,CoverOf,Erica Walton,Immovable Love,Kimberly Snyder,1
+Scarves and Streetlight Shadows,CoverOf,Matthew Yoder,Immovable Love,Kimberly Snyder,1
+Scarves and Streetlight Shadows,CoverOf,Sonic Renegade,Immovable Love,Kimberly Snyder,1
+Scarves and Streetlight Shadows,CoverOf,Liquid Prism,Immovable Love,Kimberly Snyder,1
+Ethereal Afterthoughts,InterpolatesFrom,Kimberly Snyder,Immovable Love,Kimberly Snyder,1
+Ethereal Afterthoughts,InterpolatesFrom,Gerald Mullins,Immovable Love,Kimberly Snyder,1
+Ethereal Afterthoughts,InterpolatesFrom,Andrew Montgomery,Immovable Love,Kimberly Snyder,1
+Ethereal Afterthoughts,InterpolatesFrom,Kelly Stewart,Immovable Love,Kimberly Snyder,1
+Ethereal Afterthoughts,InterpolatesFrom,Erica Walton,Immovable Love,Kimberly Snyder,1
+Ethereal Afterthoughts,InterpolatesFrom,Matthew Yoder,Immovable Love,Kimberly Snyder,1
+Ethereal Afterthoughts,InterpolatesFrom,Sonic Renegade,Immovable Love,Kimberly Snyder,1
+Ethereal Afterthoughts,InterpolatesFrom,Liquid Prism,Immovable Love,Kimberly Snyder,1
+Timelines Converge,CoverOf,Kimberly Snyder,Ethereal Afterthoughts,Kimberly Snyder,1
+Timelines Converge,CoverOf,Joshua Herring,Ethereal Afterthoughts,Kimberly Snyder,1
+Timelines Converge,CoverOf,Gerald Mullins,Ethereal Afterthoughts,Kimberly Snyder,1
+Timelines Converge,CoverOf,Erica Walton,Ethereal Afterthoughts,Kimberly Snyder,1
+Timelines Converge,CoverOf,Matthew Yoder,Ethereal Afterthoughts,Kimberly Snyder,1
+Timelines Converge,CoverOf,Nichole Martinez,Ethereal Afterthoughts,Kimberly Snyder,1
+Timelines Converge,CoverOf,Sonic Renegade,Ethereal Afterthoughts,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Catalina Borja Barbero,Symphonic Ecosystem,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Graciana Sacristán Saura,Symphonic Ecosystem,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Rosenda Reyes Salazar,Symphonic Ecosystem,Kimberly Snyder,1
+Beethoven's Unheard Conversation,LyricalReferenceTo,Catalina Borja Barbero,Symphonic Ecosystem,Kimberly Snyder,1
+Beethoven's Unheard Conversation,LyricalReferenceTo,Graciana Sacristán Saura,Symphonic Ecosystem,Kimberly Snyder,1
+Beethoven's Unheard Conversation,LyricalReferenceTo,Rosenda Reyes Salazar,Symphonic Ecosystem,Kimberly Snyder,1
+Soft Love's First Light,InterpolatesFrom,Catalina Borja Barbero,Symphonic Ecosystem,Kimberly Snyder,1
+Soft Love's First Light,InterpolatesFrom,Graciana Sacristán Saura,Symphonic Ecosystem,Kimberly Snyder,1
+Soft Love's First Light,InterpolatesFrom,Rosenda Reyes Salazar,Symphonic Ecosystem,Kimberly Snyder,1
+Timelines Converge,LyricalReferenceTo,Kimberly Snyder,Carols of the Silent Night,Kimberly Snyder,1
+Timelines Converge,LyricalReferenceTo,Gerald Mullins,Carols of the Silent Night,Kimberly Snyder,1
+Timelines Converge,LyricalReferenceTo,Thomas Weber,Carols of the Silent Night,Kimberly Snyder,1
+Timelines Converge,LyricalReferenceTo,Rachel Jackson,Carols of the Silent Night,Kimberly Snyder,1
+Timelines Converge,LyricalReferenceTo,John Anderson,Carols of the Silent Night,Kimberly Snyder,1
+Timelines Converge,LyricalReferenceTo,Colleen Velazquez,Carols of the Silent Night,Kimberly Snyder,1
+Timelines Converge,LyricalReferenceTo,Jeffrey Munoz PhD,Carols of the Silent Night,Kimberly Snyder,1
+Timelines Converge,LyricalReferenceTo,Amber Bates,Carols of the Silent Night,Kimberly Snyder,1
+Timelines Converge,LyricalReferenceTo,Thomas Salinas,Carols of the Silent Night,Kimberly Snyder,1
+Timelines Converge,LyricalReferenceTo,Robert Garcia,Carols of the Silent Night,Kimberly Snyder,1
+Timelines Converge,LyricalReferenceTo,Cody Patterson,Carols of the Silent Night,Kimberly Snyder,1
+Timelines Converge,LyricalReferenceTo,Ryan Austin,Carols of the Silent Night,Kimberly Snyder,1
+Timelines Converge,LyricalReferenceTo,Sonic Renegade,Carols of the Silent Night,Kimberly Snyder,1
+Timelines Converge,LyricalReferenceTo,Luminous Fracture,Carols of the Silent Night,Kimberly Snyder,1
+Timelines Converge,CoverOf,Jing Ren,Whispers of Innocence,Kimberly Snyder,1
+Timelines Converge,CoverOf,Ping Mao,Whispers of Innocence,Kimberly Snyder,1
+Timelines Converge,CoverOf,Tao Yan,Whispers of Innocence,Kimberly Snyder,1
+Fair Exchange,InStyleOf,Helmtrud Mälzer-Paffrath,Quick Change,Kimberly Snyder,1
+Carols of the Silent Night,InterpolatesFrom,Kimberly Snyder,"Silent Hooves, Whispering Forest",Kimberly Snyder,1
+Carols of the Silent Night,InterpolatesFrom,Angelina Sölzer,"Silent Hooves, Whispering Forest",Kimberly Snyder,1
+Carols of the Silent Night,InterpolatesFrom,Liquid Vortex,"Silent Hooves, Whispering Forest",Kimberly Snyder,1
+Timelines Converge,DirectlySamples,Kimberly Snyder,"Silent Hooves, Whispering Forest",Kimberly Snyder,1
+Timelines Converge,DirectlySamples,Angelina Sölzer,"Silent Hooves, Whispering Forest",Kimberly Snyder,1
+Timelines Converge,DirectlySamples,Liquid Vortex,"Silent Hooves, Whispering Forest",Kimberly Snyder,1
+Tanah Kita Bangkit,LyricalReferenceTo,Kimberly Snyder,"Silent Hooves, Whispering Forest",Kimberly Snyder,1
+Tanah Kita Bangkit,LyricalReferenceTo,Angelina Sölzer,"Silent Hooves, Whispering Forest",Kimberly Snyder,1
+Tanah Kita Bangkit,LyricalReferenceTo,Liquid Vortex,"Silent Hooves, Whispering Forest",Kimberly Snyder,1
+Carols of the Silent Night,LyricalReferenceTo,Kimberly Snyder,Maria's Obeskrivna Minnen (Maria's Unwritten Memories),Kimberly Snyder,1
+Carols of the Silent Night,LyricalReferenceTo,Mike Robinson,Maria's Obeskrivna Minnen (Maria's Unwritten Memories),Kimberly Snyder,1
+Carols of the Silent Night,LyricalReferenceTo,Rachel Jackson,Maria's Obeskrivna Minnen (Maria's Unwritten Memories),Kimberly Snyder,1
+Carols of the Silent Night,LyricalReferenceTo,John Anderson,Maria's Obeskrivna Minnen (Maria's Unwritten Memories),Kimberly Snyder,1
+Carols of the Silent Night,LyricalReferenceTo,Robert Garcia,Maria's Obeskrivna Minnen (Maria's Unwritten Memories),Kimberly Snyder,1
+Carols of the Silent Night,LyricalReferenceTo,Ryan Austin,Maria's Obeskrivna Minnen (Maria's Unwritten Memories),Kimberly Snyder,1
+Carols of the Silent Night,LyricalReferenceTo,Adam Arnold,Maria's Obeskrivna Minnen (Maria's Unwritten Memories),Kimberly Snyder,1
+Carols of the Silent Night,LyricalReferenceTo,Carlos Townsend,Maria's Obeskrivna Minnen (Maria's Unwritten Memories),Kimberly Snyder,1
+Carols of the Silent Night,LyricalReferenceTo,Norma Huff,Maria's Obeskrivna Minnen (Maria's Unwritten Memories),Kimberly Snyder,1
+Carols of the Silent Night,LyricalReferenceTo,Luminous Fracture,Maria's Obeskrivna Minnen (Maria's Unwritten Memories),Kimberly Snyder,1
+Timelines Converge,CoverOf,Kimberly Snyder,Maria's Obeskrivna Minnen (Maria's Unwritten Memories),Kimberly Snyder,1
+Timelines Converge,CoverOf,Mike Robinson,Maria's Obeskrivna Minnen (Maria's Unwritten Memories),Kimberly Snyder,1
+Timelines Converge,CoverOf,Rachel Jackson,Maria's Obeskrivna Minnen (Maria's Unwritten Memories),Kimberly Snyder,1
+Timelines Converge,CoverOf,John Anderson,Maria's Obeskrivna Minnen (Maria's Unwritten Memories),Kimberly Snyder,1
+Timelines Converge,CoverOf,Robert Garcia,Maria's Obeskrivna Minnen (Maria's Unwritten Memories),Kimberly Snyder,1
+Timelines Converge,CoverOf,Ryan Austin,Maria's Obeskrivna Minnen (Maria's Unwritten Memories),Kimberly Snyder,1
+Timelines Converge,CoverOf,Adam Arnold,Maria's Obeskrivna Minnen (Maria's Unwritten Memories),Kimberly Snyder,1
+Timelines Converge,CoverOf,Carlos Townsend,Maria's Obeskrivna Minnen (Maria's Unwritten Memories),Kimberly Snyder,1
+Timelines Converge,CoverOf,Norma Huff,Maria's Obeskrivna Minnen (Maria's Unwritten Memories),Kimberly Snyder,1
+Timelines Converge,CoverOf,Luminous Fracture,Maria's Obeskrivna Minnen (Maria's Unwritten Memories),Kimberly Snyder,1
+Soft Love's First Light,LyricalReferenceTo,Rachel Jackson,Second String Soul,Kimberly Snyder,1
+Soft Love's First Light,LyricalReferenceTo,Roy Tschentscher,Second String Soul,Kimberly Snyder,1
+Soft Love's First Light,LyricalReferenceTo,Karl-August Beyer,Second String Soul,Kimberly Snyder,1
+Soft Love's First Light,LyricalReferenceTo,Angelina Sölzer,Second String Soul,Kimberly Snyder,1
+Soft Love's First Light,LyricalReferenceTo,Kristina Romero,Second String Soul,Kimberly Snyder,1
+Soft Love's First Light,LyricalReferenceTo,Amanda Tucker,Second String Soul,Kimberly Snyder,1
+Carols of the Silent Night,CoverOf,Rachel Jackson,Second String Soul,Kimberly Snyder,1
+Carols of the Silent Night,CoverOf,Roy Tschentscher,Second String Soul,Kimberly Snyder,1
+Carols of the Silent Night,CoverOf,Karl-August Beyer,Second String Soul,Kimberly Snyder,1
+Carols of the Silent Night,CoverOf,Angelina Sölzer,Second String Soul,Kimberly Snyder,1
+Carols of the Silent Night,CoverOf,Kristina Romero,Second String Soul,Kimberly Snyder,1
+Carols of the Silent Night,CoverOf,Amanda Tucker,Second String Soul,Kimberly Snyder,1
+Carols of the Silent Night,CoverOf,Kimberly Snyder,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Carols of the Silent Night,CoverOf,Gerald Mullins,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Carols of the Silent Night,CoverOf,Kelly Stewart,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Carols of the Silent Night,CoverOf,Rachel Jackson,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Carols of the Silent Night,CoverOf,Jason Jordan,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Carols of the Silent Night,CoverOf,Denise White,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Carols of the Silent Night,CoverOf,Roy Tschentscher,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Carols of the Silent Night,CoverOf,Brandon Griffith,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Carols of the Silent Night,CoverOf,Sonic Renegade,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Carols of the Silent Night,CoverOf,Twilight Riders,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,Kimberly Snyder,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,Gerald Mullins,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,Kelly Stewart,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,Rachel Jackson,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,Jason Jordan,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,Denise White,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,Roy Tschentscher,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,Brandon Griffith,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,Sonic Renegade,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,Twilight Riders,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Tanah Kita Bangkit,CoverOf,Kimberly Snyder,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Tanah Kita Bangkit,CoverOf,Gerald Mullins,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Tanah Kita Bangkit,CoverOf,Kelly Stewart,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Tanah Kita Bangkit,CoverOf,Rachel Jackson,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Tanah Kita Bangkit,CoverOf,Jason Jordan,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Tanah Kita Bangkit,CoverOf,Denise White,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Tanah Kita Bangkit,CoverOf,Roy Tschentscher,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Tanah Kita Bangkit,CoverOf,Brandon Griffith,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Tanah Kita Bangkit,CoverOf,Sonic Renegade,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Tanah Kita Bangkit,CoverOf,Twilight Riders,Beethoven's Unheard Conversation,Kimberly Snyder,1
+Fair Exchange,CoverOf,Lindsay Williams,The Drover's Lament,Kimberly Snyder,1
+Fair Exchange,CoverOf,Vanessa King,The Drover's Lament,Kimberly Snyder,1
+Fair Exchange,CoverOf,Emily Nash,The Drover's Lament,Kimberly Snyder,1
+Ethereal Afterthoughts,InStyleOf,Kimberly Snyder,Sovereign's Whisper,Kimberly Snyder,1
+Ethereal Afterthoughts,InStyleOf,Joshua Herring,Sovereign's Whisper,Kimberly Snyder,1
+Ethereal Afterthoughts,InStyleOf,Gerald Mullins,Sovereign's Whisper,Kimberly Snyder,1
+Ethereal Afterthoughts,InStyleOf,Kelly Stewart,Sovereign's Whisper,Kimberly Snyder,1
+Ethereal Afterthoughts,InStyleOf,Erica Walton,Sovereign's Whisper,Kimberly Snyder,1
+Ethereal Afterthoughts,InStyleOf,Matthew Yoder,Sovereign's Whisper,Kimberly Snyder,1
+Ethereal Afterthoughts,InStyleOf,Colleen Frank PhD,Sovereign's Whisper,Kimberly Snyder,1
+Ethereal Afterthoughts,InStyleOf,Sonic Renegade,Sovereign's Whisper,Kimberly Snyder,1
+Ethereal Afterthoughts,InStyleOf,Liquid Prism,Sovereign's Whisper,Kimberly Snyder,1
+Stones of the Holy City,InStyleOf,Kimberly Snyder,Sovereign's Whisper,Kimberly Snyder,1
+Stones of the Holy City,InStyleOf,Joshua Herring,Sovereign's Whisper,Kimberly Snyder,1
+Stones of the Holy City,InStyleOf,Gerald Mullins,Sovereign's Whisper,Kimberly Snyder,1
+Stones of the Holy City,InStyleOf,Kelly Stewart,Sovereign's Whisper,Kimberly Snyder,1
+Stones of the Holy City,InStyleOf,Erica Walton,Sovereign's Whisper,Kimberly Snyder,1
+Stones of the Holy City,InStyleOf,Matthew Yoder,Sovereign's Whisper,Kimberly Snyder,1
+Stones of the Holy City,InStyleOf,Colleen Frank PhD,Sovereign's Whisper,Kimberly Snyder,1
+Stones of the Holy City,InStyleOf,Sonic Renegade,Sovereign's Whisper,Kimberly Snyder,1
+Stones of the Holy City,InStyleOf,Liquid Prism,Sovereign's Whisper,Kimberly Snyder,1
+Timelines Converge,LyricalReferenceTo,Kimberly Snyder,Sovereign's Whisper,Kimberly Snyder,1
+Timelines Converge,LyricalReferenceTo,Joshua Herring,Sovereign's Whisper,Kimberly Snyder,1
+Timelines Converge,LyricalReferenceTo,Gerald Mullins,Sovereign's Whisper,Kimberly Snyder,1
+Timelines Converge,LyricalReferenceTo,Kelly Stewart,Sovereign's Whisper,Kimberly Snyder,1
+Timelines Converge,LyricalReferenceTo,Erica Walton,Sovereign's Whisper,Kimberly Snyder,1
+Timelines Converge,LyricalReferenceTo,Matthew Yoder,Sovereign's Whisper,Kimberly Snyder,1
+Timelines Converge,LyricalReferenceTo,Colleen Frank PhD,Sovereign's Whisper,Kimberly Snyder,1
+Timelines Converge,LyricalReferenceTo,Sonic Renegade,Sovereign's Whisper,Kimberly Snyder,1
+Timelines Converge,LyricalReferenceTo,Liquid Prism,Sovereign's Whisper,Kimberly Snyder,1
+Scarves and Streetlight Shadows,LyricalReferenceTo,Kimberly Snyder,Sovereign's Whisper,Kimberly Snyder,1
+Scarves and Streetlight Shadows,LyricalReferenceTo,Joshua Herring,Sovereign's Whisper,Kimberly Snyder,1
+Scarves and Streetlight Shadows,LyricalReferenceTo,Gerald Mullins,Sovereign's Whisper,Kimberly Snyder,1
+Scarves and Streetlight Shadows,LyricalReferenceTo,Kelly Stewart,Sovereign's Whisper,Kimberly Snyder,1
+Scarves and Streetlight Shadows,LyricalReferenceTo,Erica Walton,Sovereign's Whisper,Kimberly Snyder,1
+Scarves and Streetlight Shadows,LyricalReferenceTo,Matthew Yoder,Sovereign's Whisper,Kimberly Snyder,1
+Scarves and Streetlight Shadows,LyricalReferenceTo,Colleen Frank PhD,Sovereign's Whisper,Kimberly Snyder,1
+Scarves and Streetlight Shadows,LyricalReferenceTo,Sonic Renegade,Sovereign's Whisper,Kimberly Snyder,1
+Scarves and Streetlight Shadows,LyricalReferenceTo,Liquid Prism,Sovereign's Whisper,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Kimberly Snyder,Childhood Memories Never Fade,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Gerald Mullins,Childhood Memories Never Fade,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Tina Hobbs,Childhood Memories Never Fade,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Hubert Oderwald,Childhood Memories Never Fade,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Annelise Berger,Childhood Memories Never Fade,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Alfonso Bähr,Childhood Memories Never Fade,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Lilo Christoph,Childhood Memories Never Fade,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Kimberly Snyder,Echoes of a Global Generation,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Gerald Mullins,Echoes of a Global Generation,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Gregory Reeves,Echoes of a Global Generation,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Cory Wall,Echoes of a Global Generation,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Sonic Renegade,Echoes of a Global Generation,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Kimberly Snyder,Echoes of a Global Generation,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Gerald Mullins,Echoes of a Global Generation,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Gregory Reeves,Echoes of a Global Generation,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Cory Wall,Echoes of a Global Generation,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Sonic Renegade,Echoes of a Global Generation,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Kimberly Snyder,Echoes of a Global Generation,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Gerald Mullins,Echoes of a Global Generation,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Gregory Reeves,Echoes of a Global Generation,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Cory Wall,Echoes of a Global Generation,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Sonic Renegade,Echoes of a Global Generation,Kimberly Snyder,1
+Tanah Kita Bangkit,LyricalReferenceTo,Kimberly Snyder,Echoes of a Global Generation,Kimberly Snyder,1
+Tanah Kita Bangkit,LyricalReferenceTo,Gerald Mullins,Echoes of a Global Generation,Kimberly Snyder,1
+Tanah Kita Bangkit,LyricalReferenceTo,Gregory Reeves,Echoes of a Global Generation,Kimberly Snyder,1
+Tanah Kita Bangkit,LyricalReferenceTo,Cory Wall,Echoes of a Global Generation,Kimberly Snyder,1
+Tanah Kita Bangkit,LyricalReferenceTo,Sonic Renegade,Echoes of a Global Generation,Kimberly Snyder,1
+Timelines Converge,CoverOf,Kimberly Snyder,Soft Love's First Light,Kimberly Snyder,1
+Timelines Converge,CoverOf,Kelly Stewart,Soft Love's First Light,Kimberly Snyder,1
+Timelines Converge,CoverOf,Rachel Jackson,Soft Love's First Light,Kimberly Snyder,1
+Timelines Converge,CoverOf,John Anderson,Soft Love's First Light,Kimberly Snyder,1
+Timelines Converge,CoverOf,Jason Jordan,Soft Love's First Light,Kimberly Snyder,1
+Timelines Converge,CoverOf,Denise White,Soft Love's First Light,Kimberly Snyder,1
+Timelines Converge,CoverOf,Roy Tschentscher,Soft Love's First Light,Kimberly Snyder,1
+Timelines Converge,CoverOf,Karl-August Beyer,Soft Love's First Light,Kimberly Snyder,1
+Timelines Converge,CoverOf,Angelina Sölzer,Soft Love's First Light,Kimberly Snyder,1
+Timelines Converge,CoverOf,Hinrich Weimer,Soft Love's First Light,Kimberly Snyder,1
+Timelines Converge,CoverOf,Liquid Vortex,Soft Love's First Light,Kimberly Snyder,1
+Timelines Converge,CoverOf,Twilight Riders,Soft Love's First Light,Kimberly Snyder,1
+Carols of the Silent Night,InterpolatesFrom,Kimberly Snyder,Soft Love's First Light,Kimberly Snyder,1
+Carols of the Silent Night,InterpolatesFrom,Kelly Stewart,Soft Love's First Light,Kimberly Snyder,1
+Carols of the Silent Night,InterpolatesFrom,Rachel Jackson,Soft Love's First Light,Kimberly Snyder,1
+Carols of the Silent Night,InterpolatesFrom,John Anderson,Soft Love's First Light,Kimberly Snyder,1
+Carols of the Silent Night,InterpolatesFrom,Jason Jordan,Soft Love's First Light,Kimberly Snyder,1
+Carols of the Silent Night,InterpolatesFrom,Denise White,Soft Love's First Light,Kimberly Snyder,1
+Carols of the Silent Night,InterpolatesFrom,Roy Tschentscher,Soft Love's First Light,Kimberly Snyder,1
+Carols of the Silent Night,InterpolatesFrom,Karl-August Beyer,Soft Love's First Light,Kimberly Snyder,1
+Carols of the Silent Night,InterpolatesFrom,Angelina Sölzer,Soft Love's First Light,Kimberly Snyder,1
+Carols of the Silent Night,InterpolatesFrom,Hinrich Weimer,Soft Love's First Light,Kimberly Snyder,1
+Carols of the Silent Night,InterpolatesFrom,Liquid Vortex,Soft Love's First Light,Kimberly Snyder,1
+Carols of the Silent Night,InterpolatesFrom,Twilight Riders,Soft Love's First Light,Kimberly Snyder,1
+Tanah Kita Bangkit,DirectlySamples,Kimberly Snyder,Soft Love's First Light,Kimberly Snyder,1
+Tanah Kita Bangkit,DirectlySamples,Kelly Stewart,Soft Love's First Light,Kimberly Snyder,1
+Tanah Kita Bangkit,DirectlySamples,Rachel Jackson,Soft Love's First Light,Kimberly Snyder,1
+Tanah Kita Bangkit,DirectlySamples,John Anderson,Soft Love's First Light,Kimberly Snyder,1
+Tanah Kita Bangkit,DirectlySamples,Jason Jordan,Soft Love's First Light,Kimberly Snyder,1
+Tanah Kita Bangkit,DirectlySamples,Denise White,Soft Love's First Light,Kimberly Snyder,1
+Tanah Kita Bangkit,DirectlySamples,Roy Tschentscher,Soft Love's First Light,Kimberly Snyder,1
+Tanah Kita Bangkit,DirectlySamples,Karl-August Beyer,Soft Love's First Light,Kimberly Snyder,1
+Tanah Kita Bangkit,DirectlySamples,Angelina Sölzer,Soft Love's First Light,Kimberly Snyder,1
+Tanah Kita Bangkit,DirectlySamples,Hinrich Weimer,Soft Love's First Light,Kimberly Snyder,1
+Tanah Kita Bangkit,DirectlySamples,Liquid Vortex,Soft Love's First Light,Kimberly Snyder,1
+Tanah Kita Bangkit,DirectlySamples,Twilight Riders,Soft Love's First Light,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,Kimberly Snyder,Shadows Between Us,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,Joshua Herring,Shadows Between Us,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,Gerald Mullins,Shadows Between Us,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,Erica Walton,Shadows Between Us,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,Matthew Yoder,Shadows Between Us,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,Sonic Renegade,Shadows Between Us,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,Liquid Prism,Shadows Between Us,Kimberly Snyder,1
+Ethereal Afterthoughts,CoverOf,Kimberly Snyder,Shadows Between Us,Kimberly Snyder,1
+Ethereal Afterthoughts,CoverOf,Joshua Herring,Shadows Between Us,Kimberly Snyder,1
+Ethereal Afterthoughts,CoverOf,Gerald Mullins,Shadows Between Us,Kimberly Snyder,1
+Ethereal Afterthoughts,CoverOf,Erica Walton,Shadows Between Us,Kimberly Snyder,1
+Ethereal Afterthoughts,CoverOf,Matthew Yoder,Shadows Between Us,Kimberly Snyder,1
+Ethereal Afterthoughts,CoverOf,Sonic Renegade,Shadows Between Us,Kimberly Snyder,1
+Ethereal Afterthoughts,CoverOf,Liquid Prism,Shadows Between Us,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Kimberly Snyder,Shadows Between Us,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Joshua Herring,Shadows Between Us,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Gerald Mullins,Shadows Between Us,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Erica Walton,Shadows Between Us,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Matthew Yoder,Shadows Between Us,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Sonic Renegade,Shadows Between Us,Kimberly Snyder,1
+Timelines Converge,InStyleOf,Liquid Prism,Shadows Between Us,Kimberly Snyder,1
+Maria's Obeskrivna Minnen (Maria's Unwritten Memories),InStyleOf,Chao Yu,"Empty Ballrooms, Weary Hearts",Kimberly Snyder,1
+Maria's Obeskrivna Minnen (Maria's Unwritten Memories),InStyleOf,Fang Xiao,"Empty Ballrooms, Weary Hearts",Kimberly Snyder,1
+Maria's Obeskrivna Minnen (Maria's Unwritten Memories),InStyleOf,Steven Smith,"Empty Ballrooms, Weary Hearts",Kimberly Snyder,1
+Maria's Obeskrivna Minnen (Maria's Unwritten Memories),InStyleOf,Wei Luo,"Empty Ballrooms, Weary Hearts",Kimberly Snyder,1
+Maria's Obeskrivna Minnen (Maria's Unwritten Memories),InStyleOf,Yan Yang,"Empty Ballrooms, Weary Hearts",Kimberly Snyder,1
+Maria's Obeskrivna Minnen (Maria's Unwritten Memories),InStyleOf,Jie Xie,"Empty Ballrooms, Weary Hearts",Kimberly Snyder,1
+Maria's Obeskrivna Minnen (Maria's Unwritten Memories),InStyleOf,Lei Bai,"Empty Ballrooms, Weary Hearts",Kimberly Snyder,1
+Maria's Obeskrivna Minnen (Maria's Unwritten Memories),InStyleOf,Brittany Holmes,"Empty Ballrooms, Weary Hearts",Kimberly Snyder,1
+Maria's Obeskrivna Minnen (Maria's Unwritten Memories),InStyleOf,Yan Fu,"Empty Ballrooms, Weary Hearts",Kimberly Snyder,1
+Maria's Obeskrivna Minnen (Maria's Unwritten Memories),InStyleOf,Xia Liang,"Empty Ballrooms, Weary Hearts",Kimberly Snyder,1
+Soft Love's First Light,InterpolatesFrom,Joshua Herring,Partner or Pretender,Kimberly Snyder,1
+Soft Love's First Light,InterpolatesFrom,Gerald Mullins,Partner or Pretender,Kimberly Snyder,1
+Soft Love's First Light,InterpolatesFrom,Cory Wall,Partner or Pretender,Kimberly Snyder,1
+Soft Love's First Light,InterpolatesFrom,Hinrich Weimer,Partner or Pretender,Kimberly Snyder,1
+Ethereal Afterthoughts,DirectlySamples,Joshua Herring,Partner or Pretender,Kimberly Snyder,1
+Ethereal Afterthoughts,DirectlySamples,Gerald Mullins,Partner or Pretender,Kimberly Snyder,1
+Ethereal Afterthoughts,DirectlySamples,Cory Wall,Partner or Pretender,Kimberly Snyder,1
+Ethereal Afterthoughts,DirectlySamples,Hinrich Weimer,Partner or Pretender,Kimberly Snyder,1
+Fragments of a Simple Girl,InterpolatesFrom,Joshua Herring,Partner or Pretender,Kimberly Snyder,1
+Fragments of a Simple Girl,InterpolatesFrom,Gerald Mullins,Partner or Pretender,Kimberly Snyder,1
+Fragments of a Simple Girl,InterpolatesFrom,Cory Wall,Partner or Pretender,Kimberly Snyder,1
+Fragments of a Simple Girl,InterpolatesFrom,Hinrich Weimer,Partner or Pretender,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Joshua Herring,Partner or Pretender,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Gerald Mullins,Partner or Pretender,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Cory Wall,Partner or Pretender,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Hinrich Weimer,Partner or Pretender,Kimberly Snyder,1
+Timelines Converge,LyricalReferenceTo,Joshua Herring,Partner or Pretender,Kimberly Snyder,1
+Timelines Converge,LyricalReferenceTo,Gerald Mullins,Partner or Pretender,Kimberly Snyder,1
+Timelines Converge,LyricalReferenceTo,Cory Wall,Partner or Pretender,Kimberly Snyder,1
+Timelines Converge,LyricalReferenceTo,Hinrich Weimer,Partner or Pretender,Kimberly Snyder,1
+Fair Exchange,CoverOf,Joshua Herring,Partner or Pretender,Kimberly Snyder,1
+Fair Exchange,CoverOf,Gerald Mullins,Partner or Pretender,Kimberly Snyder,1
+Fair Exchange,CoverOf,Cory Wall,Partner or Pretender,Kimberly Snyder,1
+Fair Exchange,CoverOf,Hinrich Weimer,Partner or Pretender,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",CoverOf,Joshua Herring,Partner or Pretender,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",CoverOf,Gerald Mullins,Partner or Pretender,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",CoverOf,Cory Wall,Partner or Pretender,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",CoverOf,Hinrich Weimer,Partner or Pretender,Kimberly Snyder,1
+Maria's Obeskrivna Minnen (Maria's Unwritten Memories),InStyleOf,Kimberly Snyder,Playful Improvisation,Kimberly Snyder,1
+Maria's Obeskrivna Minnen (Maria's Unwritten Memories),InStyleOf,Gerald Mullins,Playful Improvisation,Kimberly Snyder,1
+Maria's Obeskrivna Minnen (Maria's Unwritten Memories),InStyleOf,Kelly Stewart,Playful Improvisation,Kimberly Snyder,1
+Maria's Obeskrivna Minnen (Maria's Unwritten Memories),InStyleOf,John Anderson,Playful Improvisation,Kimberly Snyder,1
+Maria's Obeskrivna Minnen (Maria's Unwritten Memories),InStyleOf,Norma Huff,Playful Improvisation,Kimberly Snyder,1
+Maria's Obeskrivna Minnen (Maria's Unwritten Memories),InStyleOf,Sonic Renegade,Playful Improvisation,Kimberly Snyder,1
+Carols of the Silent Night,LyricalReferenceTo,Nicole Valenzuela,Verdant Silence Descends,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Kimberly Snyder,Fair Exchange,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Joshua Herring,Fair Exchange,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Gerald Mullins,Fair Exchange,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Tina Hobbs,Fair Exchange,Kimberly Snyder,1
+Timelines Converge,CoverOf,Kimberly Snyder,Fair Exchange,Kimberly Snyder,1
+Timelines Converge,CoverOf,Joshua Herring,Fair Exchange,Kimberly Snyder,1
+Timelines Converge,CoverOf,Gerald Mullins,Fair Exchange,Kimberly Snyder,1
+Timelines Converge,CoverOf,Tina Hobbs,Fair Exchange,Kimberly Snyder,1
+Ethereal Afterthoughts,CoverOf,Kimberly Snyder,Fair Exchange,Kimberly Snyder,1
+Ethereal Afterthoughts,CoverOf,Joshua Herring,Fair Exchange,Kimberly Snyder,1
+Ethereal Afterthoughts,CoverOf,Gerald Mullins,Fair Exchange,Kimberly Snyder,1
+Ethereal Afterthoughts,CoverOf,Tina Hobbs,Fair Exchange,Kimberly Snyder,1
+Tanah Kita Bangkit,LyricalReferenceTo,Kimberly Snyder,Fair Exchange,Kimberly Snyder,1
+Tanah Kita Bangkit,LyricalReferenceTo,Joshua Herring,Fair Exchange,Kimberly Snyder,1
+Tanah Kita Bangkit,LyricalReferenceTo,Gerald Mullins,Fair Exchange,Kimberly Snyder,1
+Tanah Kita Bangkit,LyricalReferenceTo,Tina Hobbs,Fair Exchange,Kimberly Snyder,1
+Fair Exchange,InStyleOf,Paula Wilson,Umbrella Shuffle,Kimberly Snyder,1
+Fair Exchange,InStyleOf,Steven Branch,Umbrella Shuffle,Kimberly Snyder,1
+Fair Exchange,InStyleOf,Jennifer Mccoy,Umbrella Shuffle,Kimberly Snyder,1
+Fair Exchange,InStyleOf,Christopher Wilson,Umbrella Shuffle,Kimberly Snyder,1
+Fair Exchange,InStyleOf,Nicholas Lawrence,Umbrella Shuffle,Kimberly Snyder,1
+Fair Exchange,InStyleOf,Phantom Resonance,Umbrella Shuffle,Kimberly Snyder,1
+Tanah Kita Bangkit,LyricalReferenceTo,Joshua Herring,Warsaw Veins,Kimberly Snyder,1
+Tanah Kita Bangkit,LyricalReferenceTo,Gerald Mullins,Warsaw Veins,Kimberly Snyder,1
+Tanah Kita Bangkit,LyricalReferenceTo,Colleen Frank PhD,Warsaw Veins,Kimberly Snyder,1
+Tanah Kita Bangkit,LyricalReferenceTo,Dennis Mcdowell,Warsaw Veins,Kimberly Snyder,1
+Sovereign's Whisper,LyricalReferenceTo,Joshua Herring,Warsaw Veins,Kimberly Snyder,1
+Sovereign's Whisper,LyricalReferenceTo,Gerald Mullins,Warsaw Veins,Kimberly Snyder,1
+Sovereign's Whisper,LyricalReferenceTo,Colleen Frank PhD,Warsaw Veins,Kimberly Snyder,1
+Sovereign's Whisper,LyricalReferenceTo,Dennis Mcdowell,Warsaw Veins,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Joshua Herring,Warsaw Veins,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Gerald Mullins,Warsaw Veins,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Colleen Frank PhD,Warsaw Veins,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Dennis Mcdowell,Warsaw Veins,Kimberly Snyder,1
+Carols of the Silent Night,CoverOf,Joshua Herring,Warsaw Veins,Kimberly Snyder,1
+Carols of the Silent Night,CoverOf,Gerald Mullins,Warsaw Veins,Kimberly Snyder,1
+Carols of the Silent Night,CoverOf,Colleen Frank PhD,Warsaw Veins,Kimberly Snyder,1
+Carols of the Silent Night,CoverOf,Dennis Mcdowell,Warsaw Veins,Kimberly Snyder,1
+Shadows Between Us,InterpolatesFrom,Joshua Herring,Warsaw Veins,Kimberly Snyder,1
+Shadows Between Us,InterpolatesFrom,Gerald Mullins,Warsaw Veins,Kimberly Snyder,1
+Shadows Between Us,InterpolatesFrom,Colleen Frank PhD,Warsaw Veins,Kimberly Snyder,1
+Shadows Between Us,InterpolatesFrom,Dennis Mcdowell,Warsaw Veins,Kimberly Snyder,1
+Scarves and Streetlight Shadows,CoverOf,Joshua Herring,Warsaw Veins,Kimberly Snyder,1
+Scarves and Streetlight Shadows,CoverOf,Gerald Mullins,Warsaw Veins,Kimberly Snyder,1
+Scarves and Streetlight Shadows,CoverOf,Colleen Frank PhD,Warsaw Veins,Kimberly Snyder,1
+Scarves and Streetlight Shadows,CoverOf,Dennis Mcdowell,Warsaw Veins,Kimberly Snyder,1
+Timelines Converge,CoverOf,Joshua Herring,Warsaw Veins,Kimberly Snyder,1
+Timelines Converge,CoverOf,Gerald Mullins,Warsaw Veins,Kimberly Snyder,1
+Timelines Converge,CoverOf,Colleen Frank PhD,Warsaw Veins,Kimberly Snyder,1
+Timelines Converge,CoverOf,Dennis Mcdowell,Warsaw Veins,Kimberly Snyder,1
+Ethereal Afterthoughts,CoverOf,Joshua Herring,Warsaw Veins,Kimberly Snyder,1
+Ethereal Afterthoughts,CoverOf,Gerald Mullins,Warsaw Veins,Kimberly Snyder,1
+Ethereal Afterthoughts,CoverOf,Colleen Frank PhD,Warsaw Veins,Kimberly Snyder,1
+Ethereal Afterthoughts,CoverOf,Dennis Mcdowell,Warsaw Veins,Kimberly Snyder,1
+Carols of the Silent Night,CoverOf,Janine Berger,Loose Change Lullaby,Kimberly Snyder,1
+Carols of the Silent Night,CoverOf,Agata Bähr-Metz,Loose Change Lullaby,Kimberly Snyder,1
+Carols of the Silent Night,CoverOf,Gudrun Atzler,Loose Change Lullaby,Kimberly Snyder,1
+Scarves and Streetlight Shadows,InStyleOf,Kimberly Snyder,Fragments of a Simple Girl,Kimberly Snyder,1
+Scarves and Streetlight Shadows,InStyleOf,Kelly Stewart,Fragments of a Simple Girl,Kimberly Snyder,1
+Scarves and Streetlight Shadows,InStyleOf,John Anderson,Fragments of a Simple Girl,Kimberly Snyder,1
+Scarves and Streetlight Shadows,InStyleOf,Jeffrey Munoz PhD,Fragments of a Simple Girl,Kimberly Snyder,1
+Scarves and Streetlight Shadows,InStyleOf,Thomas Salinas,Fragments of a Simple Girl,Kimberly Snyder,1
+Scarves and Streetlight Shadows,InStyleOf,Robert Garcia,Fragments of a Simple Girl,Kimberly Snyder,1
+Scarves and Streetlight Shadows,InStyleOf,Jillian Salazar,Fragments of a Simple Girl,Kimberly Snyder,1
+Scarves and Streetlight Shadows,InStyleOf,Hinrich Weimer,Fragments of a Simple Girl,Kimberly Snyder,1
+Scarves and Streetlight Shadows,InStyleOf,Luminous Fracture,Fragments of a Simple Girl,Kimberly Snyder,1
+Timelines Converge,DirectlySamples,Kimberly Snyder,Fragments of a Simple Girl,Kimberly Snyder,1
+Timelines Converge,DirectlySamples,Kelly Stewart,Fragments of a Simple Girl,Kimberly Snyder,1
+Timelines Converge,DirectlySamples,John Anderson,Fragments of a Simple Girl,Kimberly Snyder,1
+Timelines Converge,DirectlySamples,Jeffrey Munoz PhD,Fragments of a Simple Girl,Kimberly Snyder,1
+Timelines Converge,DirectlySamples,Thomas Salinas,Fragments of a Simple Girl,Kimberly Snyder,1
+Timelines Converge,DirectlySamples,Robert Garcia,Fragments of a Simple Girl,Kimberly Snyder,1
+Timelines Converge,DirectlySamples,Jillian Salazar,Fragments of a Simple Girl,Kimberly Snyder,1
+Timelines Converge,DirectlySamples,Hinrich Weimer,Fragments of a Simple Girl,Kimberly Snyder,1
+Timelines Converge,DirectlySamples,Luminous Fracture,Fragments of a Simple Girl,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",InStyleOf,Kimberly Snyder,Whisper My Identity,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",InStyleOf,Gerald Mullins,Whisper My Identity,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",InStyleOf,John Anderson,Whisper My Identity,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",InStyleOf,Roy Tschentscher,Whisper My Identity,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",InStyleOf,Angelina Sölzer,Whisper My Identity,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",InStyleOf,Gregory Reeves,Whisper My Identity,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",InStyleOf,Emily Perkins,Whisper My Identity,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",InStyleOf,Kimberly Lee,Whisper My Identity,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",InStyleOf,Kristina Serrano,Whisper My Identity,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",InStyleOf,Melissa Johnson,Whisper My Identity,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",InStyleOf,Joseph Rodriguez,Whisper My Identity,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",InStyleOf,John Johnston,Whisper My Identity,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",InStyleOf,Sonic Renegade,Whisper My Identity,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Kimberly Snyder,Whisper My Identity,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Gerald Mullins,Whisper My Identity,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,John Anderson,Whisper My Identity,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Roy Tschentscher,Whisper My Identity,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Angelina Sölzer,Whisper My Identity,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Gregory Reeves,Whisper My Identity,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Emily Perkins,Whisper My Identity,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Kimberly Lee,Whisper My Identity,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Kristina Serrano,Whisper My Identity,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Melissa Johnson,Whisper My Identity,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Joseph Rodriguez,Whisper My Identity,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,John Johnston,Whisper My Identity,Kimberly Snyder,1
+Fair Exchange,InterpolatesFrom,Sonic Renegade,Whisper My Identity,Kimberly Snyder,1
+Tanah Kita Bangkit,InterpolatesFrom,Kimberly Snyder,Whisper My Identity,Kimberly Snyder,1
+Tanah Kita Bangkit,InterpolatesFrom,Gerald Mullins,Whisper My Identity,Kimberly Snyder,1
+Tanah Kita Bangkit,InterpolatesFrom,John Anderson,Whisper My Identity,Kimberly Snyder,1
+Tanah Kita Bangkit,InterpolatesFrom,Roy Tschentscher,Whisper My Identity,Kimberly Snyder,1
+Tanah Kita Bangkit,InterpolatesFrom,Angelina Sölzer,Whisper My Identity,Kimberly Snyder,1
+Tanah Kita Bangkit,InterpolatesFrom,Gregory Reeves,Whisper My Identity,Kimberly Snyder,1
+Tanah Kita Bangkit,InterpolatesFrom,Emily Perkins,Whisper My Identity,Kimberly Snyder,1
+Tanah Kita Bangkit,InterpolatesFrom,Kimberly Lee,Whisper My Identity,Kimberly Snyder,1
+Tanah Kita Bangkit,InterpolatesFrom,Kristina Serrano,Whisper My Identity,Kimberly Snyder,1
+Tanah Kita Bangkit,InterpolatesFrom,Melissa Johnson,Whisper My Identity,Kimberly Snyder,1
+Tanah Kita Bangkit,InterpolatesFrom,Joseph Rodriguez,Whisper My Identity,Kimberly Snyder,1
+Tanah Kita Bangkit,InterpolatesFrom,John Johnston,Whisper My Identity,Kimberly Snyder,1
+Tanah Kita Bangkit,InterpolatesFrom,Sonic Renegade,Whisper My Identity,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Kimberly Snyder,Whisper My Identity,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Gerald Mullins,Whisper My Identity,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,John Anderson,Whisper My Identity,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Roy Tschentscher,Whisper My Identity,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Angelina Sölzer,Whisper My Identity,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Gregory Reeves,Whisper My Identity,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Emily Perkins,Whisper My Identity,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Kimberly Lee,Whisper My Identity,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Kristina Serrano,Whisper My Identity,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Melissa Johnson,Whisper My Identity,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Joseph Rodriguez,Whisper My Identity,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,John Johnston,Whisper My Identity,Kimberly Snyder,1
+Carols of the Silent Night,InStyleOf,Sonic Renegade,Whisper My Identity,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,Kimberly Snyder,Whisper My Identity,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,Gerald Mullins,Whisper My Identity,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,John Anderson,Whisper My Identity,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,Roy Tschentscher,Whisper My Identity,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,Angelina Sölzer,Whisper My Identity,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,Gregory Reeves,Whisper My Identity,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,Emily Perkins,Whisper My Identity,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,Kimberly Lee,Whisper My Identity,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,Kristina Serrano,Whisper My Identity,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,Melissa Johnson,Whisper My Identity,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,Joseph Rodriguez,Whisper My Identity,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,John Johnston,Whisper My Identity,Kimberly Snyder,1
+Soft Love's First Light,InStyleOf,Sonic Renegade,Whisper My Identity,Kimberly Snyder,1
+Timelines Converge,InterpolatesFrom,Kimberly Snyder,Whisper My Identity,Kimberly Snyder,1
+Timelines Converge,InterpolatesFrom,Gerald Mullins,Whisper My Identity,Kimberly Snyder,1
+Timelines Converge,InterpolatesFrom,John Anderson,Whisper My Identity,Kimberly Snyder,1
+Timelines Converge,InterpolatesFrom,Roy Tschentscher,Whisper My Identity,Kimberly Snyder,1
+Timelines Converge,InterpolatesFrom,Angelina Sölzer,Whisper My Identity,Kimberly Snyder,1
+Timelines Converge,InterpolatesFrom,Gregory Reeves,Whisper My Identity,Kimberly Snyder,1
+Timelines Converge,InterpolatesFrom,Emily Perkins,Whisper My Identity,Kimberly Snyder,1
+Timelines Converge,InterpolatesFrom,Kimberly Lee,Whisper My Identity,Kimberly Snyder,1
+Timelines Converge,InterpolatesFrom,Kristina Serrano,Whisper My Identity,Kimberly Snyder,1
+Timelines Converge,InterpolatesFrom,Melissa Johnson,Whisper My Identity,Kimberly Snyder,1
+Timelines Converge,InterpolatesFrom,Joseph Rodriguez,Whisper My Identity,Kimberly Snyder,1
+Timelines Converge,InterpolatesFrom,John Johnston,Whisper My Identity,Kimberly Snyder,1
+Timelines Converge,InterpolatesFrom,Sonic Renegade,Whisper My Identity,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",InStyleOf,Xavier Leclerc,Melodic Exposition,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",InStyleOf,Rodney Hayes,Melodic Exposition,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",InStyleOf,Janet Aguilar,Melodic Exposition,Kimberly Snyder,1
+Tanah Kita Bangkit,InterpolatesFrom,Imelda Zaguri,Beyond Moderation,Kimberly Snyder,1
+Tanah Kita Bangkit,InterpolatesFrom,Nanni Telesio,Beyond Moderation,Kimberly Snyder,1
+Tanah Kita Bangkit,InterpolatesFrom,Annetta Passalacqua,Beyond Moderation,Kimberly Snyder,1
+Soft Love's First Light,DirectlySamples,Rachel Jackson,Peaks of Passion,Kimberly Snyder,1
+Soft Love's First Light,DirectlySamples,Denise White,Peaks of Passion,Kimberly Snyder,1
+Soft Love's First Light,DirectlySamples,Roy Tschentscher,Peaks of Passion,Kimberly Snyder,1
+Soft Love's First Light,DirectlySamples,Karl-August Beyer,Peaks of Passion,Kimberly Snyder,1
+Soft Love's First Light,DirectlySamples,Kristina Romero,Peaks of Passion,Kimberly Snyder,1
+Soft Love's First Light,DirectlySamples,Amanda Tucker,Peaks of Passion,Kimberly Snyder,1
+Soft Love's First Light,DirectlySamples,Aleksandar Kohl,Peaks of Passion,Kimberly Snyder,1
+Soft Love's First Light,DirectlySamples,Liquid Vortex,Peaks of Passion,Kimberly Snyder,1
+Soft Love's First Light,DirectlySamples,Twilight Riders,Peaks of Passion,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",InterpolatesFrom,Rachel Jackson,Peaks of Passion,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",InterpolatesFrom,Denise White,Peaks of Passion,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",InterpolatesFrom,Roy Tschentscher,Peaks of Passion,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",InterpolatesFrom,Karl-August Beyer,Peaks of Passion,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",InterpolatesFrom,Kristina Romero,Peaks of Passion,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",InterpolatesFrom,Amanda Tucker,Peaks of Passion,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",InterpolatesFrom,Aleksandar Kohl,Peaks of Passion,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",InterpolatesFrom,Liquid Vortex,Peaks of Passion,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",InterpolatesFrom,Twilight Riders,Peaks of Passion,Kimberly Snyder,1
+Ethereal Afterthoughts,DirectlySamples,Kimberly Snyder,Counterpoint in Twilight,Kimberly Snyder,1
+Ethereal Afterthoughts,DirectlySamples,Dennis Mcdowell,Counterpoint in Twilight,Kimberly Snyder,1
+Ethereal Afterthoughts,DirectlySamples,Brandi Sutton,Counterpoint in Twilight,Kimberly Snyder,1
+Stones of the Holy City,InStyleOf,Kimberly Snyder,Counterpoint in Twilight,Kimberly Snyder,1
+Stones of the Holy City,InStyleOf,Dennis Mcdowell,Counterpoint in Twilight,Kimberly Snyder,1
+Stones of the Holy City,InStyleOf,Brandi Sutton,Counterpoint in Twilight,Kimberly Snyder,1
+"Silent Hooves, Whispering Forest",CoverOf,Violet Engines,Highway Lights,Kimberly Snyder,1
+Radiant Silhouette,CoverOf,Crimson Carriage,The Road Calls Again,Kimberly Snyder,1
+Radiant Silhouette,LyricalReferenceTo,The Hollow Monarchs,Farewell to the Fading Sun,Kimberly Snyder,1
+Scarves and Streetlight Shadows,CoverOf,Claire Holmes,"The City Never Sleeps, But We Do",Kimberly Snyder,1
+Backwards in the Saddle,InterpolatesFrom,Yong Zheng,Roots and Rhythms,Yong Zheng,1
+Abandoned Melodies,LyricalReferenceTo,Yong Zheng,Roots and Rhythms,Yong Zheng,1
+Starship Strut,InStyleOf,Przemysław Grupa,Andalusian Rhythm,Yong Zheng,1
+Starship Strut,InStyleOf,Li Zheng,Andalusian Rhythm,Yong Zheng,1
+Echoes from the Elfin Veil,InterpolatesFrom,Yong Zheng,The Whispers of Walborg,Yong Zheng,1
+Echoes from the Elfin Veil,InterpolatesFrom,Yong Mao,The Whispers of Walborg,Yong Zheng,1
+Devour My Heart,LyricalReferenceTo,Yong Zheng,They Won't Understand Our Vision,Yong Zheng,1
+Starship Strut,CoverOf,Yong Zheng,They Won't Understand Our Vision,Yong Zheng,1
+Echoes from the Elfin Veil,InterpolatesFrom,Yong Zheng,They Won't Understand Our Vision,Yong Zheng,1
+Devour My Heart,InterpolatesFrom,Yong Zheng,Echoes from the Elfin Veil,Yong Zheng,1
+Devour My Heart,InterpolatesFrom,Li Zheng,Echoes from the Elfin Veil,Yong Zheng,1
+Devour My Heart,InterpolatesFrom,Debra Martin,Echoes from the Elfin Veil,Yong Zheng,1
+Starship Strut,InterpolatesFrom,Yong Zheng,Echoes from the Elfin Veil,Yong Zheng,1
+Starship Strut,InterpolatesFrom,Li Zheng,Echoes from the Elfin Veil,Yong Zheng,1
+Starship Strut,InterpolatesFrom,Debra Martin,Echoes from the Elfin Veil,Yong Zheng,1
+Starship Strut,CoverOf,Yan Jin,Hidden Pages of Truth,Yong Zheng,1
+Starship Strut,CoverOf,Yang Peng,Hidden Pages of Truth,Yong Zheng,1
+Starship Strut,CoverOf,Juan Qiao,Hidden Pages of Truth,Yong Zheng,1
+Starship Strut,CoverOf,Nordic Echo,Hidden Pages of Truth,Yong Zheng,1
+Starship Strut,InStyleOf,Yong Zheng,"Lifted High, His Name Divine",Yong Zheng,1
+Starship Strut,InStyleOf,Jun Liang,"Lifted High, His Name Divine",Yong Zheng,1
+Echoes from the Elfin Veil,CoverOf,Yong Zheng,"Lifted High, His Name Divine",Yong Zheng,1
+Echoes from the Elfin Veil,CoverOf,Jun Liang,"Lifted High, His Name Divine",Yong Zheng,1
+Devour My Heart,InStyleOf,Yong Zheng,"Lifted High, His Name Divine",Yong Zheng,1
+Devour My Heart,InStyleOf,Jun Liang,"Lifted High, His Name Divine",Yong Zheng,1
+Echoes of a Vanishing Embrace,InStyleOf,Gang Mo,Echoes of Sunrise,Yong Zheng,1
+Abandoned Melodies,InStyleOf,Gang Mo,Echoes of Sunrise,Yong Zheng,1
+Starship Strut,InStyleOf,Li Zheng,Distant Heartlines,Yong Zheng,1
+Abandoned Melodies,InterpolatesFrom,Miranda Robinson,No Turning Back,Yong Zheng,1
+Abandoned Melodies,InterpolatesFrom,Jose Martin,No Turning Back,Yong Zheng,1
+Abandoned Melodies,InterpolatesFrom,Jennifer Diaz,No Turning Back,Yong Zheng,1
+Abandoned Melodies,InterpolatesFrom,Yong Zheng,Echoes of a Vanishing Embrace,Yong Zheng,1
+Quando Le Ore Si Fermano (When the Hours Stand Still),InStyleOf,Yong Zheng,Echoes of a Vanishing Embrace,Yong Zheng,1
+Starship Strut,LyricalReferenceTo,Yong Zheng,Echoes of a Vanishing Embrace,Yong Zheng,1
+Abandoned Melodies,InStyleOf,Yong Zheng,Backwards in the Saddle,Yong Zheng,1
+Quando Le Ore Si Fermano (When the Hours Stand Still),LyricalReferenceTo,Yong Zheng,Backwards in the Saddle,Yong Zheng,1
+Tears of Pure Joy,InterpolatesFrom,Yong Zheng,Backwards in the Saddle,Yong Zheng,1
+Abandoned Melodies,InterpolatesFrom,Yan Jin,Selfie Syndrome,Yong Zheng,1
+Abandoned Melodies,InterpolatesFrom,Yang Peng,Selfie Syndrome,Yong Zheng,1
+Abandoned Melodies,InterpolatesFrom,Juan Qiao,Selfie Syndrome,Yong Zheng,1
+Abandoned Melodies,InterpolatesFrom,Wei Liu,Selfie Syndrome,Yong Zheng,1
+Quando Le Ore Si Fermano (When the Hours Stand Still),InterpolatesFrom,Yan Jin,Selfie Syndrome,Yong Zheng,1
+Quando Le Ore Si Fermano (When the Hours Stand Still),InterpolatesFrom,Yang Peng,Selfie Syndrome,Yong Zheng,1
+Quando Le Ore Si Fermano (When the Hours Stand Still),InterpolatesFrom,Juan Qiao,Selfie Syndrome,Yong Zheng,1
+Quando Le Ore Si Fermano (When the Hours Stand Still),InterpolatesFrom,Wei Liu,Selfie Syndrome,Yong Zheng,1
+Devour My Heart,DirectlySamples,Li Zheng,Whispers from the Bamboo Grove,Yong Zheng,1
+They Won't Understand Our Vision,LyricalReferenceTo,Li Zheng,Whispers from the Bamboo Grove,Yong Zheng,1
+Echoes from the Elfin Veil,LyricalReferenceTo,Li Zheng,Whispers from the Bamboo Grove,Yong Zheng,1
+Starship Strut,InStyleOf,Debra Martin,Nordisk Ljusdans (Nordic Light Dance),Yong Zheng,1
+Quando Le Ore Si Fermano (When the Hours Stand Still),InStyleOf,Debra Martin,Nordisk Ljusdans (Nordic Light Dance),Yong Zheng,1
+Devour My Heart,InStyleOf,Debra Martin,Nordisk Ljusdans (Nordic Light Dance),Yong Zheng,1
+They Won't Understand Our Vision,LyricalReferenceTo,Debra Martin,Nordisk Ljusdans (Nordic Light Dance),Yong Zheng,1
+Echoes from the Elfin Veil,InStyleOf,Debra Martin,Nordisk Ljusdans (Nordic Light Dance),Yong Zheng,1
+Starship Strut,InStyleOf,Natasha Mcdaniel,Defeat's Refrain,Yong Zheng,1
+Starship Strut,InStyleOf,Henry Scott,Defeat's Refrain,Yong Zheng,1

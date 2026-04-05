@@ -1,30 +1,3 @@
-# import pandas as pd
-
-# # Load master file
-# df = pd.read_csv('../data/mc1_1a.csv', low_memory=False)
-
-# # 1. Find the "Inner Circle": People who worked on Sailor Shift's songs
-# # Get the IDs of all songs she performed
-# ss_work_ids = df[(df['name_source'] == 'Sailor Shift') & (df['Edge Type'] == 'PerformerOf')]['id_target'].unique()
-
-# # Get the names of everyone else who has a credit on those same songs
-# inner_circle = df[(df['id_target'].isin(ss_work_ids)) & 
-#                   (df['name_source'] != 'Sailor Shift')]['name_source'].unique()
-
-# # 2. Trace the "Ripple Effect": What did these people do NEXT in Oceanus Folk?
-# # Look for all songs in the 'Oceanus Folk' genre performed by her collaborators
-# ripple_effect = df[(df['name_source'].isin(inner_circle)) & 
-#                    (df['genre_target'] == 'Oceanus Folk') &
-#                    (~df['id_target'].isin(ss_work_ids))].copy()
-
-# # 3. Format for Tableau (The "Launchpad" Dataset)
-# # We want to see: Collaborator -> Their Role -> Their Success outside Sailor Shift
-# ripple_effect['Source_of_Influence'] = 'Sailor Shift'
-# ripple_effect.to_csv('../data/sailor_ripple_effect.csv', index=False)
-
-
-
-
 # BEFORE AFTER SAILOR COLLAB
 import pandas as pd
 

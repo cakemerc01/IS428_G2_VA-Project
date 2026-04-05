@@ -1,75 +1,54 @@
 import pandas as pd
 
-# 1. Load Data
-nodes = pd.read_csv('../data/mc1_nodes.csv')
-edges = pd.read_csv('../data/mc1_edges.csv')
+# 1. Load master file
+df = pd.read_csv('../data/mc1_1a.csv')
 
-# 2. Pre-process Data
-# Convert release dates to numeric and extract notable status
-nodes['release_date_numeric'] = pd.to_numeric(nodes['release_date'], errors='coerce')
-nodes['notable_bool'] = nodes['notable'].astype(str).str.strip().str.upper() == 'TRUE'
+# List of artists to process
+artists = [
+    'Megan Bennett', 
+    'Urszula Stochmal', 
+    'Yong Zheng', 
+    'Kimberly Snyder', 
+    'Sailor Shift', 
+    'Julia Carter', 
+    'Claire Holmes', 
+    'Cassian Storm',
+    'Sienna Fox',
+    "Selkie's Hollow",
+    "Sylas Dune"
+]
 
-# Define Sailor Shift's ID
-ss_id = 17255 
+# Influence types to track
+influence_types = ['InStyleOf', 'CoverOf', 'InterpolatesFrom', 'LyricalReferenceTo']
 
-# 3. Identify Work and Reference Types
-work_edge_types = ['PerformerOf', 'ComposerOf', 'LyricistOf', 'ProducerOf']
-ref_edge_types = ['InterpolatesFrom', 'CoverOf', 'InStyleOf', 'LyricalReferenceTo', 'DirectlySamples']
+# List to store dataframes for each artist
+all_artist_data = []
 
-# 4. Get Sailor Shift's Catalog
-# Find all song/album IDs where Sailor Shift is a performer, composer, etc.
-ss_catalog = set(edges[(edges['source'] == ss_id) & (edges['Edge Type'].isin(work_edge_types))]['target'])
+for person in artists:
+    # 2. Identify the artist's performed songs/albums
+    her_works = df[(df['name_source'] == person) & (df['Edge Type'] == 'PerformerOf')]['name_target'].unique()
+    
+    # 3. Filter for those songs' outward influences (The "Source -> Target" relationship)
+    sankey_data = df[(df['name_source'].isin(her_works)) & 
+                     (df['Edge Type'].isin(influence_types))].copy()
+    
+    if not sankey_data.empty:
+        # 4. Prepare columns for the Viz Extension
+        extension_prep = sankey_data[['name_source', 'genre_target']].rename(columns={
+            'name_source': 'Song_Source',
+            'genre_target': 'Genre_Target'
+        })
+        
+        # 5. Add identifying metadata
+        extension_prep['Weight'] = 1
+        extension_prep['Person'] = person  # Add the filter column
+        
+        all_artist_data.append(extension_prep)
 
-# 5. Map Artists to their Works
-# Get all "Artist" nodes (People or Musical Groups)
-artist_nodes = nodes[nodes['Node Type'].isin(['Person', 'MusicalGroup'])]
-artist_map = artist_nodes.set_index('id')['name'].to_dict()
+# 6. Combine all artists into one master dataframe
+final_combined_df = pd.concat(all_artist_data, ignore_index=True)
 
-# Link artists to their released tracks/albums
-track_nodes = nodes[nodes['Node Type'].isin(['Song', 'Album'])][['id', 'release_date_numeric', 'notable_bool']]
-artist_work_links = edges[(edges['source'].isin(artist_nodes['id'])) & (edges['Edge Type'].isin(work_edge_types))]
-artist_to_track_data = artist_work_links.merge(track_nodes, left_on='target', right_on='id')
+# 7. Save to a single CSV
+final_combined_df.to_csv('../data/combined_artist_reference_sankey.csv', index=False)
 
-# 6. Calculate Metrics per Artist
-# Debut Year (Earliest release)
-debuts = artist_to_track_data.groupby('source')['release_date_numeric'].min().reset_index()
-debuts.columns = ['artist_id', 'debut_year']
-
-# Filter for those debuting 2030 onwards
-candidates = debuts[debuts['debut_year'] >= 2030].copy()
-candidate_ids = set(candidates['artist_id'])
-
-# Metric A: Volume (Unique Songs/Albums)
-volume = artist_to_track_data[artist_to_track_data['source'].isin(candidate_ids)].groupby('source')['target'].nunique().reset_index()
-volume.columns = ['artist_id', 'num_songs']
-
-# Metric B: Notability (Count of Notable Works)
-notable = artist_to_track_data[(artist_to_track_data['source'].isin(candidate_ids)) & (artist_to_track_data['notable_bool'] == True)]
-notability = notable.groupby('source')['target'].nunique().reset_index()
-notability.columns = ['artist_id', 'num_notable']
-
-# Metric C: Collaboration (Worked on the SAME track as Sailor Shift)
-collaborators = set(edges[(edges['target'].isin(ss_catalog)) & (edges['Edge Type'].isin(work_edge_types))]['source'])
-collaborators.discard(ss_id) # Remove self
-
-# Metric D: References (Stylistic similarity/references to Sailor Shift's catalog)
-# Count tracks by artist that reference a track in Sailor Shift's catalog
-ref_edges = edges[(edges['target'].isin(ss_catalog)) & (edges['Edge Type'].isin(ref_edge_types))]
-artist_refs = artist_work_links.merge(ref_edges, left_on='target', right_on='source')
-ref_counts = artist_refs.groupby('source_x').size().reset_index()
-ref_counts.columns = ['artist_id', 'ref_count']
-
-# 7. Final Assembly and Ranking
-final_ranking = candidates.merge(volume, on='artist_id', how='left')
-final_ranking = final_ranking.merge(notability, on='artist_id', how='left').fillna(0)
-final_ranking = final_ranking.merge(ref_counts, on='artist_id', how='left').fillna(0)
-final_ranking['collab_ss'] = final_ranking['artist_id'].isin(collaborators)
-final_ranking['name'] = final_ranking['artist_id'].map(artist_map)
-
-# Sorting: By Volume, then Notability, then Collaboration, then References
-top_10 = final_ranking.sort_values(
-    by=['num_songs', 'num_notable', 'collab_ss', 'ref_count'], 
-    ascending=False
-).head(10)
-
-print(top_10[['name', 'debut_year', 'num_songs', 'num_notable', 'collab_ss', 'ref_count']])
+print(f"Success! Processed {len(artists)} artists into combined_artist_reference_sankey.csv")

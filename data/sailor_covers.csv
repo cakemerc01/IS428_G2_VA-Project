@@ -1,5 +1,0 @@
-Edge Type,source,target,key,Node Type_source,name_source,single_source,release_date_source,genre_source,notable_source,id_source,written_date_source,stage_name_source,notoriety_date_source,Node Type_target,name_target,single_target,release_date_target,genre_target,notable_target,id_target,written_date_target,stage_name_target,notoriety_date_target,Performer
-CoverOf,17273,9848,0,Album,Salty Dreams,,2030.0,Oceanus Folk,True,17273,2029.0,,,Song,Partisan's Lament,True,2030.0,Indie Pop,True,9848,,,,Sailor Shift
-CoverOf,17275,16312,0,Album,Coral Beats,,2034.0,Oceanus Folk,True,17275,2033.0,,,Song,Harvest Dance at Ler Valley,True,2010.0,Psychedelic Rock,True,16312,,,,Sailor Shift
-CoverOf,17280,14933,0,Song,Electric Eel Love,False,2028.0,Oceanus Folk,True,17280,,,,Song,The Crown We Wear,True,2022.0,Indie Rock,True,14933,,,,Sailor Shift
-CoverOf,17350,10016,0,Album,Tidesworn Ballads,,2031.0,Oceanus Folk,True,17350,2030.0,,,Song,Dreamscape of Judgment,True,2023.0,Symphonic Metal,True,10016,,,,Sailor Shift
