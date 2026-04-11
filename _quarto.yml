@@ -9,7 +9,8 @@ website:
         text: Home
       - proposal.qmd
       - minutes.qmd
-      - about.qmd
+      - results.qmd
+      - poster.qmd
     right:
       - icon: github
         href: https://github.com/cakemerc01/IS428_G2_VA-Project

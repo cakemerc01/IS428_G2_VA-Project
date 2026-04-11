@@ -31,3 +31,202 @@ This page serves as a comprehensive record of our team's progress, decisions, an
 ---
 
 ## Meeting 2
+* **Date:** March 13, 2026  
+* **Time:** 8:32 PM – 9:00 PM  
+* **Location:** Virtual  
+* **Attendees:** Saanvi Madan, Yi Ning  
+
+### Agenda
+1. Project topic selection  
+
+### Discussion Points
+1. Discussed possible project topics  
+2. Selected **Mini-Challenge 1 of the VAST 2025 Challenge** after evaluating scope and feasibility  
+
+### Action Items
+| Task | Assigned To | Status |
+|------|------------|--------|
+| Work on project proposal (due March 18) | Both | Completed |
+
+### Closing
+The meeting was adjourned at 9:00 PM. The next meeting date is March 21, 2026.
+
+---
+
+## Meeting 3
+* **Date:** March 21, 2026  
+* **Time:** 8:00 PM – 8:59 PM  
+* **Location:** Virtual  
+* **Attendees:** Saanvi Madan, Yi Ning  
+
+### Agenda
+1. Data cleaning and visualisation planning  
+
+### Discussion Points
+1. Data cleaning methods (Pandas vs Tableau pivoting)  
+2. Visualisation planning for tasks:
+
+- **Task 1a:** Time series (artist vs song influence)  
+- **Task 1b:** Use edges: composerof, lyricistof, memberof  
+- **Task 1c:** Treemap / hierarchy / Sankey diagram  
+- **Task 2a:** Time series  
+- **Task 2b:** Bipartite network graph  
+- **Task 2c:** Time series + stacked bar chart  
+
+### Action Items
+| Task | Assigned To | Status |
+|------|------------|--------|
+| Create visuals for Task 1 | Yi Ning | Completed |
+| Create visuals for Task 2 | Saanvi | Completed |
+
+### Closing
+The meeting was adjourned at 8:59 PM. The next meeting date is March 29, 2026.
+
+---
+
+## Meeting 4
+* **Date:** March 29, 2026  
+* **Time:** 9:00 PM – 10:00 PM  
+* **Location:** Virtual (Zoom)  
+* **Attendees:** Saanvi Madan, Yi Ning  
+
+### Agenda
+1. Review visuals for Tasks 1 & 2  
+
+### Discussion Points
+1. **Task 1a:** Chose Sankey over dot chart  
+2. **Task 1b & 1c:** No major issues  
+3. **Task 2a:** Balanced clarity vs comprehensiveness  
+4. **Task 2b:** Issues with Gephi → consult professor  
+5. **Task 2c:** Finalised stacked bar chart  
+
+### Action Items
+| Task | Assigned To | Status |
+|------|------------|--------|
+| Improve visuals | Both | Completed |
+| Brainstorm Task 3 visuals | Both | Completed |
+
+### Closing
+The meeting was adjourned at 10:00 PM. The next meeting date is March 30, 2026.
+
+---
+
+## Meeting 5
+* **Date:** March 30, 2026  
+* **Time:** 2:00 PM  
+* **Location:** In-person  
+* **Attendees:** Saanvi Madan, Yi Ning  
+
+### Agenda
+1. Task 3 planning  
+
+### Discussion Points
+1. Defined popularity & influence metrics  
+2. Explored possible visualisations  
+3. Selected artists for Task 3a  
+
+### Action Items
+| Task | Assigned To | Status |
+|------|------------|--------|
+| Create Task 3a visuals | Both | Completed |
+
+### Closing
+The meeting was adjourned at 2:00 PM. The next meeting date is April 1, 2026.
+
+---
+
+## Meeting 6
+* **Date:** April 1, 2026  
+* **Time:** 8:00 PM – 9:00 PM  
+* **Location:** In-person  
+* **Attendees:** Saanvi Madan, Yi Ning  
+
+### Agenda
+1. Review Task 3 visuals  
+
+### Discussion Points
+1. Selected final visual types (trend, radar, Sankey, Gephi)  
+2. Discussed identifying rising artists  
+3. Decided to consult professor  
+
+### Action Items
+| Task | Assigned To | Status |
+|------|------------|--------|
+| Create Task 3b visuals | Both | Completed |
+
+### Closing
+The meeting was adjourned at 9:00 PM. The next meeting date is April 3, 2026.
+
+---
+
+## Meeting 7
+* **Date:** April 3, 2026  
+* **Time:** 9:00 AM – 10:00 AM  
+* **Location:** Virtual  
+* **Attendees:** Saanvi Madan, Yi Ning, Prof Kam Tin Seong  
+
+### Agenda
+1. Feedback session  
+
+### Discussion Points
+1. Reviewed visuals with professor  
+2. Added interactivity suggestions  
+3. Discussed evaluation metrics  
+4. Guidance on Gephi visualisation  
+
+### Action Items
+| Task | Assigned To | Status |
+|------|------------|--------|
+| Improve visuals based on feedback | Both | Completed |
+| Continue Task 3b | Both | Completed |
+| Send Gephi files | Saanvi | Completed |
+
+### Closing
+The meeting was adjourned at 10:00 AM. The next meeting date is April 5, 2026.
+
+---
+
+## Meeting 8
+* **Date:** April 5, 2026  
+* **Time:** 9:30 AM – 9:50 AM  
+* **Location:** Virtual  
+* **Attendees:** Saanvi Madan, Yi Ning  
+
+### Agenda
+1. Finalise Task 3b and poster  
+
+### Discussion Points
+1. Finalised Task 3b visuals  
+2. Began poster work and divided sections  
+
+### Action Items
+| Task | Assigned To | Status |
+|------|------------|--------|
+| Poster (Overview, Motivation, Task 1) | Yi Ning | Completed |
+| Poster (Task 2, 3, Conclusion) | Saanvi | Completed |
+
+### Closing
+The meeting was adjourned at 9:50 AM. The next meeting date is April 8, 2026.
+
+---
+
+## Meeting 9
+* **Date:** April 8, 2026  
+* **Time:** 8:45 PM – 9:35 PM  
+* **Location:** Virtual  
+* **Attendees:** Saanvi Madan, Yi Ning  
+
+### Agenda
+1. Poster finalisation  
+
+### Discussion Points
+1. Edited and finalised poster  
+2. Resized and submitted on eLearn  
+
+### Action Items
+| Task | Assigned To | Status |
+|------|------------|--------|
+| Complete final deliverables | Both | Completed |
+
+### Closing
+The meeting was adjourned at 9:35 PM. The next meeting date is tentative.

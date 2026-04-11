@@ -1,0 +1,6 @@
+---
+title: "Poster"
+page-layout: full
+---
+
+![](Images/poster.jpg){fig-align="center" width="90%"}
