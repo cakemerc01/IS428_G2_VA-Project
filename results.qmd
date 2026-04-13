@@ -85,6 +85,68 @@ This individual influence aligns with a larger shift in the music industry. Whil
 
 ---
 
-# Task 2
+# Task 2: Understanding the Influence of the Oceanus Folk Genre
+
+### Shift of Oceanus Folk Music Overtime
+
+![](Images%202/Oceanus%20Folk%20Music%20Overtime%20(2a).png){fig-align="center" width="100%"}
+
+::: {.columns}
+::: {.column width="50%"}
+![](Images%202/Genres%20overtime%20-%20highlight%20table%20(2a).png){fig-align="center" width="100%"}
+:::
+
+::: {.column width="50%"}
+![](Images%202/Genres%20overtime%20-%20Pareto%20Chart%20(2a).png){fig-align="center" width="100%"}
+:::
+:::
+
+### Influence of Oceanus Folk Genre
+
+::: {.columns}
+::: {.column width="50%"}
+![](Images%202/Genres%20Influenced%20(2b).png){fig-align="center" width="100%"}
+![](Images%202/Bipartite%20Graph(2b).png){fig-align="center" width="90%" fig-cap="2030}
+:::
+
+::: {.column width="50%"}
+![](Images%202/Artists%20Influenced%20(2b).png){fig-align="center" width="100%"}
+:::
+:::
+
+
+### Influence on Oceanus Folk Genre
+
 
 ---
+
+# Task 3a: Understanding Rising Stars in the Music Industry
+
+### Profile of a Rising Star
+![](Images%202/Popularity%20Charts%20(3a).png){fig-align="center" width="100%"}
+
+::: {.columns}
+::: {.column width="50%"}
+![](Images%202/Radar%20Chart%20(3a).png){fig-align="center" width="100%"}
+![](Images%202/Megan%20Bennet%20Influence%20(3a).jpg){fig-align="center" width="100%"}
+:::
+
+::: {.column width="50%"}
+![](Images%202/Ancestry%20Graph%20(3a).png){fig-align="center" width="100%"}
+![](Images%202/Urszula%20Stochmal%20(3a).jpg){fig-align="center" width="100%"}
+:::
+:::
+
+### Predicted New Rising Stars
+
+
+::: {.columns}
+::: {.column width="50%"}
+![](Images%202/Radar%20Chart%20(3b).png){fig-align="center" width="100%"}
+:::
+
+::: {.column width="50%"}
+![](Images%202/Ancestry%20Graph%20(3b).png){fig-align="center" width="100%"}
+:::
+:::
+
