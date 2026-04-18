@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.35">
+<meta name="generator" content="quarto-1.9.36">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -40,7 +40,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-46f66b053e56abd73bb6e954d61a315b.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
@@ -221,8 +221,11 @@ ul.task-list li input[type="checkbox"] {
 <p><img src="Images/producer_sankey.png" class="img-fluid quarto-figure quarto-figure-center" style="width:100.0%"> <img src="Images/composer_sankey.png" class="img-fluid quarto-figure quarto-figure-center" style="width:100.0%"></p>
 </div>
 </div>
-<p>To map Sailor Shift’s professional network, we started with her early work in the band Ivy Echoes. From there, we identified key collaborators such as Maya Jenson, Sophie Ramirez, Jade Thompson, and Lila “Lilly” Hartman. We then expanded the analysis to include the composers and lyricists she has worked with across her career.</p>
-<p>By constructing an ego network with Sailor at the center, an interesting pattern emerged. While most artists in the network are referenced through specific songs or albums, Sailor Shift is referenced as an individual. This suggests that her influence goes beyond her body of work. She functions as a creative archetype. In other words, her personal style and identity serve as a blueprint that other artists and groups draw from.</p>
+<p>Sankey Diagram -</p>
+<p>To identify Sailor Shift’s primary influences, we analyzed the producers, composers, lyricists, and performers associated with the works she has referenced throughout her career. We chose to use Sankey diagrams because they effectively visualize the complex lineage of her inspiration.</p>
+<p>In our dataset, there were no direct edges or nodes that explicitly defined who influenced Sailor Shift. Instead, the data was structured such that “Sailor song/album” nodes were connected to “person” nodes via an intermediate “source” node (representing a specific song or album by another artist).</p>
+<p>By tracing these paths, we were able to map how individual contributors link back to her specific works. This indirect mapping allowed us to derive a comprehensive view of her influences.</p>
+<p>Analysis: The resulting Sankey diagrams reveal a dense, interconnected web, indicating that her work does not stem from a single source. No individual contributor emerges as a dominant influence. Sailor Shift’s creative direction is guided less by specific individuals and more by broader musical movements, with genres such as Indie Rock, Synthwave, and Indie Folk serving as the foundational pillars of her sound.</p>
 </section>
 <section id="who-has-she-collaborated-with-and-directly-or-indirectly-influenced" class="level3">
 <h3 class="anchored" data-anchor-id="who-has-she-collaborated-with-and-directly-or-indirectly-influenced">Who has she collaborated with and directly or indirectly influenced?</h3>
@@ -237,8 +240,13 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
-<p>To map Sailor Shift’s professional network, we started with her early work in the band Ivy Echoes. From there, we identified key collaborators such as Maya Jenson, Sophie Ramirez, Jade Thompson, and Lila “Lilly” Hartman. We then expanded the analysis to include the composers and lyricists she has worked with across her career.</p>
-<p>By constructing an ego network with Sailor at the center, an interesting pattern emerged. While most artists in the network are referenced through specific songs or albums, Sailor Shift is referenced as an individual. This suggests that her influence goes beyond her body of work. She functions as a creative archetype. In other words, her personal style and identity serve as a blueprint that other artists and groups draw from.</p>
+<p>Network Diagram -</p>
+<p>A network diagram was used to map Sailor Shift’s professional network, as the dataset is inherently relational, making it the most appropriate visualization method. To identify who she has collaborated with, we first examined her previous bandmates and constructed a network diagram of her band connections. This allowed us to clearly visualize her immediate collaborative circle.</p>
+<p>We identified the band Ivy Echoes and, from there, key collaborators such as Maya Jenson, Sophie Ramirez, Jade Thompson, and Lila “Lilly” Hartman. The network diagram highlights these individuals as central nodes within her early career collaborations.</p>
+<p>Table - Beyond her bandmates, producers and composers also represent an important group of collaborators. For this subset, a table was used as it provides a clear and structured view of relationships. The table allows us to easily identify which individuals Sailor Shift worked with on specific songs across her career, making it effective for detailed comparison.</p>
+<p>Ego Network -</p>
+<p>An ego network was constructed with Sailor Shift at the center to further analyze her position and influence within the broader network. This visualization focuses on her direct connections while still providing insight into how she is referenced within the network.</p>
+<p>Analysis: A key observation is that other artists in the dataset are typically referenced through specific songs or albums. In contrast, Sailor Shift is referenced as an individual node rather than through her works, for example, Claire Holmes. This suggests that her influence extends beyond her body of work, indicating that she functions as a broader creative archetype within the network.</p>
 </section>
 <section id="how-has-she-influenced-collaborators-of-the-broader-oceanus-folk-community" class="level3">
 <h3 class="anchored" data-anchor-id="how-has-she-influenced-collaborators-of-the-broader-oceanus-folk-community">How has she influenced collaborators of the broader Oceanus Folk community?</h3>
@@ -262,7 +270,6 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
-<p>Sailor Shift’s impact on the Oceanus Folk community can be seen both in her direct collaborations and in wider industry trends. By analyzing the release timelines of her collaborators, we found that her debut acted as a turning point. It brought veteran artists out of long hiatuses and encouraged newer musicians, such as Beatrice Albright and Daniel O’Connell, to focus their work on the Oceanus Folk style.</p>
 <div class="columns">
 <div class="column" style="width:50%;">
 <div class="quarto-figure quarto-figure-center">
@@ -278,7 +285,12 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
-<p>This individual influence aligns with a larger shift in the music industry. While Dreampop was dominant during Sailor’s rise in the late 2020s, the 2030s saw Oceanus Folk surge to become the leading genre. The strong correlation between Sailor’s career trajectory and this genre’s growth suggests that she played a key role in shaping Oceanus Folk’s rise.</p>
+<p>Dot Chart -</p>
+<p>A dot chart was used to visualize collaborator activity, specifically tracking the release frequency of Sailor Shift’s collaborators over time. Each dot represents an individual collaborator’s release at a given point in time, allowing us to compare their activity levels before and after Sailor’s debut. We used her debut single in 2028 as a reference point to observe any shifts in release patterns. The dot chart makes it easy to identify trends such as gaps in activity, sudden increases in output, and overall changes in momentum.</p>
+<p>Analysis: The most notable finding is that Sailor Shift’s debut marked a turning point for several collaborators. Multiple veteran artists experienced long periods of inactivity prior to 2028, followed by a clear resurgence in releases after collaborating with her. This suggests that her debut played a role in bringing established artists out of hiatus. Additionally, newer artists such as Beatrice Albright and Daniel O’Connell exhibit a different pattern—after collaborating with Sailor Shift, they significantly increased their output within the Oceanus Folk genre. This indicates that her influence not only revitalizes established artists but also helps shape the artistic direction of emerging ones.</p>
+<p>Treemap -</p>
+<p>A treemap was used to visualize the proportion of songs released across different genres, allowing for an easy comparison of genre dominance. We focused on two decades—the 2020s and the 2030s—to capture changes before and after Sailor Shift’s rise to fame. The size of each block represents the number of songs within a genre, making shifts in genre popularity immediately visible.</p>
+<p>Analysis: The treemap highlights a clear shift in genre dominance over time. During the 2020s, Dreampop was the most prominent genre, dominating the musical landscape during Sailor’s early rise. However, in the 2030s, Oceanus Folk experienced a significant surge, overtaking other genres to become the most dominant. This transition suggests a strong correlation between Sailor Shift’s career trajectory and the rise of Oceanus Folk. While causation cannot be definitively established, the alignment of her growing influence with the genre’s expansion indicates that she likely played a key role in shaping this broader industry trend.</p>
 <hr>
 </section>
 </section>
