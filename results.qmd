@@ -9,9 +9,9 @@ date-modified: last-modified
 ## Project Resources
 
 [View GitHub Repository](https://github.com/cakemerc01/IS428_G2_VA-Project){.btn .btn-primary target="_blank"}
-<!-- [Tableau Dashboard: Task 1](https://public.tableau.com/your-link-1){.btn .btn-secondary target="_blank"}
-[Tableau Dashboard: Task 2](https://public.tableau.com/your-link-2){.btn .btn-secondary target="_blank"}
-[Tableau Dashboard: Task 3](https://public.tableau.com/your-link-3){.btn .btn-secondary target="_blank"} -->
+
+### Tableau
+- <https://public.tableau.com/app/profile/yi.ning.choo/viz/VastChallenge2025MC1Task1/SailorShiftsCareerProfile>
 :::
 
 ---
