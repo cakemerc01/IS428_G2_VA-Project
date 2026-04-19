@@ -196,7 +196,7 @@ Analysis: The visualisation reveals that Oceanus Folk has been influenced by a v
 
 ::: {.columns}
 ::: {.column width="50%"}
-![](Images%202/Radar%20Chart%20(3a).png){fig-align="center" width="100%"}
+![](Images%202/Radar%20Chart%20(3a).png){fig-align="center" width="100%" height="450px"}
 ![](Images%202/Megan%20Bennet%20Influence%20(3a).jpg){fig-align="center" width="100%"}
 :::
 
