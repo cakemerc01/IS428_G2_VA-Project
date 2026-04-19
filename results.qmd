@@ -16,6 +16,9 @@ date-modified: last-modified
 - <https://public.tableau.com/app/profile/saanvi.madan/viz/InfluencesurroundingOceanusFolkMusic/InfluencesurroundingOceanusFolkinMusicIndustry>
 - <https://public.tableau.com/app/profile/saanvi.madan/viz/ProfileofaRisingStar/ProfileofaRisngStar>
 - <https://public.tableau.com/app/profile/saanvi.madan/viz/PredictedRisingStars/PredictedRisingStars>
+
+### Tableau User Guide
+- <https://docs.google.com/document/d/e/2PACX-1vRzQl66A4pteg_JbkTLyMDYxdOjJZR_7jsHIZ_h_kbG8WugJTxUZtiiVPBLN5gEXGvrZfSBAL24lhBS/pub>
 :::
 
 ---
