@@ -216,7 +216,7 @@ Analysis: Our charts revealed that all 3 artists revealed a common trajectory of
 Looking specifically at Sailor Shift, we observe the explosive modern archetype - rapid, high-volume, high-recognition entry that reflects how the contemporary music industry rewards artists who can generate both quantity and impact quickly. The fact that Sailor Shift achieves comparable notable works in a fraction of the time is a defining characteristic of what a rising star looks like in the current era.
 Overall, while the pace of this rise has increased across generations, the core pattern remains consistent: early momentum, rapid growth in recognition, and eventual consolidation at a high level of output and influence.
 
-![](Images%202/Ancestry%20Graph%20(3a).png){fig-align="center" width="100%"}
+![](Images%202/Ancestry%20Graph%20(3a).png){fig-align="center" width="50%"}
 
 <i>Artist Ancestry Network Chart</i>
 <br>To categorise the influence of a rising star, we built an influence ancestry network diagram. 
